@@ -1,7 +1,8 @@
-pandas
 sklearn
-streamlit
 pandas
-folium
 matplotlib
 python-dateutil
+streamlit==1.35.0
+pandas==2.2.2
+folium==0.16.0
+python-dateutil==2.9.0.post0
