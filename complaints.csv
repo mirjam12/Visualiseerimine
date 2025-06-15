@@ -1,0 +1,1001 @@
+complaint_id,customer_name,complaint_date,complaint_category,resolution_status,customer_location_city,complaint_location_country,employee_responsible,satisfaction_rating,follow_up_required,escalation_level,complaint_channel,resolution_date,complaint_status,response_method,complaint_priority,Diff  in Days,Difference in Hours
+syfe-1338-7924,Adlai Coldbath,2024-05-20 12:50:22,where_s_my_money,Escalated,Mahalapye,Botswana,acoldbath0@wise.com,4,FALSE,Level 3,Chat,2024-05-29 18:14:36,Closed,Chat,Low,9,216
+haqm-3401-6935,Pierre Fairbank,2024-06-06 12:09:21,scam,Escalated,San Jerónimo,Peru,pfairbank1@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,Low,,
+whvz-0321-5067,Rita Morales,2024-06-19 13:15:14,hat,Resolved,Sho’rchi,Uzbekistan,rmorales2@wise.com,1,TRUE,,Email,2024-06-27 01:25:27,Closed,Chat,Low,8,192
+logj-9025-9395,Malinde Arent,2024-05-24 08:52:21,exchange_rate,Escalated,Ubajami,Indonesia,marent3@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,Medium,,12
+oeiv-4229-0082,Kendricks Sally,2024-02-11 13:06:48,plastic,Resolved,Bendilwungu Lor,Indonesia,ksally4@wise.com,,FALSE,,Email,,Closed,Chat,Medium,,
+fvsi-1600-1526,Nelie Kimbell,2024-04-24 19:31:25,where_s_my_money,Pending,Alto de la Estancia,Panama,nkimbell5@wise.com,,FALSE,,Email,,In Progress,Chat,Medium,,
+oott-6601-5035,Peggi Lanston,2024-02-04 17:34:55,account_deactivation,Pending,Rongelap,Marshall Islands,planston6@wise.com,,FALSE,,Phone,,Open,Chat,High,,
+ehhf-9106-0051,Elke Mitchely,2024-04-15 00:23:10,referrals,Pending,Bofuer,Indonesia,emitchely7@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+lrig-9565-0440,Susannah Dils,2024-01-12 01:38:59,assets/_investments,Resolved,Vogar,Iceland,sdils8@wise.com,2,FALSE,,Phone,2024-01-13 11:43:46,Closed,Call,High,1,24
+lwzj-6204-0590,Neale Tall,2024-02-27 06:57:53,technical_issues,Escalated,Borova,Ukraine,ntall9@wise.com,5,TRUE,Level 1,Chat,2024-03-03 11:10:11,Closed,Chat,Medium,5,120
+vckr-8302-2667,Gilberta Garvill,2024-02-14 21:45:08,scam,Resolved,Methóni,Greece,ggarvilla@wise.com,3,TRUE,,Phone,2024-02-18 05:38:14,Closed,Call,High,4,96
+ehum-5019-3149,Wiley Rikkard,2024-02-09 10:21:26,exchange_rate,Pending,Bergamo,Italy,wrikkardb@wise.com,,TRUE,,Phone,,In Progress,Call,High,,
+tutp-1647-1028,Kevina Drewery,2024-05-27 10:03:54,other,Escalated,Murzuq,Libya,kdreweryc@wise.com,3,TRUE,Level 1,Email,2024-05-30 00:27:24,Closed,Chat,Medium,3,72
+cuto-0971-2685,Daryl Cawthron,2024-01-28 01:58:25,scam,Resolved,Jinnan,China,dcawthrond@wise.com,,FALSE,,Chat,,Closed,Email,Low,,
+gpbt-4370-9395,Mandy Passler,2024-02-06 13:39:16,verification,Resolved,Suqiaoxiang,China,mpasslere@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+zsoy-1254-7170,Caritta Grayshan,2024-03-07 09:45:23,other,Escalated,Chrząstowice,Poland,cgrayshanf@wise.com,,TRUE,Level 3,Email,,Closed,Call,High,,
+pbiw-5761-9528,Micah Skase,2024-04-24 04:53:16,customer_service,Pending,Karawatu,Indonesia,mskaseg@wise.com,,FALSE,,Phone,,Open,Call,Low,,
+ofxd-8865-2727,Ebony Ower,2024-03-22 04:09:44,account_deactivation,Resolved,Kangar,Malaysia,eowerh@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+txgv-3874-4951,Doralin Jankovsky,2024-04-23 14:48:54,hat,Pending,Castleknock,Ireland,djankovskyi@wise.com,,TRUE,,Phone,,In Progress,Call,Low,,
+kfjy-9691-0698,Becki Perrycost,2024-02-13 09:50:25,plastic,Escalated,Radiměř,Czech Republic,bperrycostj@wise.com,,FALSE,Level 2,Phone,,Closed,Email,Medium,,
+aoqb-9678-2472,Merna Malitrott,2024-05-10 18:14:35,fees,Resolved,Changning,China,mmalitrottk@wise.com,,TRUE,,Email,,Closed,Call,Low,,
+ztwe-5803-9462,Karina Knivett,2024-06-21 01:56:54,technical_issues,Resolved,Gamut,Philippines,kknivettn@wise.com,3,FALSE,,Phone,2024-06-28 12:05:38,Closed,Call,Medium,7,168
+fxxr-5310-6944,Lizbeth O'Fielly,2024-01-07 05:55:12,referrals,Resolved,Bulod,Philippines,lofiellyo@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+xwcw-8922-8061,Ernestine Lomaz,2024-01-03 18:02:59,hat,Escalated,Sápes,Greece,elomazp@wise.com,,FALSE,Level 2,Email,,Closed,Email,Medium,,
+livk-9163-3522,Randy Armin,2024-04-21 16:19:20,referrals,Resolved,Avellaneda,Argentina,rarminq@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+wjve-6786-0062,Griffith Shenfisch,2024-05-23 18:30:59,referrals,Resolved,Bemposta,Portugal,gshenfischr@wise.com,2,FALSE,,Phone,2024-05-29 09:41:02,Closed,Chat,High,6,144
+jsta-4627-5849,Dar Shireff,2024-03-20 16:56:15,privacy,Resolved,Banyuresmi,Indonesia,dshireffs@wise.com,,TRUE,,Email,,Closed,Chat,High,,
+mjnv-5868-7471,Thelma Durnan,2024-03-07 22:47:12,technical_issues,Pending,Johanneshov,Sweden,tdurnant@wise.com,,TRUE,,Email,,In Progress,Call,Medium,,
+fihr-0096-6660,Wallie Shreve,2024-06-08 14:48:32,customer_service,Escalated,Pesqueira,Brazil,wshreveu@wise.com,,FALSE,Level 2,Chat,,Closed,Email,Medium,,
+ggko-0866-1426,Felike Salsbury,2024-01-02 15:56:08,other,Pending,Chalcos,Peru,fsalsburyv@wise.com,,FALSE,,Email,,In Progress,Chat,High,,
+ipmx-8506-3625,Brnaby Ricoald,2024-06-26 21:00:35,kyc_transfer_on_hold,Escalated,Qingshui,China,bricoaldw@wise.com,,FALSE,Level 3,Email,,Closed,Email,Medium,,
+gkcd-6251-0059,Pinchas Keyes,2024-03-09 12:42:57,plastic,Resolved,Đắk Glei,Vietnam,pkeyesx@wise.com,4,FALSE,,Email,2024-03-15 16:36:45,Closed,Call,Medium,6,144
+xovn-6896-8262,Sharity Calf,2024-03-02 11:05:30,other,Pending,Jianchang,China,scalfy@wise.com,,FALSE,,Phone,,In Progress,Call,Medium,,
+rwwa-5864-5432,Lianna Beaty,2024-04-27 20:47:50,plastic,Resolved,Priyutovo,Russia,lbeatyz@wise.com,4,TRUE,,Chat,2024-04-30 20:14:30,Closed,Email,High,3,72
+szfd-6943-7641,Raye Dennington,2024-01-03 18:07:32,exchange_rate,Escalated,Shuigou’ao,China,rdennington10@wise.com,,TRUE,Level 1,Email,,Closed,Call,Low,,
+jseu-5088-1208,Erastus Camlin,2024-01-05 19:50:45,privacy,Escalated,Kumlinge,Aland Islands,ecamlin11@wise.com,,FALSE,Level 1,Phone,,Closed,Chat,High,,
+wqvk-7985-6295,Jimmy Forri,2024-01-28 08:11:12,account_deactivation,Pending,Itanhandu,Brazil,jforri12@wise.com,,TRUE,,Email,,Open,Call,High,,
+huzv-3323-6602,Siffre Dureden,2024-05-02 20:12:53,verification,Pending,Boavista,Portugal,sdureden13@wise.com,,TRUE,,Chat,,In Progress,Email,Medium,,
+cefs-1024-0221,Wald Steffans,2024-03-26 15:04:41,scam,Escalated,Guatire,Venezuela,wsteffans14@wise.com,,FALSE,Level 3,Phone,,Closed,Call,Medium,,
+bvxl-3246-3761,Ethelin Medlin,2024-06-12 07:05:46,exchange_rate,Resolved,Hermanus,South Africa,emedlin15@wise.com,,FALSE,,Phone,,Closed,Call,Medium,,
+wmpo-9390-8680,Elayne Bozworth,2024-02-02 05:49:37,technical_issues,Pending,Tanxi,China,ebozworth16@wise.com,,FALSE,,Email,,In Progress,Email,Medium,,
+axtk-9713-0835,Marijn Siege,2024-06-12 21:34:23,exchange_rate,Escalated,Kawangohari,Indonesia,msiege17@wise.com,4,TRUE,Level 3,Phone,2024-06-15 06:24:15,Closed,Email,Medium,3,72
+tgqv-0516-0557,Yurik Kerswill,2024-06-12 11:41:22,technical_issues,Resolved,Perreng,Indonesia,ykerswill18@wise.com,5,FALSE,,Email,2024-06-17 04:57:11,Closed,Chat,Medium,5,120
+gulz-5017-9513,Aggie Medgwick,2024-05-28 17:38:59,account_deactivation,Resolved,Al Qubbah,Libya,amedgwick19@wise.com,,FALSE,,Chat,,Closed,Email,Medium,,
+zwmz-1678-3514,Robbert Breydin,2024-03-08 22:30:44,fees,Escalated,Penengahan,Indonesia,rbreydin1a@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Medium,,
+qjri-8695-7788,Esme McEntagart,2024-03-15 08:08:45,fees,Pending,Marseille,France,emcentagart1b@wise.com,,TRUE,,Phone,,Open,Chat,High,,
+zqlm-6897-7786,Sidnee Brouncker,2024-02-12 12:24:20,referrals,Resolved,Klang,Malaysia,sbrouncker1c@wise.com,,TRUE,,Phone,,Closed,Chat,Low,,
+nvmj-0505-2242,Washington Rymour,2024-03-17 14:37:20,technical_issues,Pending,Perpignan,France,wrymour1d@wise.com,,FALSE,,Phone,,Open,Chat,Medium,,
+lhnx-4243-1739,Finley Gronno,2024-02-05 01:32:06,assets/_investments,Escalated,Tours,France,fgronno1e@wise.com,5,FALSE,Level 1,Phone,2024-02-14 21:38:14,Closed,Call,High,9,216
+nppg-6177-3403,Leslie Aseef,2024-05-26 07:49:10,other,Pending,Caucagüito,Venezuela,laseef1f@wise.com,,TRUE,,Email,,Open,Chat,Low,,
+jqlx-2025-2570,Montgomery Reddick,2024-01-17 13:38:52,assets/_investments,Resolved,Sagaing,Myanmar,mreddick1g@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+auch-0926-1474,Silvie Bertome,2024-02-21 14:51:59,privacy,Pending,Angan,Indonesia,sbertome1h@wise.com,,TRUE,,Phone,,In Progress,Email,High,,
+urlw-7789-8789,Rodger Ranstead,2024-03-28 13:42:03,customer_service,Resolved,Eišiškės,Lithuania,rranstead1i@wise.com,1,TRUE,,Phone,2024-03-29 22:25:49,Closed,Call,High,1,24
+adok-2900-0961,Georgi Aronoff,2024-05-09 10:17:50,technical_issues,Escalated,Psebay,Russia,garonoff1j@wise.com,1,TRUE,Level 3,Email,2024-05-18 08:37:59,Closed,Chat,Medium,9,216
+eyue-5658-6495,Luke Verrechia,2024-05-02 17:08:41,privacy,Resolved,Ma'an,Jordan,lverrechia1k@wise.com,2,TRUE,,Chat,2024-05-03 10:44:32,Closed,Email,Low,1,24
+ermw-5528-8597,Wenda Delieu,2024-01-01 10:50:34,customer_service,Resolved,Kvitok,Russia,wdelieu1l@wise.com,,FALSE,,Email,,Closed,Call,Medium,,
+oayg-4488-3266,Eadith Lightbowne,2024-03-15 13:05:06,exchange_rate,Escalated,Japerejo,Indonesia,elightbowne1m@wise.com,5,TRUE,Level 3,Chat,2024-03-20 09:32:53,Closed,Chat,High,5,120
+yomk-2603-2085,Tammi Robertis,2024-03-25 11:22:18,other,Escalated,Banfora,Burkina Faso,trobertis1n@wise.com,,TRUE,Level 3,Phone,,Closed,Call,Medium,,
+ofji-6812-2007,Gun Gueste,2024-03-02 05:55:35,referrals,Resolved,Mariquita,Colombia,ggueste1o@wise.com,2,TRUE,,Chat,2024-03-03 22:06:25,Closed,Email,Medium,1,24
+qsjg-9420-8397,Owen Roan,2024-05-27 22:30:25,kyc_transfer_on_hold,Resolved,Lubbock,United States,oroan1p@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+jbmd-0915-8698,Carlene Fadian,2024-01-21 20:48:40,privacy,Pending,Dajalorong,Indonesia,cfadian1q@wise.com,,TRUE,,Phone,,Open,Chat,Medium,,
+cyyq-7650-8112,Kare Golding,2024-03-22 18:08:22,kyc_transfer_on_hold,Escalated,København,Denmark,kgolding1r@wise.com,,FALSE,Level 3,Chat,,Closed,Chat,Low,,
+zsal-0804-0261,Tuck Rathbone,2024-04-17 00:25:12,other,Resolved,Banjar Kajanan,Indonesia,trathbone1s@wise.com,3,FALSE,,Email,2024-04-24 18:59:34,Closed,Email,Medium,7,168
+jbtz-6964-6227,Velvet MacQuist,2024-04-24 02:33:20,other,Pending,Zhongxiao,China,vmacquist1t@wise.com,,FALSE,,Phone,,Open,Chat,Medium,,
+ksok-5863-0578,Tiler Jaquin,2024-04-03 23:41:13,plastic,Pending,Bayawan,Philippines,tjaquin1u@wise.com,,FALSE,,Chat,,In Progress,Call,Low,,
+jglv-5809-4329,Zonda Braidford,2024-04-28 18:12:13,exchange_rate,Escalated,Tianta,China,zbraidford1v@wise.com,5,FALSE,Level 1,Phone,2024-05-06 01:54:55,Closed,Chat,High,8,192
+fnpg-4865-3178,Caria Canon,2024-03-26 05:45:00,hat,Resolved,Bailieborough,Ireland,ccanon1w@wise.com,,FALSE,,Email,,Closed,Call,Low,,
+dmfc-4036-3199,Augustus Crompton,2024-02-14 17:09:30,other,Resolved,Poções,Brazil,acrompton1x@wise.com,1,FALSE,,Phone,2024-02-22 15:27:49,Closed,Email,Medium,8,192
+adub-4411-1181,Doll Merrgan,2024-06-01 22:58:36,kyc_transfer_on_hold,Escalated,Quanyang,China,dmerrgan1y@wise.com,,TRUE,Level 2,Phone,,Closed,Chat,Low,,
+atim-0941-6458,Dewitt Lemmanbie,2024-03-28 03:41:43,technical_issues,Escalated,Diourbel,Senegal,dlemmanbie1z@wise.com,4,TRUE,Level 1,Phone,2024-04-06 01:30:05,Closed,Chat,High,9,216
+eosy-9944-5829,Carlyle Lytle,2024-03-26 16:59:55,account_deactivation,Resolved,Khabarovsk,Russia,clytle20@wise.com,,TRUE,,Phone,,Closed,Email,High,,
+gkaq-7573-5333,Morgana Greene,2024-06-04 07:09:44,customer_service,Escalated,Huanshi,China,mgreene21@wise.com,,TRUE,Level 2,Email,,Closed,Call,Low,,
+ents-7934-5137,Emogene Housecroft,2024-01-24 11:46:45,customer_service,Escalated,Shuizhai,China,ehousecroft22@wise.com,,FALSE,Level 1,Chat,,Closed,Call,Low,,
+blik-2160-8120,Sophie Wooding,2024-04-30 02:48:54,customer_service,Escalated,Hobor,China,swooding23@wise.com,4,FALSE,Level 2,Phone,2024-05-07 12:46:56,Closed,Email,Medium,7,168
+vrqq-8537-4820,Glyn Rogge,2024-06-09 18:57:56,customer_service,Escalated,Capandanan,Philippines,grogge24@wise.com,,TRUE,Level 2,Phone,,Closed,Email,Low,,
+sgdo-6111-7026,Nadeen Liff,2024-03-29 19:52:03,where_s_my_money,Escalated,Toba,Japan,nliff25@wise.com,,TRUE,Level 2,Email,,Closed,Chat,Medium,,
+fiwg-1437-1655,Kari Willder,2024-03-28 22:25:00,hat,Pending,Rače,Slovenia,kwillder26@wise.com,,TRUE,,Email,,In Progress,Chat,Low,,
+cscz-5051-2866,Pippy Bradborne,2024-02-06 01:51:32,referrals,Escalated,Ndeaboh,Nigeria,pbradborne27@wise.com,,TRUE,Level 1,Chat,,Closed,Call,Low,,
+rplb-2775-2276,Peta Tollit,2024-06-10 10:19:36,where_s_my_money,Resolved,Uromi,Nigeria,ptollit28@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+uewm-1009-4076,Phaedra Alishoner,2024-06-02 20:00:19,technical_issues,Escalated,Khánh Hải,Vietnam,palishoner29@wise.com,,FALSE,Level 2,Phone,,Closed,Call,High,,
+hvtx-9656-7319,Hort Thurlbourne,2024-04-23 12:45:58,assets/_investments,Resolved,Matsena,Nigeria,hthurlbourne2a@wise.com,,TRUE,,Phone,,Closed,Chat,High,,
+izzn-3994-1068,Christine Dodsley,2024-02-15 10:19:08,kyc_transfer_on_hold,Resolved,Buçimas,Albania,cdodsley2b@wise.com,,FALSE,,Chat,,Closed,Call,Low,,
+xoxr-5913-8017,Hebert McHarry,2024-02-09 02:04:38,where_s_my_money,Resolved,Luokeng,China,hmcharry2c@wise.com,,FALSE,,Phone,,Closed,Email,Medium,,
+mmca-4346-7274,Larissa Dionis,2024-05-16 09:39:08,technical_issues,Escalated,Moquegua,Peru,ldionis2d@wise.com,2,FALSE,Level 1,Phone,2024-05-19 03:52:21,Closed,Chat,High,3,72
+gbou-2488-6708,Dennet Kleen,2024-03-08 22:38:45,where_s_my_money,Pending,Zarqa,Jordan,dkleen2e@wise.com,,TRUE,,Chat,,In Progress,Email,Low,,
+dqtx-3692-7985,Layla Montague,2024-01-16 01:56:42,customer_service,Resolved,Nyangao,Tanzania,lmontague2f@wise.com,3,TRUE,,Chat,2024-01-26 16:02:38,Closed,Call,Low,10,240
+uscs-5551-7960,Elene Newlove,2024-01-16 17:45:06,other,Pending,Qingyun,China,enewlove2g@wise.com,,FALSE,,Email,,Open,Call,Medium,,
+plzw-8297-4468,Orsa Collum,2024-03-17 12:48:01,exchange_rate,Resolved,Lidian,China,ocollum2h@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+tbdn-4473-5555,Cammie Bleakman,2024-03-21 11:08:50,privacy,Escalated,Shīnḏanḏ,Afghanistan,cbleakman2i@wise.com,,TRUE,Level 1,Email,,Closed,Chat,High,,
+hafr-1571-3601,Adelbert Puddicombe,2024-04-17 12:54:10,scam,Pending,Yihe,China,apuddicombe2j@wise.com,,FALSE,,Phone,,In Progress,Chat,Medium,,
+nfnm-7188-3683,Nestor McGiffie,2024-04-08 05:16:33,exchange_rate,Escalated,Gampola,Sri Lanka,nmcgiffie2k@wise.com,,FALSE,Level 1,Chat,,Closed,Call,Low,,
+wdqw-1867-5759,Rosalyn Benoist,2024-03-10 00:55:22,scam,Escalated,Gigante,Colombia,rbenoist2l@wise.com,2,FALSE,Level 3,Email,2024-03-20 08:07:43,Closed,Call,Low,10,240
+qtes-0011-2389,Chadd Celes,2024-03-14 12:11:17,verification,Pending,Nackawic,Canada,cceles2m@wise.com,,FALSE,,Email,,In Progress,Call,Low,,
+qwnf-6214-6250,Emelyne Bonass,2024-04-19 12:03:50,plastic,Escalated,Starobaltachevo,Russia,ebonass2n@wise.com,5,FALSE,Level 3,Email,2024-04-29 13:25:54,Closed,Call,Medium,10,240
+wkir-9887-2021,Luci Hamm,2024-03-11 10:14:02,scam,Pending,Mansilingan,Philippines,lhamm2o@wise.com,,TRUE,,Phone,,In Progress,Call,Medium,,
+ytud-9690-7182,Murvyn Eul,2024-05-03 21:53:30,hat,Pending,Ingå,Finland,meul2p@wise.com,,FALSE,,Phone,,In Progress,Email,Medium,,
+mpft-1042-4117,Cary Pougher,2024-03-31 19:23:09,account_deactivation,Escalated,Ulan Us,China,cpougher2q@wise.com,,TRUE,Level 3,Email,,Closed,Email,Low,,
+dcfx-8486-1597,Shurlocke Geerling,2024-06-11 07:36:13,where_s_my_money,Escalated,Babakanloa,Indonesia,sgeerling2r@wise.com,,TRUE,Level 2,Email,,Closed,Call,Low,,
+gjmt-6254-4624,Felice Paler,2024-04-09 23:06:41,assets/_investments,Escalated,Challans,France,fpaler2s@wise.com,,FALSE,Level 2,Email,,Closed,Email,Medium,,
+jndv-2943-1346,Georgianne Tiffany,2024-02-17 11:02:23,assets/_investments,Resolved,Nowy Staw,Poland,gtiffany2t@wise.com,3,FALSE,,Phone,2024-02-22 05:07:27,Closed,Chat,Low,5,120
+zuub-6322-1885,Alf Blowing,2024-04-25 17:42:12,kyc_transfer_on_hold,Resolved,Xiaojiang,China,ablowing2u@wise.com,1,FALSE,,Email,2024-05-04 23:24:16,Closed,Call,Medium,9,216
+xxpt-4112-9748,Toddy Rens,2024-01-16 10:35:54,customer_service,Escalated,Malonty,Czech Republic,trens2v@wise.com,,TRUE,Level 2,Phone,,Closed,Chat,High,,
+nmdd-3723-7825,Casandra Klemz,2024-02-21 06:53:47,other,Escalated,Ko Pha Ngan,Thailand,cklemz2w@wise.com,2,FALSE,Level 3,Email,2024-02-23 08:05:02,Closed,Chat,Low,2,48
+bckd-2013-8078,Whitby Ginity,2024-02-28 04:01:05,other,Resolved,Serra,Brazil,wginity2x@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+vssy-0081-6405,Thedric Pilbury,2024-05-13 13:14:54,assets/_investments,Pending,Yāsūf,Palestinian Territory,tpilbury2y@wise.com,,TRUE,,Chat,,In Progress,Call,Low,,
+gjsp-1404-8027,Rianon Bogies,2024-01-16 07:30:08,kyc_transfer_on_hold,Pending,Cruz Alta,Argentina,rbogies2z@wise.com,,FALSE,,Chat,,In Progress,Email,Low,,
+jxhu-3778-6378,Erena Jerche,2024-05-09 08:50:01,verification,Pending,Shuvakish,Russia,ejerche30@wise.com,,FALSE,,Phone,,Open,Call,Low,,
+hsgh-7270-2452,Yank Camois,2024-01-07 12:31:10,hat,Pending,An Châu,Vietnam,ycamois31@wise.com,,FALSE,,Chat,,In Progress,Email,Low,,
+sybd-6300-4530,Yolande Garbar,2024-04-09 21:57:14,referrals,Pending,Protaras,Cyprus,ygarbar32@wise.com,,FALSE,,Chat,,In Progress,Email,High,,
+xunv-6412-7432,Dynah Bindin,2024-02-19 18:47:59,assets/_investments,Escalated,Sabana Grande de Boyá,Dominican Republic,dbindin33@wise.com,,TRUE,Level 3,Email,,Closed,Chat,Low,,
+zqls-7980-6635,Andi Pedracci,2024-06-06 19:16:32,referrals,Resolved,Pizarrete,Dominican Republic,apedracci34@wise.com,5,FALSE,,Email,2024-06-16 15:33:48,Closed,Call,High,10,240
+bsxf-2136-7296,Emmett Rappoport,2024-04-26 16:44:24,technical_issues,Escalated,Woniuhe,China,erappoport35@wise.com,,TRUE,Level 1,Email,,Closed,Call,High,,
+ylvu-1536-4253,Jacky Izak,2024-04-11 21:05:27,exchange_rate,Pending,Datian,China,jizak36@wise.com,,FALSE,,Email,,In Progress,Chat,Low,,
+ogmv-7809-7052,Arlan Spencley,2024-03-24 00:28:23,plastic,Escalated,Acevedo,Colombia,aspencley37@wise.com,,FALSE,Level 1,Email,,Closed,Chat,Low,,
+rmik-4185-5342,Wyndham Critcher,2024-04-20 03:10:20,fees,Resolved,Indaial,Brazil,wcritcher38@wise.com,,TRUE,,Email,,Closed,Chat,Low,,
+kmdo-3370-5308,Brion Ackenson,2024-04-04 23:17:31,fees,Pending,Skien,Norway,backenson39@wise.com,,FALSE,,Email,,In Progress,Call,Medium,,
+ixan-5350-9625,Joel Timothy,2024-02-12 20:13:18,hat,Pending,Boyany,Ukraine,jtimothy3a@wise.com,,TRUE,,Email,,In Progress,Chat,Medium,,
+wpcv-9943-4773,Kissie Gland,2024-01-16 15:57:41,privacy,Escalated,Odienné,Ivory Coast,kgland3b@wise.com,,FALSE,Level 2,Email,,Closed,Call,High,,
+vbzu-1602-3507,Karlie Ingerfield,2024-03-01 12:41:07,privacy,Escalated,Poshnje,Albania,kingerfield3c@wise.com,,FALSE,Level 1,Phone,,Closed,Chat,High,,
+mcwb-7274-3859,Henri Matyukon,2024-01-21 08:11:32,hat,Escalated,Itigi,Tanzania,hmatyukon3d@wise.com,,TRUE,Level 1,Email,,Closed,Email,Medium,,
+bwjo-4374-1636,Tory Gretton,2024-03-24 23:52:24,assets/_investments,Pending,Quận Phú Nhuận,Vietnam,tgretton3e@wise.com,,FALSE,,Phone,,In Progress,Chat,Medium,,
+fppr-9378-3805,Jennine Durman,2024-04-30 14:34:13,plastic,Escalated,Los Andes,Colombia,jdurman3f@wise.com,,TRUE,Level 3,Email,,Closed,Chat,High,,
+vpkj-6399-9799,Aigneis Aleavy,2024-03-13 17:11:58,fees,Pending,Denver,United States,aaleavy3g@wise.com,,TRUE,,Chat,,Open,Call,Medium,,
+nvef-8856-9651,Deane Petry,2024-04-04 23:47:46,assets/_investments,Resolved,Kozova,Ukraine,dpetry3h@wise.com,,FALSE,,Email,,Closed,Email,Medium,,
+zrbt-0473-4863,Lazaro Jorissen,2024-04-05 08:20:54,technical_issues,Escalated,Tiling,Philippines,ljorissen3i@wise.com,2,TRUE,Level 2,Email,2024-04-07 01:18:49,Closed,Chat,High,2,48
+zupi-0158-8222,Arda Yepiskov,2024-03-13 23:41:01,where_s_my_money,Escalated,Miami,United States,ayepiskov3j@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Low,,
+krlf-3573-5243,Cinda Martinie,2024-02-14 10:03:00,plastic,Resolved,Lile,China,cmartinie3k@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+vcsu-4115-7649,Sander Lade,2024-04-02 10:32:08,customer_service,Resolved,Contraalmirante Cordero,Argentina,slade3l@wise.com,,TRUE,,Email,,Closed,Chat,Low,,
+ttmj-0072-6328,Kenna Bene,2024-06-18 22:01:34,account_deactivation,Escalated,Vuzenica,Slovenia,kbene3m@wise.com,,TRUE,Level 3,Phone,,Closed,Call,Low,,
+nxec-2213-6911,Veronique Mallard,2024-04-22 03:06:02,fees,Pending,Akriní,Greece,vmallard3n@wise.com,,FALSE,,Email,,In Progress,Chat,Medium,,
+zcxv-9469-6229,Walt Sketch,2024-06-01 20:38:37,privacy,Resolved,Bungtiang Barat,Indonesia,wsketch3o@wise.com,,FALSE,,Chat,,Closed,Call,High,,
+phfi-2565-5491,Salim Keeble,2024-05-01 06:05:28,account_deactivation,Escalated,Purranque,Chile,skeeble3p@wise.com,3,TRUE,Level 3,Email,2024-05-02 07:24:43,Closed,Call,Medium,1,24
+vjfx-2901-9749,Jackie Ugolini,2024-05-09 11:44:32,fees,Pending,Maceo,Colombia,jugolini3q@wise.com,,TRUE,,Chat,,Open,Email,Medium,,
+exbg-9718-5186,Anders Barraclough,2024-02-16 02:36:51,referrals,Escalated,Fundación,Dominican Republic,abarraclough3r@wise.com,1,FALSE,Level 3,Phone,2024-02-20 21:59:24,Closed,Email,High,4,96
+qpdx-7507-8772,Anthe Chatterton,2024-05-17 02:00:35,assets/_investments,Resolved,Xinquan,China,achatterton3s@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+voks-9369-2474,Anatollo Mogie,2024-04-26 03:19:52,verification,Resolved,Bang Racham,Thailand,amogie3t@wise.com,,TRUE,,Chat,,Closed,Call,Medium,,
+wywv-8401-3864,Florrie Niche,2024-03-01 18:31:48,referrals,Resolved,Besançon,France,fniche3u@wise.com,,TRUE,,Phone,,Closed,Chat,Low,,
+dmmf-6174-5250,Artair Brunner,2024-03-12 23:42:48,where_s_my_money,Pending,Charlotte,United States,abrunner3v@wise.com,,TRUE,,Phone,,In Progress,Email,Low,,
+kubq-1068-2041,Elfreda Flavelle,2024-02-25 22:51:46,assets/_investments,Resolved,Sparks,United States,eflavelle3w@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+eqzv-7145-1497,Giacobo Stollenberg,2024-06-29 15:11:38,other,Pending,Nong Bua Lamphu,Thailand,gstollenberg3x@wise.com,,FALSE,,Phone,,Open,Email,Low,,
+jote-1601-3426,Sylvia Doughty,2024-03-19 03:05:30,verification,Resolved,Avaré,Brazil,sdoughty3y@wise.com,,FALSE,,Phone,,Closed,Email,High,,
+mafu-6143-9253,Dynah Oneill,2024-03-26 00:04:24,account_deactivation,Resolved,San Jorge,Argentina,doneill3z@wise.com,2,FALSE,,Phone,2024-04-04 00:26:31,Closed,Chat,Medium,9,216
+gefd-7116-3294,Gavrielle Schult,2024-06-25 16:10:10,scam,Resolved,Karangkancana,Indonesia,gschult40@wise.com,,FALSE,,Phone,,Closed,Chat,Medium,,
+ipxw-2045-4867,Sheena Mateo,2024-04-24 04:32:36,referrals,Escalated,Zbrosławice,Poland,smateo41@wise.com,,TRUE,Level 1,Email,,Closed,Chat,High,,
+eehl-4798-4339,Ky Dradey,2024-03-04 05:27:53,exchange_rate,Resolved,Zvole,Czech Republic,kdradey42@wise.com,,FALSE,,Chat,,Closed,Email,Medium,,
+plbv-6440-8904,Madel Galton,2024-06-18 22:48:51,other,Resolved,Naranjal,Paraguay,mgalton43@wise.com,,FALSE,,Phone,,Closed,Call,High,,
+oqpa-0559-9354,Sammie Burnyeat,2024-03-02 00:50:06,kyc_transfer_on_hold,Resolved,Lady Grey,South Africa,sburnyeat44@wise.com,,FALSE,,Phone,,Closed,Email,Medium,,
+asnp-4273-4160,Millie Larive,2024-04-21 10:47:39,privacy,Escalated,Kula,Bulgaria,mlarive45@wise.com,,TRUE,Level 1,Phone,,Closed,Call,Medium,,
+upws-8321-8272,Jeane Goublier,2024-01-28 12:36:19,account_deactivation,Escalated,Bryukhovetskaya,Russia,jgoublier46@wise.com,,FALSE,Level 2,Phone,,Closed,Call,Medium,,
+xyjt-3524-0867,Fred Rodmell,2024-02-20 10:44:07,fees,Pending,Lobos,Argentina,frodmell47@wise.com,,TRUE,,Email,,Open,Chat,Low,,
+sdue-9380-5059,Franzen Santore,2024-03-29 04:46:24,assets/_investments,Escalated,Ningchegu,China,fsantore48@wise.com,,TRUE,Level 2,Chat,,Closed,Email,Low,,
+oupq-2067-1036,Aeriell Rentoll,2024-04-01 19:16:02,assets/_investments,Resolved,Vân Đình,Vietnam,arentoll49@wise.com,,TRUE,,Email,,Closed,Chat,Low,,
+fgai-7770-0063,Kory Varvara,2024-05-23 19:07:45,account_deactivation,Escalated,Korisós,Greece,kvarvara4a@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,Medium,,
+fmxg-6691-0057,Osmond Pendrill,2024-01-15 06:03:57,assets/_investments,Pending,Ciranca,Indonesia,opendrill4b@wise.com,,FALSE,,Chat,,Open,Email,High,,
+iloa-7719-4043,Kathleen Bothie,2024-04-23 19:29:02,hat,Escalated,Takum,Nigeria,kbothie4c@wise.com,2,FALSE,Level 3,Email,2024-04-27 06:05:09,Closed,Chat,Low,4,96
+yydo-3471-7300,Ellette Capron,2024-01-28 15:07:01,technical_issues,Escalated,Yongjiahe,China,ecapron4d@wise.com,,FALSE,Level 3,Email,,Closed,Email,Low,,
+gqgi-7184-8840,Ferrell Haily,2024-04-06 22:04:00,referrals,Pending,Aviúges,Portugal,fhaily4e@wise.com,,TRUE,,Phone,,Open,Chat,Medium,,
+zgql-1802-0916,Anatole Langston,2024-01-28 04:55:55,referrals,Resolved,Tanguá,Brazil,alangston4f@wise.com,3,FALSE,,Phone,2024-02-02 11:41:30,Closed,Chat,Low,5,120
+vvla-6685-9057,Ralph Mc Comb,2024-06-10 04:29:53,verification,Pending,Kolmården,Sweden,rmc4g@wise.com,,TRUE,,Email,,In Progress,Chat,High,,
+codt-0957-8267,Dona Hackworth,2024-06-20 13:14:00,referrals,Resolved,Huxi,China,dhackworth4h@wise.com,1,FALSE,,Chat,2024-06-30 22:24:49,Closed,Chat,Low,10,240
+ebsl-2450-8546,Cecil Dederick,2024-06-14 18:02:06,hat,Escalated,Phra Yuen,Thailand,cdederick4i@wise.com,,FALSE,Level 1,Chat,,Closed,Chat,Low,,
+htyn-9732-4156,Harriott Alders,2024-02-15 20:12:53,plastic,Pending,Chornukhy,Ukraine,halders4j@wise.com,,FALSE,,Email,,In Progress,Email,Low,,
+czrh-1065-7326,Eulalie Greatham,2024-04-23 22:05:39,assets/_investments,Resolved,Bystra,Poland,egreatham4k@wise.com,5,FALSE,,Phone,2024-05-03 21:15:32,Closed,Chat,Low,10,240
+igei-7359-0380,Matthias Duddle,2024-05-17 04:32:24,technical_issues,Pending,Ganting,China,mduddle4l@wise.com,,TRUE,,Phone,,In Progress,Chat,High,,
+erbr-9280-0856,Maye Thow,2024-06-06 17:56:14,scam,Escalated,Arras,France,mthow4m@wise.com,4,FALSE,Level 3,Phone,2024-06-07 03:35:23,Closed,Chat,High,1,24
+jari-2196-8637,Murial MacRirie,2024-04-20 00:35:27,plastic,Resolved,Talisayan,Philippines,mmacririe4n@wise.com,,FALSE,,Phone,,Closed,Call,High,,
+ihbx-5744-5836,Stesha Blastock,2024-01-23 18:55:02,technical_issues,Escalated,Sasayama,Japan,sblastock4o@wise.com,,TRUE,Level 3,Email,,Closed,Email,High,,
+zhqq-6640-7038,Tuck Guidi,2024-04-29 00:17:44,other,Escalated,Angasmarca,Peru,tguidi4p@wise.com,,TRUE,Level 2,Phone,,Closed,Email,Low,,
+ezgt-5940-9202,Freedman Petrasek,2024-04-24 09:46:10,technical_issues,Escalated,Montgomery,United States,fpetrasek4q@wise.com,,TRUE,Level 3,Phone,,Closed,Email,Medium,,
+lukj-0666-7341,Nikki Byllam,2024-05-13 17:54:36,other,Pending,Borzęta,Poland,nbyllam4r@wise.com,,TRUE,,Email,,Open,Email,Medium,,
+ocom-0762-1133,Teodora Bestiman,2024-04-26 08:04:59,referrals,Escalated,El Cuy,Argentina,tbestiman4s@wise.com,,TRUE,Level 2,Email,,Closed,Email,Low,,
+ltfi-4353-8386,Cortney Haverson,2024-02-24 06:00:59,account_deactivation,Pending,Calvos,Portugal,chaverson4t@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+dsip-5384-8530,Anne Goodge,2024-05-09 00:49:30,exchange_rate,Resolved,Brześć Kujawski,Poland,agoodge4u@wise.com,1,FALSE,,Phone,2024-05-15 21:08:30,Closed,Email,Low,6,144
+rmno-6321-3848,Carl Borsnall,2024-06-25 01:18:25,exchange_rate,Resolved,Baishui,China,cborsnall4v@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+yknw-1546-5995,Janaya Iacoviello,2024-06-16 21:25:34,technical_issues,Pending,Mayo,Thailand,jiacoviello4w@wise.com,,TRUE,,Phone,,Open,Call,Low,,
+mmrs-0969-4096,Tate Watmore,2024-01-29 22:38:21,other,Resolved,Várzea,Portugal,twatmore4x@wise.com,3,TRUE,,Chat,2024-02-03 18:19:08,Closed,Call,Medium,5,120
+bfme-3580-0050,Taddeusz Gooderick,2024-03-18 08:44:28,assets/_investments,Escalated,Cañasgordas,Colombia,tgooderick4y@wise.com,,FALSE,Level 3,Phone,,Closed,Email,High,,
+spmi-6613-0759,Berton Lyford,2024-01-04 04:33:51,exchange_rate,Pending,Lebak,Indonesia,blyford4z@wise.com,,TRUE,,Email,,In Progress,Chat,Low,,
+cglw-6796-7897,Penn Cuthbert,2024-01-07 21:31:41,fees,Resolved,Punta de Bombón,Peru,pcuthbert50@wise.com,,TRUE,,Email,,Closed,Email,Medium,,
+jkgk-9074-3144,Clair Luckings,2024-06-10 15:24:50,hat,Escalated,Tuncheng,China,cluckings51@wise.com,,FALSE,Level 2,Phone,,Closed,Chat,High,,
+thxw-7813-8351,Ellswerth Manifould,2024-05-04 02:37:59,account_deactivation,Escalated,Nueva Fuerza,Philippines,emanifould52@wise.com,,TRUE,Level 1,Chat,,Closed,Call,High,,
+nqdk-8943-9024,Blake Lefeaver,2024-06-07 12:49:26,account_deactivation,Escalated,Río,Greece,blefeaver53@wise.com,4,FALSE,Level 3,Chat,2024-06-09 04:55:26,Closed,Email,Medium,2,48
+psxe-1325-9202,Carey Lacaze,2024-02-20 17:20:09,scam,Pending,Fenghuangshan,China,clacaze54@wise.com,,TRUE,,Phone,,In Progress,Email,High,,
+dwpt-6647-0670,Cart Idenden,2024-06-15 14:17:11,fees,Resolved,Sampués,Colombia,cidenden55@wise.com,3,FALSE,,Email,2024-06-25 13:38:18,Closed,Chat,High,10,240
+tzei-9459-1987,Carlin Belshaw,2024-04-24 20:50:23,fees,Escalated,Sidzina,Poland,cbelshaw56@wise.com,,TRUE,Level 1,Chat,,Closed,Chat,Medium,,
+jdob-8695-9454,Zolly MacNish,2024-04-11 17:04:43,account_deactivation,Resolved,El Kef,Tunisia,zmacnish57@wise.com,,FALSE,,Email,,Closed,Chat,High,,
+lrqe-7835-6099,Roxie Fuente,2024-03-06 05:12:54,referrals,Pending,Ḩalabjah,Iraq,rfuente58@wise.com,,TRUE,,Email,,In Progress,Call,Low,,
+nyho-1073-9331,Andromache MacTimpany,2024-01-02 21:03:36,account_deactivation,Escalated,Lakshmīpur,Bangladesh,amactimpany59@wise.com,,FALSE,Level 3,Chat,,Closed,Email,Medium,,
+bkgk-0665-7566,Brooke Slader,2024-05-22 09:32:20,hat,Resolved,Gyamco,China,bslader5a@wise.com,,FALSE,,Chat,,Closed,Call,High,,
+ycpg-7464-9521,Benyamin Jilkes,2024-02-06 05:27:57,other,Resolved,Constance,Portugal,bjilkes5b@wise.com,,TRUE,,Email,,Closed,Email,Low,,
+kpqo-5649-1975,Andres Feitosa,2024-02-23 21:10:04,where_s_my_money,Escalated,Sepulu,Indonesia,afeitosa5c@wise.com,,TRUE,Level 1,Chat,,Closed,Call,Low,,
+lsqi-2486-3597,Spenser Smither,2024-02-28 05:16:03,customer_service,Pending,Sōka,Japan,ssmither5d@wise.com,,TRUE,,Email,,Open,Email,Medium,,
+slwu-2390-7696,Hube Izakof,2024-01-11 14:18:35,account_deactivation,Resolved,Gimbi,Ethiopia,hizakof5e@wise.com,,FALSE,,Email,,Closed,Call,High,,
+bscj-6597-3775,Sophronia Barrington,2024-02-10 15:32:00,scam,Pending,Shawnee Mission,United States,sbarrington5f@wise.com,,TRUE,,Chat,,In Progress,Email,Medium,,
+agwl-6193-0987,Cleveland Crowd,2024-01-24 09:06:44,hat,Pending,Kyrylivka,Ukraine,ccrowd5g@wise.com,,TRUE,,Chat,,In Progress,Call,Medium,,
+ytmb-8577-2216,Rodolph Genery,2024-05-30 20:01:22,where_s_my_money,Pending,Muarabadak,Indonesia,rgenery5h@wise.com,,TRUE,,Chat,,In Progress,Email,Low,,
+wjmv-6115-9382,Vernice Onion,2024-03-21 15:35:04,scam,Escalated,Cachada,Portugal,vonion5i@wise.com,3,TRUE,Level 1,Phone,2024-03-22 13:57:55,Closed,Email,High,1,24
+cnrd-5151-5297,Cloris Ruckman,2024-01-06 18:52:57,exchange_rate,Escalated,Shifan,China,cruckman5j@wise.com,4,TRUE,Level 1,Chat,2024-01-16 07:37:16,Closed,Chat,High,10,240
+hkkr-1582-1830,Hallie Waples,2024-04-30 07:57:09,fees,Resolved,Alua,Philippines,hwaples5k@wise.com,,TRUE,,Email,,Closed,Email,High,,
+jvtm-2715-8252,Augusta Timson,2024-01-06 14:46:00,kyc_transfer_on_hold,Resolved,Parachinar,Pakistan,atimson5l@wise.com,,TRUE,,Chat,,Closed,Email,Medium,,
+kwks-1818-3306,Reynard Irnys,2024-04-07 06:41:42,where_s_my_money,Escalated,Guaraciaba do Norte,Brazil,rirnys5m@wise.com,,FALSE,Level 2,Phone,,Closed,Chat,High,,
+dnvr-3739-6849,Hedi Almak,2024-06-11 00:35:02,verification,Resolved,Juncheng,China,halmak5n@wise.com,5,TRUE,,Email,2024-06-12 07:35:59,Closed,Chat,High,1,24
+qnjq-3793-1604,Celie Spiller,2024-03-01 06:15:38,exchange_rate,Resolved,Vân Tùng,Vietnam,cspiller5o@wise.com,,TRUE,,Chat,,Closed,Call,Medium,,
+wsox-8289-6111,Darb Gogerty,2024-01-23 03:47:59,assets/_investments,Resolved,Sukth,Albania,dgogerty5p@wise.com,,TRUE,,Phone,,Closed,Call,Low,,
+vggd-7064-4182,Lorry Toner,2024-06-19 11:35:16,exchange_rate,Escalated,Schenectady,United States,ltoner5q@wise.com,,FALSE,Level 2,Email,,Closed,Chat,High,,
+kyjo-0397-4416,Bonnee Conry,2024-02-07 04:44:24,technical_issues,Pending,Platičevo,Serbia,bconry5r@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+qyki-7607-9394,Sacha Dyshart,2024-03-28 09:45:00,technical_issues,Escalated,Potoci,Bosnia and Herzegovina,sdyshart5s@wise.com,1,TRUE,Level 1,Phone,2024-03-31 11:32:03,Closed,Call,Medium,3,72
+qhtk-3240-3076,Delora Corro,2024-04-13 19:33:18,assets/_investments,Resolved,Farasān,Saudi Arabia,dcorro5t@wise.com,1,FALSE,,Phone,2024-04-23 21:34:12,Closed,Call,Low,10,240
+lfnl-8167-6021,Corie Flight,2024-02-15 13:28:56,technical_issues,Pending,Buenavista,Philippines,cflight5u@wise.com,,TRUE,,Phone,,In Progress,Call,High,,
+xtqf-9481-2469,Lon Rendell,2024-01-28 15:16:05,verification,Resolved,Sarāqib,Syria,lrendell5v@wise.com,4,FALSE,,Chat,2024-02-01 23:21:28,Closed,Email,Low,4,96
+noes-1688-8136,Terry Stickler,2024-04-04 03:30:53,verification,Escalated,Obrenovac,Serbia,tstickler5w@wise.com,,FALSE,Level 3,Phone,,Closed,Chat,High,,
+nxfj-6150-0953,Sinclare Kassel,2024-01-13 18:32:43,technical_issues,Escalated,Kopen,Indonesia,skassel5x@wise.com,,TRUE,Level 1,Chat,,Closed,Call,High,,
+nege-2594-8007,Thorny Asprey,2024-06-23 02:36:53,exchange_rate,Escalated,Pittsburgh,United States,tasprey5y@wise.com,3,FALSE,Level 3,Chat,2024-06-29 10:07:15,Closed,Call,Low,6,144
+jijm-2776-7787,Dave Spohrmann,2024-04-05 17:09:43,privacy,Resolved,Xingguo,China,dspohrmann5z@wise.com,,FALSE,,Email,,Closed,Chat,Low,,
+sopf-2683-1131,Chicky Gowling,2024-06-21 07:14:09,kyc_transfer_on_hold,Pending,Czarne,Poland,cgowling60@wise.com,,FALSE,,Email,,In Progress,Chat,Low,,
+gsul-9517-7268,Emerson Glencorse,2024-06-18 16:50:02,exchange_rate,Resolved,Griboyedov,Armenia,eglencorse61@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+otnn-9267-1005,Celestine Graffin,2024-01-28 20:08:09,account_deactivation,Resolved,Ludvika,Sweden,cgraffin62@wise.com,3,FALSE,,Chat,2024-02-04 16:42:14,Closed,Email,Low,7,168
+fsqc-4036-4698,Sisile Carreyette,2024-01-25 12:56:25,plastic,Resolved,Itaitinga,Brazil,scarreyette63@wise.com,,FALSE,,Phone,,Closed,Call,Medium,,
+ssrp-6618-1151,Lari Cosgry,2024-05-22 09:55:02,exchange_rate,Pending,Trnovlje pri Celju,Slovenia,lcosgry64@wise.com,,FALSE,,Phone,,In Progress,Email,Medium,,
+ampb-1631-5617,Angy Vannuccinii,2024-04-13 04:53:43,where_s_my_money,Resolved,Lancang,Indonesia,avannuccinii65@wise.com,3,FALSE,,Phone,2024-04-14 06:25:48,Closed,Chat,Low,1,24
+tpjp-2877-5191,Lonni Reuven,2024-03-23 05:22:48,referrals,Resolved,Chengzhong,China,lreuven66@wise.com,,FALSE,,Email,,Closed,Chat,High,,
+rdnt-4512-6417,Dov Fearfull,2024-03-14 03:10:21,technical_issues,Pending,Fushun,China,dfearfull67@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+pccq-3962-9161,Feliks Dennett,2024-03-22 02:27:34,where_s_my_money,Pending,Créteil,France,fdennett68@wise.com,,TRUE,,Chat,,In Progress,Call,Medium,,
+peyp-6578-1395,Debora Kibby,2024-06-01 22:03:36,privacy,Pending,Ashbourne,Ireland,dkibby69@wise.com,,FALSE,,Email,,In Progress,Call,Medium,,
+yecw-4748-2726,Tadeas Tarquini,2024-01-10 13:24:21,account_deactivation,Escalated,Sungaibengkal,Indonesia,ttarquini6a@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Medium,,
+ozbh-1263-1885,Cori Balharrie,2024-03-04 19:47:00,plastic,Escalated,Kerema,Papua New Guinea,cbalharrie6b@wise.com,5,FALSE,Level 3,Phone,2024-03-08 07:44:27,Closed,Call,High,4,96
+nobk-8731-0136,Hoyt Bison,2024-05-17 17:38:00,where_s_my_money,Resolved,Pingshan,China,hbison6c@wise.com,2,TRUE,,Phone,2024-05-25 04:17:45,Closed,Chat,Low,8,192
+gygl-4676-7933,Bambie Paffett,2024-04-06 13:49:26,referrals,Pending,Azara,Argentina,bpaffett6d@wise.com,,FALSE,,Phone,,In Progress,Email,High,,
+uyvl-9758-2513,Belicia Crates,2024-04-03 12:40:01,exchange_rate,Resolved,Shapaja,Peru,bcrates6e@wise.com,,FALSE,,Email,,Closed,Call,High,,
+cfhs-1882-8660,Heriberto Ketts,2024-04-05 01:35:32,other,Resolved,Minusinsk,Russia,hketts6f@wise.com,,TRUE,,Chat,,Closed,Email,Medium,,
+foxs-0813-5784,Danni Uff,2024-04-12 08:55:33,other,Pending,Tekstil’shchiki,Russia,duff6g@wise.com,,FALSE,,Email,,In Progress,Chat,Medium,,
+vqpv-6812-2596,Mal Osgodby,2024-01-15 11:28:10,privacy,Escalated,Bayt ‘Awwā,Palestinian Territory,mosgodby6h@wise.com,5,TRUE,Level 3,Email,2024-01-23 14:52:28,Closed,Chat,High,8,192
+bqcr-2847-3377,Andromache Woodworth,2024-04-07 07:27:57,where_s_my_money,Pending,Göteborg,Sweden,awoodworth6i@wise.com,,FALSE,,Chat,,In Progress,Chat,Low,,
+zlbk-3777-6758,Derward Olorenshaw,2024-03-30 04:38:17,verification,Pending,Montigny-lès-Metz,France,dolorenshaw6j@wise.com,,FALSE,,Chat,,Open,Email,Low,,
+apoa-7215-3419,Tracie Cutill,2024-02-22 21:27:49,assets/_investments,Pending,Bobojong,Indonesia,tcutill6k@wise.com,,TRUE,,Email,,In Progress,Chat,Medium,,
+texm-9695-5690,Muhammad Skalls,2024-01-21 04:32:09,hat,Resolved,Sidi Amar,Morocco,mskalls6l@wise.com,,TRUE,,Email,,Closed,Call,Low,,
+wcja-0935-3072,Jazmin Curphey,2024-01-30 10:01:12,assets/_investments,Pending,Mata de São João,Brazil,jcurphey6m@wise.com,,FALSE,,Chat,,Open,Email,Low,,
+tcwk-0099-1138,Sonni Dalton,2024-06-21 03:28:21,other,Escalated,Karangsuko,Indonesia,sdalton6n@wise.com,3,FALSE,Level 1,Phone,2024-06-25 21:44:07,Closed,Chat,Medium,4,96
+nwlc-7105-4911,Madeline Dy,2024-02-05 18:58:57,verification,Resolved,Waitangi,New Zealand,mdy6o@wise.com,3,FALSE,,Phone,2024-02-09 11:32:14,Closed,Email,Low,4,96
+yvbj-3874-1812,Zuzana Baine,2024-06-14 07:04:21,technical_issues,Escalated,Niort,France,zbaine6p@wise.com,,TRUE,Level 3,Phone,,Closed,Call,Medium,,
+ylbp-2889-6192,Gweneth Steffens,2024-05-04 08:35:57,scam,Resolved,Dashu,China,gsteffens6q@wise.com,4,TRUE,,Phone,2024-05-14 02:47:39,Closed,Chat,Medium,10,240
+jbvy-9615-7006,Christoper Wigzell,2024-01-04 08:23:38,account_deactivation,Escalated,Canauay,Philippines,cwigzell6r@wise.com,5,TRUE,Level 1,Chat,2024-01-12 11:54:17,Closed,Call,Medium,8,192
+hrzq-9583-4772,Sullivan Tasker,2024-04-30 02:35:38,privacy,Escalated,Kuteynykove,Ukraine,stasker6s@wise.com,,TRUE,Level 1,Phone,,Closed,Call,Low,,
+vrtk-7056-1789,Madlen Cloney,2024-01-09 17:54:47,customer_service,Resolved,Lamut,Philippines,mcloney6t@wise.com,,FALSE,,Email,,Closed,Call,Medium,,
+arum-5874-0337,Cassie Dudliston,2024-06-21 01:26:34,exchange_rate,Resolved,Gurra e Vogël,Albania,cdudliston6u@wise.com,,TRUE,,Chat,,Closed,Call,High,,
+spqp-5475-4411,Tybalt Ould,2024-02-29 04:56:29,customer_service,Resolved,Sarangmeduro,Indonesia,tould6v@wise.com,,TRUE,,Email,,Closed,Chat,Medium,,
+nahb-0863-6272,Marcellus Gruczka,2024-03-29 15:59:18,where_s_my_money,Pending,Pedreira,Brazil,mgruczka6w@wise.com,,FALSE,,Phone,,Open,Email,Low,,
+ohdf-2487-1080,Riki Gwillim,2024-03-24 03:53:51,assets/_investments,Escalated,Xinji,China,rgwillim6x@wise.com,,FALSE,Level 1,Chat,,Closed,Chat,High,,
+hlod-6708-0159,Noemi Bunnell,2024-06-12 10:27:56,plastic,Escalated,Xicheng,China,nbunnell6y@wise.com,,FALSE,Level 3,Email,,Closed,Email,Medium,,
+flgd-7340-8989,Sybila Blaker,2024-02-12 10:11:06,hat,Resolved,Korczew,Poland,sblaker6z@wise.com,3,TRUE,,Phone,2024-02-21 22:33:43,Closed,Call,Low,9,216
+tdfw-7940-9460,Aldridge Walentynowicz,2024-01-17 00:51:39,scam,Escalated,Kabor,Indonesia,awalentynowicz70@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,Low,,
+tfyy-1161-3128,Sadie Fordham,2024-05-06 03:40:47,fees,Resolved,Ban Takhun,Thailand,sfordham71@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+cnnd-9313-9760,Rocky Gaish,2024-01-26 10:46:25,technical_issues,Escalated,Dolní Lhota,Czech Republic,rgaish72@wise.com,,FALSE,Level 2,Chat,,Closed,Chat,Low,,
+qske-9489-4718,Aron Claridge,2024-01-16 19:52:09,exchange_rate,Pending,Tebingtinggi,Indonesia,aclaridge73@wise.com,,TRUE,,Email,,In Progress,Email,Low,,
+wlfr-0205-1356,Dredi Camelin,2024-03-04 00:28:22,assets/_investments,Resolved,Oetua,Indonesia,dcamelin74@wise.com,,TRUE,,Email,,Closed,Call,High,,
+tlip-0892-3945,Guilbert Sheehan,2024-01-03 15:18:44,exchange_rate,Pending,Bilyayivka,Ukraine,gsheehan75@wise.com,,FALSE,,Email,,In Progress,Call,High,,
+kipx-7910-6882,Thayne Cridlin,2024-04-22 14:31:27,privacy,Pending,Las Mercedes,Venezuela,tcridlin76@wise.com,,FALSE,,Chat,,In Progress,Chat,Medium,,
+wkii-7703-6213,Abbi Chasier,2024-04-11 01:18:05,technical_issues,Pending,Kipen’,Russia,achasier77@wise.com,,TRUE,,Email,,Open,Call,High,,
+mtxu-4036-6402,Kerianne Drissell,2024-05-15 18:56:33,exchange_rate,Escalated,Yeyik,China,kdrissell78@wise.com,,TRUE,Level 2,Phone,,Closed,Call,Low,,
+ulnz-0116-3273,Freddy Poynton,2024-04-24 07:47:21,fees,Pending,Yongning,China,fpoynton79@wise.com,,TRUE,,Chat,,In Progress,Chat,Low,,
+mctn-7157-7179,Bernie Jeannesson,2024-06-22 17:01:32,verification,Resolved,Donja Mahala,Bosnia and Herzegovina,bjeannesson7a@wise.com,,TRUE,,Email,,Closed,Call,High,,
+hrks-5249-2159,Mikael Lesser,2024-03-12 06:09:07,verification,Pending,Ratíškovice,Czech Republic,mlesser7b@wise.com,,FALSE,,Phone,,Open,Chat,Low,,
+avva-4300-7577,Pietro Caldwell,2024-05-22 14:00:11,technical_issues,Pending,Tavricheskoye,Russia,pcaldwell7c@wise.com,,FALSE,,Email,,Open,Chat,Medium,,
+dmmu-1511-7989,Aldin Suthworth,2024-04-29 00:18:40,fees,Pending,Kholm,Russia,asuthworth7d@wise.com,,FALSE,,Phone,,In Progress,Chat,Low,,
+itwe-5916-4628,Ashlie Ochterlony,2024-04-24 17:50:30,plastic,Resolved,Las Higueras,Argentina,aochterlony7e@wise.com,,TRUE,,Chat,,Closed,Call,Medium,,
+lbfv-7274-9200,Georgetta Wilprecht,2024-06-10 05:10:50,referrals,Escalated,Dziergowice,Poland,gwilprecht7f@wise.com,,FALSE,Level 1,Email,,Closed,Call,High,,
+rnbf-9966-5290,Jacquenetta Reedie,2024-04-14 05:33:04,customer_service,Resolved,Tianjiazhuang,China,jreedie7g@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+ygzt-6521-3914,Aimil Cooksey,2024-05-18 10:27:59,exchange_rate,Resolved,Mumias,Kenya,acooksey7h@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+yqyt-7079-4316,Harbert Lisle,2024-03-13 10:10:15,scam,Escalated,Sangari,Indonesia,hlisle7i@wise.com,4,TRUE,Level 1,Email,2024-03-20 01:07:12,Closed,Call,Low,7,168
+diva-8648-2674,Kippar Buckleigh,2024-04-06 08:18:21,account_deactivation,Escalated,Sietesz,Poland,kbuckleigh7j@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Low,,
+nuuw-1492-5123,Ethelda Tolchar,2024-02-19 19:34:25,referrals,Pending,Ganping,China,etolchar7k@wise.com,,FALSE,,Chat,,In Progress,Email,Medium,,
+ioyb-1643-7416,Lynelle Gowan,2024-06-12 02:27:41,hat,Escalated,Kasembon,Indonesia,lgowan7l@wise.com,,FALSE,Level 1,Phone,,Closed,Email,Medium,,
+cfkj-7345-3237,Cleo Perfect,2024-05-17 16:02:12,referrals,Escalated,Fonte,Portugal,cperfect7m@wise.com,,TRUE,Level 3,Chat,,Closed,Email,High,,
+dldd-4889-0920,Elysee Speir,2024-04-01 03:35:23,customer_service,Escalated,Kendari,Indonesia,espeir7n@wise.com,,FALSE,Level 2,Email,,Closed,Chat,Low,,
+xiab-4870-9829,Eleonore Teall,2024-02-18 14:59:54,kyc_transfer_on_hold,Pending,San Fernando,Honduras,eteall7o@wise.com,,TRUE,,Phone,,Open,Chat,Medium,,
+azwm-7882-2171,Rossie Greensitt,2024-01-17 11:09:50,scam,Escalated,São Gotardo,Brazil,rgreensitt7p@wise.com,3,FALSE,Level 2,Email,2024-01-20 04:15:11,Closed,Call,Low,3,72
+rgyl-0544-1234,Farand Grain,2024-03-30 17:46:12,customer_service,Resolved,Fengjiang,China,fgrain7q@wise.com,3,FALSE,,Chat,2024-04-01 20:46:03,Closed,Call,High,2,48
+eija-7145-8121,Madelene Ruddick,2024-04-29 19:03:37,fees,Resolved,La Dorada,Colombia,mruddick7r@wise.com,,TRUE,,Chat,,Closed,Chat,Medium,,
+fsus-9216-4622,Grethel Beades,2024-04-30 21:16:31,hat,Resolved,Hamburg,Germany,gbeades7s@wise.com,,FALSE,,Phone,,Closed,Email,Medium,,
+voaf-3336-7650,Adda Hawkshaw,2024-04-16 18:38:14,verification,Pending,Santo Domingo Oeste,Dominican Republic,ahawkshaw7t@wise.com,,FALSE,,Email,,In Progress,Chat,High,,
+avvr-0270-4935,Daisy Grouse,2024-04-04 15:07:55,where_s_my_money,Resolved,Länsi-Turunmaa,Finland,dgrouse7u@wise.com,,TRUE,,Email,,Closed,Chat,Low,,
+jgjw-5894-5928,Danyette Hynde,2024-04-21 00:43:07,assets/_investments,Escalated,Goma,Democratic Republic of the Congo,dhynde7v@wise.com,2,TRUE,Level 2,Chat,2024-04-24 18:05:18,Closed,Email,Medium,3,72
+pvih-8653-6209,Esra Gollard,2024-02-26 00:41:34,scam,Pending,Toba,Serbia,egollard7w@wise.com,,FALSE,,Phone,,Open,Call,Low,,
+tznj-0780-7031,Abbi Letch,2024-05-04 01:01:53,technical_issues,Escalated,Zhuangbu,China,aletch7x@wise.com,3,FALSE,Level 2,Chat,2024-05-07 03:37:46,Closed,Email,Medium,3,72
+diff-8336-7629,Katine Cornwell,2024-02-12 16:38:04,account_deactivation,Escalated,Labuhansumbawa,Indonesia,kcornwell7y@wise.com,,FALSE,Level 2,Phone,,Closed,Email,High,,
+hiit-6174-0087,Hubert McQuode,2024-03-08 16:30:29,verification,Pending,Gambarjati,Indonesia,hmcquode7z@wise.com,,FALSE,,Chat,,Open,Call,Low,,
+xgpc-7251-2920,Jada Gerg,2024-01-25 04:26:43,customer_service,Escalated,Magang,China,jgerg80@wise.com,4,FALSE,Level 3,Chat,2024-02-02 03:29:44,Closed,Call,Medium,8,192
+dkcz-2135-4566,Kellsie Trebilcock,2024-04-01 03:40:48,privacy,Escalated,Hule,China,ktrebilcock81@wise.com,3,TRUE,Level 1,Phone,2024-04-05 06:26:26,Closed,Call,Medium,4,96
+ayea-7519-1404,Teodorico Moncrefe,2024-05-28 14:02:44,other,Pending,Garoua Boulaï,Cameroon,tmoncrefe82@wise.com,,FALSE,,Chat,,In Progress,Call,Low,,
+sqau-7179-1515,Jane Devenish,2024-06-11 12:01:24,assets/_investments,Escalated,Julayjilah,Saudi Arabia,jdevenish83@wise.com,,FALSE,Level 1,Chat,,Closed,Call,High,,
+wann-5356-5405,Danna Robke,2024-02-28 01:43:02,exchange_rate,Escalated,Sumuragung,Indonesia,drobke84@wise.com,,FALSE,Level 3,Email,,Closed,Email,High,,
+jxwl-6443-7094,Rafi Cantera,2024-06-24 19:41:29,technical_issues,Escalated,Kramarzówka,Poland,rcantera85@wise.com,,FALSE,Level 3,Chat,,Closed,Email,Low,,
+hmvi-0110-6682,Karine Cranny,2024-05-22 15:24:05,kyc_transfer_on_hold,Escalated,Kaom,Indonesia,kcranny86@wise.com,,TRUE,Level 2,Email,,Closed,Email,Medium,,
+wbif-1704-4740,Roseann Quillinane,2024-02-05 22:14:28,assets/_investments,Escalated,Tsuma,Japan,rquillinane87@wise.com,,TRUE,Level 2,Email,,Closed,Chat,Medium,,
+cqdy-1679-2553,Nicolina Dargie,2024-06-01 02:46:28,plastic,Escalated,Ngangguk,Indonesia,ndargie88@wise.com,,FALSE,Level 3,Email,,Closed,Call,Low,,
+hpkx-3316-5155,Rollie Standage,2024-04-05 11:12:16,scam,Escalated,Sunagawa,Japan,rstandage89@wise.com,,FALSE,Level 3,Phone,,Closed,Call,Medium,,
+dwgf-4868-9078,Andrew Oddy,2024-03-19 09:42:46,other,Pending,Zunilito,Guatemala,aoddy8a@wise.com,,TRUE,,Phone,,Open,Call,Low,,
+crzv-3861-8531,Ferdie FitzAlan,2024-06-11 02:35:56,fees,Pending,Nancha,China,ffitzalan8b@wise.com,,FALSE,,Chat,,Open,Call,Low,,
+rtsg-6698-3378,Henrie Chason,2024-03-13 20:40:19,account_deactivation,Escalated,Broska,Ukraine,hchason8c@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Medium,,
+wnil-3476-8855,Trula Cordell,2024-01-08 03:14:44,verification,Escalated,Haokou,China,tcordell8d@wise.com,,TRUE,Level 1,Email,,Closed,Email,High,,
+bfco-3846-5885,Roseanne Wethey,2024-03-14 08:51:55,privacy,Pending,Quintão,Portugal,rwethey8e@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+ymph-5728-5269,Kylen Liger,2024-06-20 08:11:21,kyc_transfer_on_hold,Pending,Vale das Mós,Portugal,kliger8f@wise.com,,TRUE,,Phone,,Open,Call,Low,,
+ziet-0217-6593,Wilhelmina Hutchings,2024-03-24 20:44:32,technical_issues,Pending,Machagai,Argentina,whutchings8g@wise.com,,FALSE,,Chat,,In Progress,Call,Low,,
+jcvh-1988-9145,Orlando St Ledger,2024-06-16 14:28:33,technical_issues,Escalated,Tiebiancheng,China,ost8h@wise.com,,TRUE,Level 2,Phone,,Closed,Chat,Medium,,
+ulge-3102-5573,Pedro Macci,2024-06-20 10:40:26,privacy,Pending,Cikupa,Indonesia,pmacci8i@wise.com,,TRUE,,Phone,,In Progress,Call,Medium,,
+kiut-8507-9831,Levey Baignard,2024-03-31 10:12:04,assets/_investments,Pending,Mirzec,Poland,lbaignard8j@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+jdsa-5176-0195,Ertha Adolf,2024-04-27 14:26:29,scam,Resolved,Giado,Libya,eadolf8k@wise.com,5,TRUE,,Phone,2024-05-07 20:28:24,Closed,Chat,Low,10,240
+vjsl-2618-5467,Nichole Blanning,2024-01-11 06:03:15,privacy,Escalated,Värnamo,Sweden,nblanning8l@wise.com,,FALSE,Level 2,Email,,Closed,Call,High,,
+jvyy-6061-8182,Lorri Karslake,2024-04-15 11:14:36,referrals,Resolved,Buenavista,Mexico,lkarslake8m@wise.com,,TRUE,,Phone,,Closed,Chat,Low,,
+ljok-7447-7466,Gonzalo Stodd,2024-06-12 17:35:31,fees,Resolved,Trois-Rivières,Canada,gstodd8n@wise.com,,FALSE,,Phone,,Closed,Email,High,,
+gulq-2793-0113,Cris Filyaev,2024-01-31 18:37:19,kyc_transfer_on_hold,Resolved,Stockton,United States,cfilyaev8o@wise.com,,FALSE,,Phone,,Closed,Chat,High,,
+angn-3469-7024,Gwen Laible,2024-04-14 12:38:41,referrals,Resolved,Igreja,Portugal,glaible8p@wise.com,3,TRUE,,Email,2024-04-15 10:31:54,Closed,Email,High,1,24
+fxol-3974-9631,Beatrice Vella,2024-03-01 11:50:54,hat,Resolved,Barvinkove,Ukraine,bvella8q@wise.com,,FALSE,,Email,,Closed,Call,High,,
+lvtg-8495-8295,Lilla Ellul,2024-04-12 05:45:44,hat,Resolved,Tsotsin-Yurt,Russia,lellul8r@wise.com,,FALSE,,Phone,,Closed,Email,Low,,
+qnov-8205-3440,Wandie Bingle,2024-04-30 17:19:06,fees,Resolved,Detroit,United States,wbingle8s@wise.com,4,FALSE,,Phone,2024-05-02 00:38:11,Closed,Call,Low,2,48
+srat-6192-6366,Nesta Wardale,2024-06-02 11:20:38,account_deactivation,Escalated,Lordegān,Iran,nwardale8t@wise.com,,FALSE,Level 1,Chat,,Closed,Chat,Low,,
+lajm-5538-7826,Jemimah McHarry,2024-02-14 22:20:38,other,Pending,Pavlovka,Russia,jmcharry8u@wise.com,,FALSE,,Phone,,In Progress,Email,Medium,,
+qhvv-4069-7108,Rudiger Berre,2024-05-23 08:31:24,plastic,Escalated,Valladolid,Spain,rberre8v@wise.com,,FALSE,Level 1,Email,,Closed,Call,Low,,
+disn-6786-0603,Che Bielfeld,2024-03-25 08:30:35,exchange_rate,Resolved,Lleida,Spain,cbielfeld8w@wise.com,,TRUE,,Phone,,Closed,Chat,High,,
+plan-9721-1594,Tallie Impy,2024-05-17 02:20:08,exchange_rate,Pending,Castelo,Portugal,timpy8x@wise.com,,TRUE,,Chat,,In Progress,Email,Medium,,
+xpdj-6248-8538,Dee Rape,2024-01-31 06:47:26,privacy,Resolved,Dugu,China,drape8y@wise.com,,FALSE,,Chat,,Closed,Email,Medium,,
+trfa-9365-5656,Andrei Mouncey,2024-01-11 11:57:23,where_s_my_money,Resolved,Bulongji,China,amouncey8z@wise.com,3,FALSE,,Phone,2024-01-19 19:33:56,Closed,Email,Low,8,192
+bdir-0554-8930,Jerrilee Ormesher,2024-03-25 23:30:50,privacy,Resolved,Dejilin,China,jormesher90@wise.com,,TRUE,,Email,,Closed,Chat,High,,
+rqox-0179-7746,Dmitri Erratt,2024-06-17 04:36:25,plastic,Resolved,Temizhbekskaya,Russia,derratt91@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+mjuv-2730-6706,Darren Becconsall,2024-05-16 08:48:48,verification,Pending,San Antonio,United States,dbecconsall92@wise.com,,TRUE,,Phone,,In Progress,Email,High,,
+nalz-6356-6697,Stephani Jauncey,2024-05-09 03:04:31,where_s_my_money,Resolved,Gävle,Sweden,sjauncey93@wise.com,2,FALSE,,Phone,2024-05-19 22:43:17,Closed,Email,High,10,240
+kpfd-5959-3952,Dedra Edlyn,2024-03-08 01:41:15,kyc_transfer_on_hold,Resolved,Campana,Argentina,dedlyn94@wise.com,4,FALSE,,Phone,2024-03-15 04:43:23,Closed,Email,Low,7,168
+yiiw-2631-7060,Killy Willoway,2024-01-05 11:07:07,exchange_rate,Escalated,Tuchoměřice,Czech Republic,kwilloway95@wise.com,1,FALSE,Level 2,Chat,2024-01-15 22:17:17,Closed,Chat,High,10,240
+lfhz-6947-6161,Gwendolen McClenan,2024-04-22 11:44:57,exchange_rate,Pending,Borås,Sweden,gmcclenan96@wise.com,,TRUE,,Email,,In Progress,Chat,Medium,,
+nqbc-0074-7366,Marcelia Venner,2024-05-18 15:58:14,technical_issues,Resolved,Rymanów,Poland,mvenner97@wise.com,,FALSE,,Email,,Closed,Call,Medium,,
+wfpj-9183-3469,Holly-anne Mantz,2024-06-11 20:42:19,technical_issues,Escalated,Lipu,China,hmantz98@wise.com,,TRUE,Level 1,Email,,Closed,Email,Medium,,
+rdym-1920-3398,Ugo Coulbeck,2024-01-27 01:13:17,other,Resolved,Koslan,Russia,ucoulbeck99@wise.com,2,TRUE,,Phone,2024-02-06 19:07:09,Closed,Call,Medium,10,240
+zsio-3308-4894,Feliza Maddy,2024-01-16 06:53:32,where_s_my_money,Escalated,Lasi Dua,Indonesia,fmaddy9a@wise.com,2,TRUE,Level 2,Phone,2024-01-20 04:14:46,Closed,Email,Medium,4,96
+xoau-2020-7224,Sena Gryglewski,2024-05-26 20:26:30,exchange_rate,Escalated,Berekum,Ghana,sgryglewski9b@wise.com,3,TRUE,Level 2,Email,2024-05-29 05:06:01,Closed,Call,Medium,3,72
+bxbs-3851-3112,Tonnie Woodeson,2024-01-08 21:03:56,referrals,Resolved,Vyzhnytsya,Ukraine,twoodeson9c@wise.com,,TRUE,,Chat,,Closed,Call,Low,,
+iqke-0706-3035,Orville McMorran,2024-01-05 02:34:15,other,Resolved,Huangtang,China,omcmorran9d@wise.com,,FALSE,,Chat,,Closed,Email,Low,,
+pknp-4712-9279,Iorgo Robbins,2024-03-16 21:09:39,other,Pending,Fantan,Armenia,irobbins9e@wise.com,,FALSE,,Phone,,In Progress,Email,High,,
+pbvg-3132-3345,Viv Braitling,2024-03-10 01:28:32,privacy,Escalated,Ngembel,Indonesia,vbraitling9f@wise.com,,TRUE,Level 1,Email,,Closed,Email,High,,
+sgju-6457-1399,Dre Cardenoso,2024-05-14 23:41:56,customer_service,Resolved,Esperanza,Philippines,dcardenoso9g@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+fgmy-4433-0833,Chen Felkin,2024-05-08 09:20:36,customer_service,Resolved,Aix-en-Provence,France,cfelkin9h@wise.com,,TRUE,,Phone,,Closed,Chat,High,,
+tkmn-2435-2761,Sallyann Schindler,2024-03-15 05:37:50,referrals,Escalated,Vagney,France,sschindler9i@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Medium,,
+ilkc-9214-5270,Olwen Idwal Evans,2024-04-29 09:04:16,referrals,Pending,Kochani,Macedonia,oidwal9j@wise.com,,TRUE,,Chat,,In Progress,Chat,Medium,,
+xeaf-4310-8327,Lavinie Le Sarr,2024-06-19 15:14:52,fees,Resolved,Trancas,Argentina,lle9k@wise.com,,FALSE,,Chat,,Closed,Call,Medium,,
+dkit-0335-1949,Wilfred Olin,2024-02-04 21:55:45,technical_issues,Resolved,Tangguhang,Indonesia,wolin9l@wise.com,1,TRUE,,Email,2024-02-14 09:56:51,Closed,Chat,Medium,10,240
+blsy-7212-8701,Darrin Le Grys,2024-06-18 13:32:06,kyc_transfer_on_hold,Pending,Nanniu,China,dle9m@wise.com,,FALSE,,Chat,,In Progress,Call,Medium,,
+icld-4017-4176,Harold Ferreri,2024-05-29 20:31:19,scam,Escalated,Fiais da Beira,Portugal,hferreri9n@wise.com,,FALSE,Level 2,Chat,,Closed,Email,High,,
+prwh-4377-7393,Agosto Grimme,2024-01-24 14:52:57,exchange_rate,Escalated,Jinghai,China,agrimme9o@wise.com,,FALSE,Level 3,Chat,,Closed,Chat,Low,,
+xbtf-1574-7408,Wilie McCluin,2024-06-13 19:47:22,plastic,Resolved,Watari,Japan,wmccluin9p@wise.com,,TRUE,,Email,,Closed,Email,Medium,,
+gbuv-9058-3588,Sela Revill,2024-05-14 01:20:37,account_deactivation,Escalated,Concepción Tutuapa,Guatemala,srevill9q@wise.com,,TRUE,Level 3,Phone,,Closed,Email,Medium,,
+okcx-2379-0251,Evy Bouttell,2024-05-23 05:39:17,scam,Resolved,Khadan Khāk,Pakistan,ebouttell9r@wise.com,3,FALSE,,Chat,2024-05-25 05:43:47,Closed,Email,Medium,2,48
+sdfb-6874-2365,Birk Crowhurst,2024-04-10 07:56:39,verification,Escalated,Montpellier,France,bcrowhurst9s@wise.com,,FALSE,Level 3,Email,,Closed,Chat,Low,,
+fzny-5373-4589,Tine Bragg,2024-04-24 05:16:59,exchange_rate,Resolved,Limenária,Greece,tbragg9t@wise.com,,TRUE,,Chat,,Closed,Call,Medium,,
+dzix-4103-4232,Aloise Rossey,2024-02-06 18:16:10,exchange_rate,Escalated,Kasangulu,Democratic Republic of the Congo,arossey9u@wise.com,3,FALSE,Level 2,Phone,2024-02-10 12:05:18,Closed,Call,Medium,4,96
+kgya-3335-4483,Gerek Stenson,2024-02-14 18:07:01,referrals,Resolved,Sionogan,Philippines,gstenson9v@wise.com,,FALSE,,Chat,,Closed,Email,Low,,
+zlrq-5686-0727,Louella Buncombe,2024-06-05 22:01:00,other,Resolved,Tha Luang,Thailand,lbuncombe9w@wise.com,,FALSE,,Phone,,Closed,Email,Low,,
+oxzv-7493-0919,Niki Dunton,2024-03-17 21:37:17,fees,Resolved,Loma Bonita,Mexico,ndunton9x@wise.com,,FALSE,,Chat,,Closed,Chat,High,,
+aonj-9100-9816,Delbert MacDunlevy,2024-01-05 16:17:47,customer_service,Resolved,Dasht-e Qal‘ah,Afghanistan,dmacdunlevy9y@wise.com,,FALSE,,Phone,,Closed,Chat,Medium,,
+pzwy-3612-3541,Isadora Marsh,2024-01-25 00:46:40,verification,Pending,Rio Largo,Brazil,imarsh9z@wise.com,,FALSE,,Phone,,In Progress,Chat,High,,
+xjzk-3356-3299,Cherey Baudouin,2024-03-04 18:47:24,customer_service,Escalated,Shenzhengqiao,China,cbaudouina0@wise.com,3,TRUE,Level 3,Email,2024-03-13 04:50:38,Closed,Call,High,9,216
+zbfw-9860-0392,Rozanne O'Fogerty,2024-02-28 13:12:49,assets/_investments,Escalated,Neochóri,Greece,rofogertya1@wise.com,,TRUE,Level 3,Email,,Closed,Call,High,,
+aavz-9205-8917,Melitta Summergill,2024-03-03 16:01:00,other,Escalated,Kwali,Nigeria,msummergilla2@wise.com,,FALSE,Level 3,Phone,,Closed,Call,Medium,,
+dvzj-7877-5305,Margarita Mulvenna,2024-03-29 19:47:49,verification,Resolved,Velikiye Luki,Russia,mmulvennaa3@wise.com,1,TRUE,,Email,2024-04-04 00:24:28,Closed,Call,Low,6,144
+cnjv-9552-7958,Klarrisa Olechnowicz,2024-01-29 11:05:52,verification,Pending,Dacheng,China,kolechnowicza4@wise.com,,FALSE,,Phone,,Open,Call,High,,
+zicp-6493-3199,Orren Tremonte,2024-02-08 11:25:09,other,Pending,Baihe,China,otremontea5@wise.com,,TRUE,,Chat,,In Progress,Call,Medium,,
+qeqw-2309-3817,Derron Najera,2024-02-16 01:45:54,account_deactivation,Escalated,Qianguo,China,dnajeraa6@wise.com,,TRUE,Level 3,Phone,,Closed,Call,High,,
+pfmn-3073-6599,Egon Konert,2024-05-13 22:32:47,assets/_investments,Pending,Juegang,China,ekonerta7@wise.com,,FALSE,,Chat,,Open,Call,Low,,
+qbly-1378-5422,Marcel Lindwall,2024-03-22 19:14:21,technical_issues,Pending,Mełgiew,Poland,mlindwalla8@wise.com,,FALSE,,Chat,,Open,Email,High,,
+iwbi-8982-7070,Nickolaus Sellens,2024-05-31 05:10:06,verification,Resolved,Chadiza,Zambia,nsellensa9@wise.com,,TRUE,,Phone,,Closed,Call,Low,,
+nirp-5305-6599,Zoe Lobe,2024-01-06 17:56:59,account_deactivation,Resolved,Bagamoyo,Tanzania,zlobeaa@wise.com,,TRUE,,Chat,,Closed,Call,Low,,
+jica-5460-6596,Rhianna Balnaves,2024-04-13 07:21:08,verification,Pending,Huqiu,China,rbalnavesab@wise.com,,FALSE,,Chat,,In Progress,Chat,High,,
+zkfc-5292-0337,Nicki Schiesterl,2024-04-16 09:18:43,technical_issues,Pending,Shāhdādkot,Pakistan,nschiesterlac@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+mqll-7122-5842,Stormy Minifie,2024-04-27 01:59:53,where_s_my_money,Escalated,Villeurbanne,France,sminifiead@wise.com,3,FALSE,Level 2,Phone,2024-04-29 18:05:54,Closed,Email,Low,2,48
+ovyw-1231-2853,Tonie Foran,2024-05-30 19:30:28,customer_service,Resolved,Bangbayang,Indonesia,tforanae@wise.com,2,TRUE,,Phone,2024-06-03 18:27:50,Closed,Call,Medium,4,96
+fhmx-4373-1876,Ave Orrin,2024-02-01 00:26:35,assets/_investments,Resolved,Boroon,Philippines,aorrinaf@wise.com,,TRUE,,Email,,Closed,Chat,Medium,,
+muxi-8543-1092,Dorie Feldmark,2024-04-11 05:19:31,where_s_my_money,Pending,Setun’,Russia,dfeldmarkag@wise.com,,TRUE,,Email,,In Progress,Call,High,,
+ceai-9854-7959,Pascal Dorking,2024-04-17 06:11:08,kyc_transfer_on_hold,Pending,Dayr al Ghuşūn,Palestinian Territory,pdorkingah@wise.com,,TRUE,,Chat,,Open,Email,Low,,
+tajq-1836-2334,Gates Jerosch,2024-04-10 02:52:12,where_s_my_money,Escalated,Paseh,Indonesia,gjeroschai@wise.com,,TRUE,Level 3,Email,,Closed,Call,Low,,
+jwnn-0428-4160,Gibbie Gillman,2024-01-03 15:37:57,verification,Resolved,Tunduma,Tanzania,ggillmanaj@wise.com,,TRUE,,Phone,,Closed,Call,High,,
+akff-9531-6335,Ferguson Dinis,2024-05-31 03:38:26,customer_service,Pending,Amerta,Indonesia,fdinisak@wise.com,,TRUE,,Chat,,In Progress,Chat,Low,,
+egcw-2939-0265,Modesty Postill,2024-01-07 23:14:14,assets/_investments,Pending,Uthai,Thailand,mpostillal@wise.com,,FALSE,,Chat,,In Progress,Email,High,,
+dhmd-6895-4329,Twyla Childers,2024-01-21 04:29:05,scam,Resolved,Zhanggongmiao,China,tchildersam@wise.com,5,TRUE,,Email,2024-01-22 19:42:19,Closed,Email,High,1,24
+xncg-0157-0579,Augusta Posselwhite,2024-03-19 00:43:12,kyc_transfer_on_hold,Pending,Kiikala,Finland,aposselwhitean@wise.com,,FALSE,,Email,,Open,Email,Medium,,
+uxgz-6948-3998,Meaghan Pinchback,2024-05-15 14:25:38,verification,Escalated,Heshi,China,mpinchbackao@wise.com,4,FALSE,Level 2,Email,2024-05-20 10:14:51,Closed,Email,Low,5,120
+bygk-7198-0840,Dell Kinnier,2024-01-25 01:07:39,where_s_my_money,Resolved,Vittoriosa,Malta,dkinnierap@wise.com,5,FALSE,,Email,2024-02-03 20:26:11,Closed,Call,Medium,9,216
+ohcu-9912-3175,Genia Belone,2024-01-23 11:40:48,verification,Pending,Caldas Novas,Brazil,gbeloneaq@wise.com,,FALSE,,Chat,,Open,Chat,Medium,,
+nnfq-3024-8509,Shem Morrish,2024-04-18 05:45:22,assets/_investments,Escalated,Sayán,Peru,smorrishar@wise.com,,FALSE,Level 2,Email,,Closed,Email,Medium,,
+mtzz-6457-2164,Leeland Goldis,2024-06-15 18:26:45,account_deactivation,Pending,Mugango,Tanzania,lgoldisas@wise.com,,FALSE,,Phone,,In Progress,Email,Low,,
+chjf-9378-7025,Chadwick Preston,2024-04-07 17:40:56,where_s_my_money,Escalated,Hongqi,China,cprestonat@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,Low,,
+eypa-3376-8355,Waverly Chalmers,2024-05-26 22:10:43,privacy,Pending,Mislak,Indonesia,wchalmersau@wise.com,,TRUE,,Chat,,In Progress,Call,High,,
+gmbr-2418-3700,Hayden Carren,2024-03-19 17:19:55,referrals,Escalated,Jenang Selatan,Indonesia,hcarrenav@wise.com,,FALSE,Level 2,Phone,,Closed,Call,Low,,
+ufho-5313-7281,Cecil Hovington,2024-04-05 14:47:46,verification,Pending,Qukuhu,China,chovingtonaw@wise.com,,TRUE,,Email,,In Progress,Chat,Medium,,
+nblo-4185-6252,Trace Gummow,2024-06-11 21:17:24,verification,Pending,Marisol,Portugal,tgummowax@wise.com,,TRUE,,Phone,,In Progress,Chat,Low,,
+mlno-0345-6274,Lark Gilbee,2024-04-19 14:43:10,assets/_investments,Resolved,Parlilitan,Indonesia,lgilbeeay@wise.com,,FALSE,,Email,,Closed,Chat,High,,
+dqni-4274-1814,Oby Ralton,2024-05-04 10:07:21,referrals,Escalated,Makur,Micronesia,oraltonaz@wise.com,,FALSE,Level 3,Phone,,Closed,Call,Low,,
+lnaa-1674-0527,Nevil Southam,2024-06-26 06:58:30,referrals,Resolved,Gaohu,China,nsouthamb0@wise.com,,FALSE,,Phone,,Closed,Call,High,,
+uvmr-2645-0820,Maddi Storr,2024-03-15 09:01:58,privacy,Resolved,Bořitov,Czech Republic,mstorrb1@wise.com,,FALSE,,Chat,,Closed,Call,Medium,,
+ixaf-6074-1256,Giulio Hrinchenko,2024-05-31 03:12:37,assets/_investments,Pending,Soriano,Uruguay,ghrinchenkob2@wise.com,,TRUE,,Chat,,In Progress,Chat,Low,,
+vyto-0514-5876,Gavra Grigaut,2024-02-01 19:39:39,fees,Resolved,Bangbayang,Indonesia,ggrigautb3@wise.com,4,TRUE,,Chat,2024-02-02 08:31:22,Closed,Call,High,1,24
+xukk-9693-6654,Harwell Benedict,2024-05-08 23:19:17,exchange_rate,Escalated,Muting,Indonesia,hbenedictb4@wise.com,,TRUE,Level 2,Email,,Closed,Email,Low,,
+dstu-0579-2601,Dyna Vignaux,2024-06-04 08:31:28,fees,Pending,Kristiansand S,Norway,dvignauxb5@wise.com,,FALSE,,Chat,,Open,Email,Low,,
+kgun-3166-1326,Ivonne Howieson,2024-05-01 01:23:42,privacy,Escalated,Chatan,Japan,ihowiesonb6@wise.com,3,TRUE,Level 2,Chat,2024-05-04 14:40:13,Closed,Chat,High,3,72
+cibt-5723-2043,Idelle Follan,2024-01-29 12:52:15,fees,Escalated,Shāhdādkot,Pakistan,ifollanb7@wise.com,,TRUE,Level 2,Email,,Closed,Call,High,,
+haqm-5325-4299,Melesa Jarratt,2024-03-02 17:29:20,hat,Resolved,Fangfan,China,mjarrattb8@wise.com,,FALSE,,Phone,,Closed,Chat,Medium,,
+idre-5397-5183,Ardelia Fealy,2024-06-18 03:24:58,referrals,Escalated,Muraloka,Indonesia,afealyb9@wise.com,,FALSE,Level 1,Email,,Closed,Email,Low,,
+kuab-0442-5452,Shalna Ditzel,2024-02-25 10:33:50,exchange_rate,Resolved,Huamachuco,Peru,sditzelba@wise.com,,FALSE,,Phone,,Closed,Email,Medium,,
+rrfg-7810-0409,Nydia Mallia,2024-02-02 18:54:42,exchange_rate,Resolved,Puunage,Indonesia,nmalliabb@wise.com,2,TRUE,,Email,2024-02-10 03:57:25,Closed,Call,High,8,192
+wmck-6740-4640,Pall Beauchamp,2024-03-25 05:58:10,technical_issues,Resolved,Pagarbatu,Indonesia,pbeauchampbc@wise.com,,FALSE,,Phone,,Closed,Chat,High,,
+avge-6142-3676,Westleigh Junkin,2024-01-31 12:14:23,technical_issues,Resolved,Vicuña Mackenna,Argentina,wjunkinbd@wise.com,,FALSE,,Chat,,Closed,Chat,Low,,
+luxp-7453-0301,Jacenta Blaze,2024-06-13 00:56:56,customer_service,Resolved,Jinnan,China,jblazebe@wise.com,,TRUE,,Email,,Closed,Email,High,,
+oimg-3704-5653,Boone Joubert,2024-05-31 20:00:57,other,Pending,Al Qadarif,Sudan,bjoubertbf@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+lewd-4129-9623,Kleon Vallery,2024-02-04 20:31:09,referrals,Resolved,Bolotnoye,Russia,kvallerybg@wise.com,,FALSE,,Phone,,Closed,Email,High,,
+tkku-0438-2196,Carol Masic,2024-03-04 13:19:41,technical_issues,Pending,Billère,France,cmasicbh@wise.com,,FALSE,,Chat,,In Progress,Email,High,,
+tlay-5356-4546,Budd Canter,2024-02-05 00:27:14,account_deactivation,Escalated,Al Fujayrah,United Arab Emirates,bcanterbi@wise.com,,TRUE,Level 2,Email,,Closed,Email,High,,
+nzdt-7491-2830,Sol Fairley,2024-03-27 19:51:09,plastic,Escalated,Chojnice,Poland,sfairleybj@wise.com,,FALSE,Level 1,Phone,,Closed,Chat,Medium,,
+pcij-5413-2582,Adelheid Serot,2024-04-27 04:24:14,hat,Pending,Maganha,Portugal,aserotbk@wise.com,,TRUE,,Email,,Open,Email,High,,
+htaw-4432-6746,Laureen Tanswell,2024-05-07 21:17:07,referrals,Escalated,Aurora,Philippines,ltanswellbl@wise.com,,TRUE,Level 1,Email,,Closed,Chat,Low,,
+thea-5335-6378,Alfonso Meus,2024-01-08 05:37:18,where_s_my_money,Resolved,Puerto Montt,Chile,ameusbm@wise.com,,FALSE,,Phone,,Closed,Chat,High,,
+kslu-2187-5729,Sisile Van Der Weedenburg,2024-02-21 23:14:28,plastic,Pending,Palaiomonástiron,Greece,svanbn@wise.com,,TRUE,,Chat,,Open,Email,Medium,,
+qyeg-5427-3374,Isa Warlaw,2024-05-21 14:13:02,scam,Escalated,Jargalant,Mongolia,iwarlawbo@wise.com,,TRUE,Level 1,Email,,Closed,Call,Low,,
+dalu-3228-4036,Chrissie Frowde,2024-04-23 18:54:05,referrals,Pending,San Rafael,Philippines,cfrowdebp@wise.com,,FALSE,,Phone,,In Progress,Call,Low,,
+xdek-5039-3068,Avictor Thomerson,2024-03-30 12:03:42,assets/_investments,Resolved,Santa Bárbara,Venezuela,athomersonbq@wise.com,,TRUE,,Phone,,Closed,Call,Medium,,
+fowp-0362-6197,Park Ebbetts,2024-03-29 00:04:33,scam,Escalated,Radiměř,Czech Republic,pebbettsbr@wise.com,,FALSE,Level 2,Chat,,Closed,Chat,Low,,
+eeig-4857-5779,Venus Siebert,2024-02-28 13:51:09,verification,Resolved,Canchayllo,Peru,vsiebertbs@wise.com,,TRUE,,Chat,,Closed,Email,Low,,
+mxhj-1099-8402,Adams Copozio,2024-04-03 03:27:02,plastic,Resolved,Pakel,Indonesia,acopoziobt@wise.com,,FALSE,,Chat,,Closed,Call,High,,
+zvha-8595-1730,Deny L'Homme,2024-05-22 09:55:56,hat,Pending,Smolensk,Russia,dlhommebu@wise.com,,TRUE,,Chat,,In Progress,Call,High,,
+brec-8589-2726,Kip Gantlett,2024-01-17 00:12:13,fees,Resolved,Magaozhuang,China,kgantlettbv@wise.com,,FALSE,,Phone,,Closed,Call,High,,
+uzad-5963-3675,Ryun Farthing,2024-05-25 14:23:07,verification,Pending,Gornyak,Russia,rfarthingbw@wise.com,,TRUE,,Email,,Open,Chat,Low,,
+arus-3051-2347,Malia Slucock,2024-03-07 00:22:44,plastic,Resolved,Osby,Sweden,mslucockbx@wise.com,5,FALSE,,Chat,2024-03-14 13:47:10,Closed,Chat,Medium,7,168
+galc-9981-1246,Gerrie Alekseev,2024-04-09 03:13:27,plastic,Pending,Caper,Indonesia,galekseevby@wise.com,,FALSE,,Phone,,In Progress,Chat,High,,
+ndqu-5675-8719,Nani Grishakin,2024-05-06 01:07:53,fees,Escalated,Dongpu,China,ngrishakinbz@wise.com,,FALSE,Level 2,Email,,Closed,Email,Low,,
+inxx-7585-7477,Alexandre Screach,2024-05-27 07:42:49,fees,Resolved,Siewierz,Poland,ascreachc0@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+vioh-7783-8873,Salmon Oakes,2024-01-04 14:57:25,plastic,Pending,Comendador,Dominican Republic,soakesc1@wise.com,,TRUE,,Email,,In Progress,Chat,Low,,
+kccc-9014-5908,Fina Ciciura,2024-02-18 22:25:37,customer_service,Pending,Paris La Défense,France,fciciurac2@wise.com,,FALSE,,Email,,In Progress,Call,High,,
+jvqy-1451-8215,Brenda Givens,2024-01-31 15:45:12,plastic,Escalated,Garbolovo,Russia,bgivensc3@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Medium,,
+yqrp-6429-0388,Kathlin McDonnell,2024-04-01 10:06:52,exchange_rate,Pending,Caitang,China,kmcdonnellc4@wise.com,,FALSE,,Phone,,In Progress,Chat,High,,
+bdwe-5708-6995,Jarrett McNeish,2024-01-30 08:53:04,fees,Pending,Danao,Philippines,jmcneishc5@wise.com,,TRUE,,Chat,,Open,Call,Medium,,
+hugc-1433-7789,Alys Overpool,2024-03-13 09:05:41,technical_issues,Escalated,Adamstown,Pitcairn,aoverpoolc6@wise.com,,TRUE,Level 3,Phone,,Closed,Call,Medium,,
+oyfo-0886-7422,Creigh Habin,2024-02-16 14:59:29,technical_issues,Resolved,Jõgeva,Estonia,chabinc7@wise.com,3,FALSE,,Chat,2024-02-17 18:45:52,Closed,Email,High,1,24
+mtca-0567-0803,Iggy Lambert,2024-03-15 15:36:26,exchange_rate,Escalated,Raków,Poland,ilambertc8@wise.com,,TRUE,Level 3,Phone,,Closed,Email,Low,,
+ibnb-9224-7279,Ardelis Cardello,2024-02-07 10:08:43,account_deactivation,Pending,Nahariya,Israel,acardelloc9@wise.com,,TRUE,,Email,,In Progress,Email,Low,,
+jftf-0054-3344,Rheta Van Schafflaer,2024-06-11 20:06:51,assets/_investments,Escalated,Lazaro Cardenas,Mexico,rvanca@wise.com,,TRUE,Level 3,Chat,,Closed,Email,Medium,,
+ktvq-7254-4294,Hermia O'Henecan,2024-05-15 23:45:12,verification,Resolved,Al Baqāliţah,Tunisia,hohenecancb@wise.com,3,FALSE,,Phone,2024-05-17 20:17:25,Closed,Call,Medium,2,48
+ritd-2082-5210,Fania Dominguez,2024-06-01 08:24:49,fees,Escalated,Banyupoh,Indonesia,fdominguezcc@wise.com,3,TRUE,Level 1,Phone,2024-06-08 06:24:43,Closed,Call,High,7,168
+ooll-2824-3047,Mark Vaskov,2024-02-19 03:56:08,exchange_rate,Resolved,Xingpinglu,China,mvaskovcd@wise.com,3,TRUE,,Chat,2024-02-27 12:55:42,Closed,Email,Medium,8,192
+tbmf-2590-8099,Sharia Brinded,2024-04-25 13:42:24,technical_issues,Escalated,Duncans,Jamaica,sbrindedce@wise.com,,TRUE,Level 1,Email,,Closed,Email,High,,
+radc-4278-8924,Marthena Wickett,2024-02-04 19:18:11,hat,Resolved,Gibbons,Canada,mwickettcf@wise.com,,TRUE,,Email,,Closed,Chat,High,,
+gejf-5026-8637,Kellyann Morat,2024-03-16 07:51:02,fees,Resolved,Tangwang,China,kmoratcg@wise.com,,FALSE,,Phone,,Closed,Call,High,,
+welx-5740-6234,Alma Fadell,2024-06-03 12:34:59,privacy,Escalated,São Torcato,Portugal,afadellch@wise.com,5,FALSE,Level 3,Phone,2024-06-04 13:46:36,Closed,Call,Medium,1,24
+fzcd-8486-5382,Antonie Uren,2024-05-24 09:38:08,privacy,Resolved,Cipolletti,Argentina,aurenci@wise.com,,FALSE,,Phone,,Closed,Email,Low,,
+putr-0577-0142,Livy Agostini,2024-01-18 18:46:25,assets/_investments,Escalated,Sagrada Familia,Philippines,lagostinicj@wise.com,3,FALSE,Level 3,Chat,2024-01-20 06:18:53,Closed,Email,High,2,48
+xnmq-0214-4612,Deana Stuckow,2024-06-23 14:02:10,hat,Escalated,Maleevsk,Kazakhstan,dstuckowck@wise.com,,FALSE,Level 3,Email,,Closed,Chat,Low,,
+wxrx-3560-9122,Casar Domanek,2024-03-25 15:30:29,other,Escalated,Kalisari,Indonesia,cdomanekcl@wise.com,5,FALSE,Level 1,Phone,2024-04-03 06:37:44,Closed,Call,Low,9,216
+brgx-1738-1794,Gaylene Simmance,2024-02-19 10:34:16,privacy,Escalated,Lajas,Peru,gsimmancecm@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Low,,
+rnyr-9452-7474,Avrit Ismay,2024-03-05 05:06:22,plastic,Pending,El Paisnal,El Salvador,aismaycn@wise.com,,FALSE,,Email,,In Progress,Chat,Low,,
+pzyk-0178-5452,Gretal Pritty,2024-04-09 11:29:25,scam,Pending,Shanmei,China,gprittyco@wise.com,,FALSE,,Chat,,Open,Call,High,,
+asgs-7769-5771,Ambur Deesly,2024-03-27 17:43:30,kyc_transfer_on_hold,Pending,Zhuping,China,adeeslycp@wise.com,,TRUE,,Chat,,In Progress,Email,Medium,,
+ssrz-6805-0225,Kurt Treend,2024-06-17 00:19:34,customer_service,Resolved,Cibunar,Indonesia,ktreendcq@wise.com,5,FALSE,,Chat,2024-06-26 07:08:40,Closed,Call,Low,9,216
+nugb-8812-4443,Novelia Suermeier,2024-05-09 06:57:39,fees,Resolved,Espinal,Colombia,nsuermeiercr@wise.com,,TRUE,,Email,,Closed,Chat,Medium,,
+uwmo-1959-9328,Renata Gilby,2024-01-19 23:58:23,customer_service,Pending,Göteborg,Sweden,rgilbycs@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+pbzy-5014-3569,Whitaker Finlaison,2024-03-17 03:54:34,scam,Pending,Jangdam,China,wfinlaisonct@wise.com,,TRUE,,Email,,Open,Email,Medium,,
+pppj-9021-9164,Allina Foreman,2024-02-08 00:13:36,account_deactivation,Resolved,Oliveira,Portugal,aforemancu@wise.com,2,TRUE,,Email,2024-02-13 16:23:17,Closed,Call,High,5,120
+sheb-7912-9527,Hilliard MacGaughey,2024-04-14 05:55:41,hat,Escalated,Ambanja,Madagascar,hmacgaugheycv@wise.com,,TRUE,Level 3,Email,,Closed,Call,Low,,
+vioq-7902-5819,Helga Zanetto,2024-04-05 13:32:19,exchange_rate,Pending,Datian,China,hzanettocw@wise.com,,TRUE,,Email,,Open,Email,High,,
+fibs-1872-9648,Georas Wear,2024-06-25 19:08:48,plastic,Resolved,Jianghua,China,gwearcx@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+dbtw-6357-6729,Ninon Thorrington,2024-06-15 19:26:14,technical_issues,Resolved,Merapit,Indonesia,nthorringtoncy@wise.com,,TRUE,,Phone,,Closed,Chat,High,,
+cqiz-6148-9653,Pia Ridgway,2024-02-27 06:41:26,assets/_investments,Pending,Yanshang,China,pridgwaycz@wise.com,,TRUE,,Chat,,In Progress,Chat,Medium,,
+ngon-3943-0479,Anthia Harrington,2024-06-16 15:49:44,account_deactivation,Pending,Mantes-la-Jolie,France,aharringtond0@wise.com,,TRUE,,Phone,,In Progress,Chat,Medium,,
+cnnf-3756-7994,Hercules Elderkin,2024-03-20 19:08:26,other,Escalated,Estaca,Philippines,helderkind1@wise.com,2,FALSE,Level 1,Chat,2024-03-21 17:05:33,Closed,Email,High,1,24
+lzgb-2282-0068,Windham Burgoine,2024-05-25 06:38:54,plastic,Resolved,Agodim,Portugal,wburgoined2@wise.com,,TRUE,,Email,,Closed,Call,High,,
+wrpk-0351-6709,Marja MacGuffog,2024-03-31 15:59:06,scam,Resolved,Izborsk,Russia,mmacguffogd3@wise.com,5,FALSE,,Chat,2024-04-10 13:53:07,Closed,Email,Medium,10,240
+nkwq-4204-8547,Shannen Barwise,2024-02-24 18:55:47,account_deactivation,Pending,Progreso,Mexico,sbarwised4@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+azxa-2985-4712,Florri Gerring,2024-05-26 23:09:53,assets/_investments,Pending,Uva,Russia,fgerringd5@wise.com,,TRUE,,Email,,In Progress,Call,Medium,,
+ddvz-2529-9381,Griffith Lancetter,2024-01-20 12:46:27,hat,Resolved,Huaxian,China,glancetterd6@wise.com,1,FALSE,,Chat,2024-01-25 18:35:11,Closed,Email,Medium,5,120
+ymhf-5354-6863,Meryl Conahy,2024-05-12 12:41:59,exchange_rate,Resolved,Chaviña,Peru,mconahyd7@wise.com,,TRUE,,Phone,,Closed,Email,High,,
+unsj-1935-8456,Lory Luckcuck,2024-01-21 23:46:01,hat,Escalated,Demuk,Indonesia,lluckcuckd8@wise.com,,TRUE,Level 2,Phone,,Closed,Chat,High,,
+vsqq-0215-6544,Larissa Courtese,2024-02-24 22:22:28,hat,Resolved,Capitán Sarmiento,Argentina,lcourtesed9@wise.com,,FALSE,,Phone,,Closed,Email,Low,,
+mihf-2922-0635,Nike Fewster,2024-06-01 21:46:38,assets/_investments,Escalated,Lajeosa,Portugal,nfewsterda@wise.com,,FALSE,Level 2,Email,,Closed,Chat,Medium,,
+kamo-2404-7815,Maryanne Keogh,2024-01-04 12:00:39,where_s_my_money,Pending,Toksovo,Russia,mkeoghdb@wise.com,,FALSE,,Chat,,In Progress,Call,High,,
+chlv-9417-2848,Granthem Kynvin,2024-06-18 14:56:07,customer_service,Escalated,Tabuny,Russia,gkynvindc@wise.com,,TRUE,Level 2,Email,,Closed,Call,Medium,,
+uxrj-4036-4144,Dorella Winfield,2024-04-13 13:47:42,scam,Pending,Lugait,Philippines,dwinfielddd@wise.com,,FALSE,,Phone,,Open,Call,Medium,,
+qumf-2309-3742,Jarrad Ellerby,2024-02-05 06:34:30,kyc_transfer_on_hold,Pending,Niños Heroes,Mexico,jellerbyde@wise.com,,FALSE,,Chat,,Open,Email,Medium,,
+xjfb-3107-9444,Brennen Hellwing,2024-04-27 01:58:25,verification,Escalated,Wuyahe,China,bhellwingdf@wise.com,,TRUE,Level 2,Chat,,Closed,Call,Low,,
+keir-9434-7425,Chery Lochran,2024-01-27 16:07:30,account_deactivation,Escalated,Namie,Japan,clochrandg@wise.com,5,FALSE,Level 1,Phone,2024-01-31 18:04:58,Closed,Email,Low,4,96
+dmnx-3260-7729,Gay Murney,2024-02-22 00:49:01,referrals,Resolved,Ōdate,Japan,gmurneydh@wise.com,,FALSE,,Email,,Closed,Email,High,,
+csdj-0552-4297,Shelby Blondel,2024-03-29 09:47:34,privacy,Escalated,Xinzha,China,sblondeldi@wise.com,,FALSE,Level 3,Phone,,Closed,Email,Medium,,
+iyvi-9941-4610,Gery Pucknell,2024-06-17 21:47:43,referrals,Pending,Tiannan,China,gpucknelldj@wise.com,,TRUE,,Phone,,Open,Chat,Low,,
+kxwf-9250-2706,Tadio Feehily,2024-01-25 03:42:04,other,Resolved,Kentongan,Indonesia,tfeehilydk@wise.com,5,FALSE,,Chat,2024-02-01 04:27:44,Closed,Call,High,7,168
+mwil-3035-5740,Rollo Sherme,2024-03-29 05:20:25,exchange_rate,Escalated,Dubna,Russia,rshermedl@wise.com,,TRUE,Level 1,Chat,,Closed,Call,Medium,,
+muna-5695-9012,Peri Dowling,2024-01-02 05:46:09,customer_service,Resolved,Tutong,Brunei,pdowlingdm@wise.com,,FALSE,,Email,,Closed,Call,Low,,
+qodz-7168-1611,Erminia Grandin,2024-06-21 19:29:13,fees,Pending,Magugu,Tanzania,egrandindn@wise.com,,FALSE,,Chat,,In Progress,Email,Medium,,
+nehu-7807-5482,Mirilla Bly,2024-06-21 10:47:02,scam,Pending,Danirai,Indonesia,mblydo@wise.com,,FALSE,,Phone,,In Progress,Call,Medium,,
+bari-7691-2448,Naoma Jennins,2024-05-15 01:19:16,other,Pending,Chandra,Comoros,njenninsdp@wise.com,,TRUE,,Email,,Open,Email,High,,
+qnpt-0196-5369,Jacenta Dible,2024-04-14 06:57:47,plastic,Escalated,Ręczno,Poland,jdibledq@wise.com,,FALSE,Level 1,Email,,Closed,Call,High,,
+yrnr-5762-7369,Susie Shillaber,2024-06-08 00:30:41,kyc_transfer_on_hold,Resolved,Toulouse,France,sshillaberdr@wise.com,,FALSE,,Phone,,Closed,Call,High,,
+mbot-0660-2637,Marlowe Ramstead,2024-05-23 17:30:44,exchange_rate,Resolved,Uhniv,Ukraine,mramsteadds@wise.com,3,TRUE,,Phone,2024-05-25 07:42:42,Closed,Chat,Low,2,48
+yqxi-1276-8650,Georgetta Biaggelli,2024-01-02 13:04:51,assets/_investments,Resolved,Klippan,Sweden,gbiaggellidt@wise.com,,FALSE,,Email,,Closed,Call,High,,
+atqy-1404-7627,Peirce Cranny,2024-05-28 20:35:03,privacy,Pending,Weiting,China,pcrannydu@wise.com,,FALSE,,Phone,,In Progress,Chat,Low,,
+jxzu-8491-6296,Stern Magog,2024-03-02 11:51:33,other,Escalated,Diveyevo,Russia,smagogdv@wise.com,,TRUE,Level 1,Phone,,Closed,Email,Low,,
+dhfo-9389-4590,Darci Miguel,2024-05-20 05:42:14,where_s_my_money,Escalated,Nykvarn,Sweden,dmigueldw@wise.com,,FALSE,Level 1,Email,,Closed,Chat,Medium,,
+rpvi-0341-6577,Evin Mattioni,2024-05-30 17:42:42,hat,Resolved,Lille,France,emattionidx@wise.com,1,TRUE,,Chat,2024-06-07 14:52:01,Closed,Email,Low,8,192
+ltxl-6723-9719,Weylin Trollope,2024-06-17 01:38:11,kyc_transfer_on_hold,Escalated,Panognawan,Philippines,wtrollopedy@wise.com,3,TRUE,Level 3,Chat,2024-06-26 04:49:02,Closed,Email,Low,9,216
+anrt-4293-7077,Arie Angelo,2024-06-08 16:31:22,verification,Pending,San Lorenzo,Peru,aangelodz@wise.com,,TRUE,,Email,,Open,Call,Medium,,
+upcf-8727-7376,Ana Teaser,2024-03-28 16:21:58,fees,Escalated,San Juan,Philippines,ateasere0@wise.com,,TRUE,Level 3,Email,,Closed,Call,Low,,
+zmhg-2625-3749,Garrik Livingstone,2024-02-19 09:35:45,hat,Escalated,Samborondón,Ecuador,glivingstonee1@wise.com,1,FALSE,Level 3,Phone,2024-02-22 07:37:07,Closed,Chat,Low,3,72
+wads-3442-9298,Tito Ghirigori,2024-05-17 05:02:59,privacy,Pending,Železný Brod,Czech Republic,tghirigorie2@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+xugr-5452-5401,Dallon Pentycost,2024-05-15 11:40:45,technical_issues,Escalated,Zbrosławice,Poland,dpentycoste3@wise.com,,FALSE,Level 3,Email,,Closed,Call,High,,
+ypeg-2130-1650,Weidar Prangnell,2024-06-13 10:51:51,kyc_transfer_on_hold,Pending,Wuqiao,China,wprangnelle4@wise.com,,TRUE,,Email,,In Progress,Call,High,,
+nykq-0159-2202,Wyndham Bilbrey,2024-01-23 12:36:46,scam,Resolved,Jurh,China,wbilbreye5@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+ifdk-9417-0199,Alysia Byles,2024-05-10 03:20:02,plastic,Resolved,Lunao,Philippines,abylese6@wise.com,,FALSE,,Email,,Closed,Call,Medium,,
+hils-2660-4465,Antonella Cheson,2024-06-15 18:15:41,fees,Pending,San Antonio,Honduras,achesone7@wise.com,,FALSE,,Email,,In Progress,Email,Low,,
+hkew-6844-4684,Stearn Tooting,2024-05-13 02:41:57,fees,Pending,Donggaocun,China,stootinge8@wise.com,,TRUE,,Phone,,In Progress,Call,High,,
+wopt-8413-7057,Fidelity Rodders,2024-03-08 19:03:37,kyc_transfer_on_hold,Escalated,Sagara,Japan,frodderse9@wise.com,,FALSE,Level 1,Phone,,Closed,Email,Low,,
+wlit-7322-1089,Falkner Arendsen,2024-02-03 13:37:02,referrals,Pending,Blobo,Indonesia,farendsenea@wise.com,,TRUE,,Phone,,Open,Call,High,,
+ugax-7921-6487,Edwin Lippitt,2024-04-16 09:45:56,plastic,Resolved,Roberval,Canada,elippitteb@wise.com,,TRUE,,Email,,Closed,Chat,Medium,,
+atwd-6181-9603,Davine Muffitt,2024-02-19 09:26:06,other,Pending,Ouro Preto do Oeste,Brazil,dmuffittec@wise.com,,TRUE,,Chat,,In Progress,Call,Medium,,
+usik-0985-1744,Tallou Gallaway,2024-06-18 15:13:21,verification,Pending,Zhabagly,Kazakhstan,tgallawayed@wise.com,,TRUE,,Email,,In Progress,Chat,Low,,
+qkvj-2699-6717,Felicdad Macvey,2024-05-24 23:22:15,account_deactivation,Escalated,Sułoszowa,Poland,fmacveyee@wise.com,2,FALSE,Level 3,Phone,2024-05-28 02:01:08,Closed,Email,Medium,4,96
+xtwj-5733-7896,Sasha McGauhy,2024-06-27 05:36:58,where_s_my_money,Resolved,Gantang,China,smcgauhyef@wise.com,1,FALSE,,Chat,2024-06-30 14:12:13,Closed,Chat,High,3,72
+zrdo-2569-5198,Faun Payler,2024-03-18 04:25:07,where_s_my_money,Escalated,Sosnowiec,Poland,fpaylereg@wise.com,1,TRUE,Level 3,Email,2024-03-23 08:10:36,Closed,Call,High,5,120
+kdep-9226-8868,Roland Segoe,2024-01-26 11:28:16,plastic,Escalated,Thepharak,Thailand,rsegoeeh@wise.com,,TRUE,Level 1,Email,,Closed,Call,Low,,
+vpyo-7254-7114,Antonino Rohmer,2024-04-19 16:13:56,privacy,Escalated,Kauman,Indonesia,arohmerei@wise.com,3,FALSE,Level 3,Email,2024-04-22 17:01:47,Closed,Chat,Low,3,72
+teas-4315-5361,Drusi Cholwell,2024-05-01 02:06:32,plastic,Escalated,Zhongshan Donglu,China,dcholwellej@wise.com,,TRUE,Level 1,Email,,Closed,Call,High,,
+ycgx-8370-0686,Iggy Heiner,2024-02-18 09:28:53,plastic,Resolved,Nybro,Sweden,iheinerek@wise.com,1,FALSE,,Email,2024-02-27 16:14:00,Closed,Email,Low,9,216
+cily-7185-5236,Marabel Curtis,2024-01-18 08:11:11,assets/_investments,Pending,Zürich,Switzerland,mcurtisel@wise.com,,FALSE,,Chat,,Open,Call,Medium,,
+pmte-6160-9787,Maurits Avramow,2024-06-21 04:38:20,privacy,Resolved,Bajina Bašta,Serbia,mavramowem@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+uwpj-6157-8531,Clareta Gredden,2024-03-13 02:13:52,referrals,Resolved,Troyes,France,cgreddenen@wise.com,,TRUE,,Chat,,Closed,Email,Medium,,
+lpxq-6736-6977,Elle Sannes,2024-01-01 08:07:32,account_deactivation,Pending,Xiaoyue,China,esanneseo@wise.com,,FALSE,,Phone,,Open,Email,High,,
+ffzu-1840-5199,Carly Ordemann,2024-01-13 13:10:39,plastic,Pending,Qingkenpao,China,cordemannep@wise.com,,TRUE,,Email,,In Progress,Chat,High,,
+wlfm-5736-4270,Welch Sheerin,2024-03-11 02:08:27,fees,Pending,Shiqiao,China,wsheerineq@wise.com,,TRUE,,Chat,,In Progress,Chat,High,,
+xjkc-7130-6382,Alejandra Denniston,2024-02-02 12:31:06,technical_issues,Escalated,Caridade,Portugal,adennistoner@wise.com,,TRUE,Level 3,Phone,,Closed,Email,High,,
+ycac-0766-2618,Ayn Hallawell,2024-04-05 07:36:01,referrals,Pending,Carhué,Argentina,ahallawelles@wise.com,,TRUE,,Phone,,In Progress,Chat,Medium,,
+ydfo-7678-8086,Irena Whitmarsh,2024-03-23 21:39:53,verification,Resolved,Ami,Japan,iwhitmarshet@wise.com,3,FALSE,,Chat,2024-03-26 21:26:31,Closed,Email,High,3,72
+wwyg-9015-1634,Malynda Messruther,2024-05-01 04:44:42,scam,Escalated,Halmstad,Sweden,mmessruthereu@wise.com,5,TRUE,Level 2,Email,2024-05-03 19:42:55,Closed,Email,Medium,2,48
+tkyu-6275-6171,Hagan Pykerman,2024-03-22 00:14:25,other,Resolved,Chengfeng,China,hpykermanev@wise.com,,TRUE,,Chat,,Closed,Chat,High,,
+kbay-8793-3513,Arabele Labell,2024-03-20 18:57:35,account_deactivation,Pending,Zinat,Morocco,alabellew@wise.com,,TRUE,,Email,,In Progress,Call,Medium,,
+vkmn-0092-7266,Elvina Kindley,2024-04-14 00:40:27,scam,Pending,Udënisht,Albania,ekindleyex@wise.com,,TRUE,,Chat,,In Progress,Call,Medium,,
+ncui-8478-1419,Erhard Cowper,2024-01-10 03:20:18,exchange_rate,Escalated,El Paso,United States,ecowperey@wise.com,,FALSE,Level 1,Phone,,Closed,Chat,Medium,,
+cfuz-7489-4403,Andromache Ruddick,2024-05-17 12:05:51,privacy,Resolved,Tigarunggu,Indonesia,aruddickez@wise.com,1,TRUE,,Phone,2024-05-22 23:06:59,Closed,Chat,Medium,5,120
+koyn-7890-2504,Agnesse Gorsse,2024-03-30 15:00:04,plastic,Pending,Lantapan,Philippines,agorssef0@wise.com,,TRUE,,Email,,In Progress,Email,Low,,
+fbnh-7312-2343,Ealasaid Cowper,2024-06-21 14:14:21,exchange_rate,Pending,Llama,Peru,ecowperf1@wise.com,,TRUE,,Chat,,Open,Chat,High,,
+zuiy-4129-7301,Gay Overington,2024-01-04 23:06:03,account_deactivation,Pending,Volkhovskiy,Russia,goveringtonf2@wise.com,,TRUE,,Phone,,In Progress,Call,Medium,,
+qlrf-0880-4857,Sibley Ziemsen,2024-02-14 14:55:01,other,Resolved,Guaíba,Brazil,sziemsenf3@wise.com,,FALSE,,Phone,,Closed,Email,High,,
+rfix-8019-4750,Jerry Keble,2024-03-30 06:55:14,plastic,Pending,Tentúgal,Portugal,jkeblef4@wise.com,,FALSE,,Email,,In Progress,Chat,High,,
+lrgt-9340-2327,Ricoriki Pedro,2024-02-24 15:26:42,fees,Resolved,Pelileo,Ecuador,rpedrof5@wise.com,4,FALSE,,Chat,2024-03-01 23:53:27,Closed,Email,Low,6,144
+pciq-6800-8973,Jourdain Ivetts,2024-02-22 14:05:46,exchange_rate,Pending,Onguday,Russia,jivettsf6@wise.com,,TRUE,,Chat,,Open,Email,Medium,,
+qamf-4759-0772,Merralee Wilcocke,2024-04-20 12:36:05,hat,Resolved,Gaoping,China,mwilcockef7@wise.com,,TRUE,,Chat,,Closed,Chat,High,,
+ofce-5893-8680,Kirbie Thunder,2024-04-23 16:11:25,kyc_transfer_on_hold,Pending,Tangchi,China,kthunderf8@wise.com,,FALSE,,Email,,In Progress,Email,Low,,
+xzzj-7094-6939,Jae Beddon,2024-02-16 09:21:51,scam,Escalated,Chekmagush,Russia,jbeddonf9@wise.com,,FALSE,Level 3,Email,,Closed,Chat,Low,,
+xgtk-8343-4278,Neill Geindre,2024-03-23 01:06:08,privacy,Resolved,Hà Tiên,Vietnam,ngeindrefa@wise.com,3,TRUE,,Chat,2024-03-28 02:54:38,Closed,Email,High,5,120
+mqhv-4956-2566,Neils Goodisson,2024-02-18 00:58:43,privacy,Resolved,Aleysk,Russia,ngoodissonfb@wise.com,,TRUE,,Chat,,Closed,Chat,Low,,
+wjjf-2833-9575,Brice Bearns,2024-03-23 00:34:24,kyc_transfer_on_hold,Pending,Lolotique,El Salvador,bbearnsfc@wise.com,,FALSE,,Email,,Open,Call,High,,
+laoy-4164-2697,Leyla Ratter,2024-02-20 08:45:25,exchange_rate,Resolved,Cabimas,Venezuela,lratterfd@wise.com,5,FALSE,,Email,2024-02-22 12:08:40,Closed,Call,Medium,2,48
+igtr-7027-1683,Miriam Houten,2024-01-29 12:32:45,other,Escalated,Hiji,Japan,mhoutenfe@wise.com,3,FALSE,Level 1,Phone,2024-02-07 03:48:19,Closed,Chat,Medium,9,216
+zjwq-3302-6024,Darrel Scotts,2024-02-27 13:24:18,assets/_investments,Escalated,Ampelgading,Indonesia,dscottsff@wise.com,3,FALSE,Level 3,Email,2024-03-02 20:40:14,Closed,Chat,Low,4,96
+cvar-4238-5408,Derick Sandwith,2024-02-14 12:22:38,plastic,Pending,Telheira,Portugal,dsandwithfg@wise.com,,FALSE,,Phone,,Open,Email,Low,,
+oupf-2782-6301,Alanson Epps,2024-03-01 04:21:02,hat,Resolved,Philadelphia,United States,aeppsfh@wise.com,,FALSE,,Chat,,Closed,Email,Low,,
+rfyg-3987-6530,Jessey Corbyn,2024-04-13 14:17:50,technical_issues,Pending,Qiulu,China,jcorbynfi@wise.com,,FALSE,,Phone,,In Progress,Chat,Medium,,
+jdef-9253-4480,Carr Gartery,2024-06-26 03:23:52,assets/_investments,Resolved,Orléans,France,cgarteryfj@wise.com,,FALSE,,Email,,Closed,Call,Medium,,
+luag-3954-5024,Laurie Habershaw,2024-03-06 18:00:41,customer_service,Pending,Kigali,Rwanda,lhabershawfk@wise.com,,TRUE,,Phone,,Open,Chat,Low,,
+llrg-4874-9936,Homerus Oboy,2024-03-23 05:46:50,plastic,Pending,Monrovia,Liberia,hoboyfl@wise.com,,FALSE,,Email,,In Progress,Chat,High,,
+xeim-9246-0689,Jerrome Kearney,2024-06-05 16:14:47,verification,Escalated,Arevshat,Armenia,jkearneyfm@wise.com,4,TRUE,Level 3,Chat,2024-06-09 05:15:32,Closed,Call,High,4,96
+vxeq-8233-7528,Paige Mosten,2024-05-10 20:32:29,technical_issues,Escalated,Propriá,Brazil,pmostenfn@wise.com,,FALSE,Level 1,Phone,,Closed,Call,Low,,
+mwnw-6577-8738,Effie Boneham,2024-03-11 16:40:24,fees,Pending,Tianzishan,China,ebonehamfo@wise.com,,FALSE,,Phone,,In Progress,Chat,Low,,
+mwpi-2139-8551,Pollyanna Mocher,2024-03-09 11:48:26,verification,Resolved,Sanhu,China,pmocherfp@wise.com,5,TRUE,,Phone,2024-03-19 04:55:10,Closed,Chat,Low,10,240
+yrco-5973-3815,Dag Bigley,2024-03-03 11:29:57,customer_service,Pending,Juncalito Abajo,Dominican Republic,dbigleyfq@wise.com,,FALSE,,Phone,,Open,Call,Medium,,
+pkhv-6334-5687,Napoleon Klesl,2024-02-24 14:48:40,other,Pending,Magoúla,Greece,nkleslfr@wise.com,,TRUE,,Chat,,In Progress,Chat,Low,,
+vvmf-7087-8940,Marwin Ceaser,2024-03-10 20:15:07,privacy,Pending,Daet,Philippines,mceaserfs@wise.com,,TRUE,,Chat,,In Progress,Chat,High,,
+obxf-3286-4120,Orv Ikringill,2024-06-08 23:20:03,fees,Resolved,Stockholm,Sweden,oikringillft@wise.com,,TRUE,,Phone,,Closed,Chat,High,,
+pwha-4409-6736,Lauren Blackater,2024-05-09 22:07:10,other,Escalated,Banjar Dharmasemedi,Indonesia,lblackaterfu@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Medium,,
+cbbh-0183-7128,Dulciana Gimblett,2024-03-30 04:40:15,account_deactivation,Resolved,Carreira,Portugal,dgimblettfv@wise.com,4,FALSE,,Chat,2024-04-02 01:49:44,Closed,Email,Low,3,72
+wxer-5694-8791,Gaven Greatex,2024-02-28 14:00:28,privacy,Escalated,Ålesund,Norway,ggreatexfw@wise.com,,TRUE,Level 1,Chat,,Closed,Email,Medium,,
+vaqg-4497-8850,Delores Greated,2024-04-28 02:52:50,kyc_transfer_on_hold,Pending,Wakkanai,Japan,dgreatedfx@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+jytv-3876-5150,Mary Itter,2024-05-14 00:43:25,where_s_my_money,Escalated,Polonne,Ukraine,mitterfy@wise.com,2,TRUE,Level 1,Email,2024-05-17 01:09:08,Closed,Call,Low,3,72
+xpsw-7028-8843,Darya Cescot,2024-02-26 06:07:56,privacy,Pending,Paris 05,France,dcescotfz@wise.com,,FALSE,,Phone,,Open,Email,Low,,
+tfzh-9421-6668,Kirbee Brownsill,2024-04-26 05:46:04,where_s_my_money,Pending,Costeira do Pirajubae,Brazil,kbrownsillg0@wise.com,,TRUE,,Phone,,In Progress,Email,Low,,
+ajdn-0347-0173,Esra Poletto,2024-05-11 08:42:01,hat,Resolved,Bjärred,Sweden,epolettog1@wise.com,,TRUE,,Phone,,Closed,Call,High,,
+evlt-3428-6616,Leodora Lawley,2024-01-03 10:28:18,scam,Resolved,Kongsvinger,Norway,llawleyg2@wise.com,,FALSE,,Email,,Closed,Chat,Low,,
+sxwu-3520-4211,Rosalie McLoney,2024-03-07 07:53:47,where_s_my_money,Pending,Chipoka,Malawi,rmcloneyg3@wise.com,,TRUE,,Email,,In Progress,Chat,Medium,,
+dqeg-4966-1414,Tabb Proctor,2024-03-16 01:08:32,verification,Escalated,Al Manāqil,Sudan,tproctorg4@wise.com,,TRUE,Level 1,Phone,,Closed,Chat,Low,,
+qwfe-4946-1291,Sawyer Wootton,2024-05-10 16:58:52,hat,Escalated,Lobatse,Botswana,swoottong5@wise.com,2,TRUE,Level 2,Email,2024-05-16 23:34:58,Closed,Chat,Low,6,144
+mnwy-0278-0345,Andeee Bredee,2024-02-16 21:55:03,customer_service,Escalated,Stulovo,Russia,abredeeg6@wise.com,,TRUE,Level 1,Phone,,Closed,Chat,Medium,,
+kptf-3094-0617,Bab Discombe,2024-03-15 18:34:08,hat,Escalated,Kungsör,Sweden,bdiscombeg7@wise.com,1,TRUE,Level 1,Email,2024-03-25 12:47:55,Closed,Call,Low,10,240
+evnz-3734-0697,Cyndy Rimer,2024-01-05 13:49:59,where_s_my_money,Resolved,Elat,Indonesia,crimerg8@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+cptq-7296-8765,Antonio Kabisch,2024-02-01 15:53:36,where_s_my_money,Pending,Travesía,Honduras,akabischg9@wise.com,,FALSE,,Chat,,Open,Chat,Low,,
+uwtg-6001-2810,Raff Bernette,2024-01-04 15:39:04,technical_issues,Resolved,Vila Pouca da Beira,Portugal,rbernettega@wise.com,5,TRUE,,Email,2024-01-12 00:07:57,Closed,Email,Low,8,192
+czqm-3501-0091,Bruis Greatbach,2024-06-05 22:03:21,hat,Resolved,Vangaži,Latvia,bgreatbachgb@wise.com,4,TRUE,,Chat,2024-06-08 14:56:55,Closed,Email,High,3,72
+blgx-6333-5660,Olimpia Ruddom,2024-01-10 13:00:48,hat,Pending,Trenggulunan,Indonesia,oruddomgc@wise.com,,FALSE,,Phone,,In Progress,Email,Medium,,
+iozg-3042-8155,Rickert Adolfson,2024-03-21 16:28:20,fees,Resolved,Ouagadougou,Burkina Faso,radolfsongd@wise.com,1,FALSE,,Chat,2024-03-23 15:35:38,Closed,Chat,Medium,2,48
+zryx-3798-1291,Olivero Johncey,2024-05-13 06:54:39,customer_service,Escalated,Zhoukou,China,ojohnceyge@wise.com,,FALSE,Level 3,Chat,,Closed,Chat,High,,
+xtpo-8512-0000,Susette Crosfeld,2024-03-03 01:13:12,privacy,Pending,Suraż,Poland,scrosfeldgf@wise.com,,FALSE,,Email,,Open,Chat,Medium,,
+erby-2385-7369,Rori Souten,2024-06-04 11:39:12,customer_service,Resolved,George Hill,Anguilla,rsoutengg@wise.com,,FALSE,,Email,,Closed,Call,Medium,,
+xdga-3813-8050,Darrick Critoph,2024-04-05 12:06:50,other,Escalated,Pedro Leopoldo,Brazil,dcritophgh@wise.com,,TRUE,Level 3,Email,,Closed,Chat,Low,,
+abbx-4677-0815,Rocky Greally,2024-06-14 20:20:31,plastic,Pending,Arcos de Valdevez,Portugal,rgreallygi@wise.com,,FALSE,,Email,,In Progress,Email,Medium,,
+wkot-9282-8351,Mackenzie Goldney,2024-05-26 19:37:00,other,Resolved,Temperak,Indonesia,mgoldneygj@wise.com,4,FALSE,,Chat,2024-05-30 13:04:11,Closed,Email,Medium,4,96
+dowh-4567-2614,Arie Hamly,2024-02-05 15:48:49,other,Pending,Lakeland,United States,ahamlygk@wise.com,,FALSE,,Phone,,In Progress,Chat,High,,
+ntvx-2661-4830,Aggy Pipet,2024-06-08 08:43:13,where_s_my_money,Escalated,Erie,United States,apipetgl@wise.com,,FALSE,Level 3,Phone,,Closed,Email,Medium,,
+nckk-6942-9488,Salmon Adamiak,2024-01-31 01:21:57,referrals,Pending,Kaskinen,Finland,sadamiakgm@wise.com,,FALSE,,Phone,,Open,Chat,Medium,,
+bapz-2018-2700,Torre Valance,2024-04-25 15:20:54,customer_service,Pending,Zhangjiagang,China,tvalancegn@wise.com,,TRUE,,Phone,,In Progress,Email,High,,
+gmmh-2388-1102,Corby Edlyne,2024-03-21 01:59:38,assets/_investments,Escalated,Ampeleíes,Greece,cedlynego@wise.com,,TRUE,Level 2,Chat,,Closed,Call,High,,
+mxne-4255-1385,Delora Abotson,2024-04-11 06:06:22,exchange_rate,Pending,Paris 10,France,dabotsongp@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+tfot-0872-0774,Starlene Rountree,2024-03-01 16:26:10,hat,Escalated,Mełgiew,Poland,srountreegq@wise.com,2,TRUE,Level 2,Chat,2024-03-11 11:18:58,Closed,Call,Low,10,240
+qqkd-7526-0988,Ezri Gatus,2024-05-23 17:55:19,kyc_transfer_on_hold,Resolved,San Juan Bautista,Venezuela,egatusgr@wise.com,,FALSE,,Email,,Closed,Call,High,,
+rtzy-2980-9923,Katie Kemm,2024-02-15 17:26:28,privacy,Pending,Raków,Poland,kkemmgs@wise.com,,TRUE,,Email,,Open,Call,Medium,,
+ayfl-3679-6634,Esme Verdon,2024-01-23 11:46:08,fees,Escalated,Ordem,Portugal,everdongt@wise.com,,FALSE,Level 2,Phone,,Closed,Email,High,,
+deir-4344-8368,Tamra Ogglebie,2024-06-19 19:53:48,referrals,Resolved,Sūrān,Iran,togglebiegu@wise.com,1,FALSE,,Email,2024-06-29 16:41:24,Closed,Call,Low,10,240
+lxlt-3025-3339,Ennis Nicklinson,2024-05-04 13:06:23,exchange_rate,Resolved,Taen Tengah,Indonesia,enicklinsongv@wise.com,1,TRUE,,Phone,2024-05-08 03:27:12,Closed,Email,High,4,96
+yblx-2915-1310,Halley Dettmar,2024-03-28 04:37:58,scam,Pending,Tubel,Indonesia,hdettmargw@wise.com,,FALSE,,Chat,,In Progress,Call,Low,,
+vqfk-8194-5542,Matthus Beadnall,2024-06-11 18:30:21,other,Escalated,Dagua,Colombia,mbeadnallgx@wise.com,,TRUE,Level 3,Phone,,Closed,Call,Medium,,
+insj-0354-8719,Lutero Brozek,2024-04-20 22:28:42,customer_service,Resolved,Jinhe,China,lbrozekgy@wise.com,5,TRUE,,Email,2024-04-25 10:29:46,Closed,Chat,High,5,120
+efzr-7973-6521,Oralia Conniam,2024-03-11 11:04:58,account_deactivation,Resolved,Guandu,China,oconniamgz@wise.com,1,FALSE,,Chat,2024-03-14 21:09:31,Closed,Email,High,3,72
+cvkz-7452-8215,Michaeline Trodden,2024-01-28 09:24:16,plastic,Escalated,Xicheng,China,mtroddenh0@wise.com,,FALSE,Level 3,Chat,,Closed,Email,High,,
+yiqi-7473-9052,Julianne Snufflebottom,2024-03-21 02:10:14,privacy,Resolved,Yunluo,China,jsnufflebottomh1@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+lwix-1506-9516,Griselda Lancastle,2024-01-03 00:17:32,referrals,Escalated,Aleksandrovac,Serbia,glancastleh2@wise.com,,TRUE,Level 3,Email,,Closed,Call,Low,,
+bewt-3681-1417,Brandea Chaloner,2024-06-18 02:13:38,assets/_investments,Resolved,Talitsy,Russia,bchalonerh3@wise.com,2,FALSE,,Phone,2024-06-26 00:55:56,Closed,Chat,High,8,192
+svux-8685-2703,Emera Dawid,2024-05-15 23:31:24,kyc_transfer_on_hold,Pending,San Pedro,Mexico,edawidh4@wise.com,,FALSE,,Phone,,In Progress,Chat,Medium,,
+nrbt-8426-5026,Linn Leftridge,2024-02-25 09:41:20,customer_service,Pending,Vredendal,South Africa,lleftridgeh5@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+mtdo-4723-4413,Hedwig Dillet,2024-01-30 20:16:49,assets/_investments,Escalated,Río Tercero,Argentina,hdilleth6@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Medium,,
+utfn-0322-8615,Abrahan Barrowcliff,2024-03-01 21:12:54,kyc_transfer_on_hold,Resolved,San Felipe,Chile,abarrowcliffh7@wise.com,,FALSE,,Email,,Closed,Chat,High,,
+jmni-4213-6793,Dareen Stoll,2024-01-05 15:52:35,hat,Escalated,Frutal,Brazil,dstollh8@wise.com,,FALSE,Level 2,Email,,Closed,Email,High,,
+vglw-2629-7889,Perle Mila,2024-05-31 06:30:25,exchange_rate,Escalated,Nuku‘alofa,Tonga,pmilah9@wise.com,3,TRUE,Level 1,Chat,2024-06-07 17:07:11,Closed,Chat,Medium,7,168
+wxfk-3594-0379,Brear Lackner,2024-01-07 16:52:45,exchange_rate,Pending,Neiva,Colombia,blacknerha@wise.com,,TRUE,,Chat,,In Progress,Call,High,,
+cuhe-6234-7618,Concettina Hedau,2024-01-30 23:34:00,other,Pending,Dolní Čermná,Czech Republic,chedauhb@wise.com,,FALSE,,Phone,,In Progress,Chat,Medium,,
+oeeg-2819-6529,Fayre Calwell,2024-01-04 10:08:08,privacy,Escalated,Sukasenang,Indonesia,fcalwellhc@wise.com,,FALSE,Level 2,Email,,Closed,Chat,Low,,
+rgvb-6331-4607,Nickie Braffington,2024-02-28 17:41:40,fees,Escalated,Bandaran,Indonesia,nbraffingtonhd@wise.com,,TRUE,Level 2,Phone,,Closed,Email,Low,,
+gdtb-2638-9299,Daniele Nouch,2024-04-05 19:33:37,verification,Escalated,Bazha,China,dnouchhe@wise.com,,FALSE,Level 3,Phone,,Closed,Email,Low,,
+wgsu-3798-9018,Algernon Tootal,2024-03-15 23:31:54,technical_issues,Escalated,San,Mali,atootalhf@wise.com,,FALSE,Level 1,Email,,Closed,Chat,Medium,,
+fcey-2295-0737,Oliy Adamsen,2024-06-13 17:06:48,fees,Pending,Doujia,China,oadamsenhg@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+vzdr-6133-6358,Cameron Wall,2024-05-08 12:33:16,customer_service,Escalated,Fresno,United States,cwallhh@wise.com,,FALSE,Level 3,Email,,Closed,Call,Medium,,
+wysl-2014-8485,Jamison Millsom,2024-04-08 00:41:22,plastic,Pending,Padangsidempuan,Indonesia,jmillsomhi@wise.com,,FALSE,,Email,,Open,Chat,High,,
+byuy-3731-2109,Barthel Matthessen,2024-05-19 05:04:47,fees,Resolved,Hamburg,Germany,bmatthessenhj@wise.com,,FALSE,,Email,,Closed,Chat,Medium,,
+nhvx-4434-5722,Liesa Gingold,2024-02-24 23:28:10,customer_service,Resolved,Arroyo Seco,Argentina,lgingoldhk@wise.com,,FALSE,,Phone,,Closed,Email,Medium,,
+fxtn-4219-2327,Aron Sandercock,2024-01-26 14:54:02,scam,Resolved,Milevsko,Czech Republic,asandercockhl@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+hbku-6347-0503,Fairlie Merritt,2024-06-01 20:14:46,verification,Escalated,Artimet,Armenia,fmerritthm@wise.com,,TRUE,Level 3,Email,,Closed,Chat,Low,,
+kplg-0066-7918,Pris Mallison,2024-04-21 15:55:00,hat,Pending,Pivovarikha,Russia,pmallisonhn@wise.com,,FALSE,,Chat,,In Progress,Call,Medium,,
+wulz-0750-0492,De witt Prinett,2024-06-12 09:02:27,technical_issues,Escalated,Kolkhozobod,Tajikistan,dwittho@wise.com,,FALSE,Level 2,Chat,,Closed,Email,Medium,,
+irym-1861-2340,Katrine Jotcham,2024-03-18 10:54:55,privacy,Resolved,Joinville,Brazil,kjotchamhp@wise.com,,FALSE,,Email,,Closed,Email,Medium,,
+aezq-2634-1950,Eugene Brodie,2024-04-09 20:38:37,assets/_investments,Pending,Aparecida,Brazil,ebrodiehq@wise.com,,TRUE,,Chat,,In Progress,Chat,Medium,,
+evyr-2118-2493,Erik MacInerney,2024-06-03 16:33:21,where_s_my_money,Escalated,Ursus,Poland,emacinerneyhr@wise.com,,TRUE,Level 2,Email,,Closed,Chat,Low,,
+okzp-5644-2454,Baily Robshaw,2024-03-12 07:01:39,referrals,Escalated,Sabang,Indonesia,brobshawhs@wise.com,,TRUE,Level 3,Email,,Closed,Chat,High,,
+fgsz-7878-6185,Chevy Buckston,2024-01-07 04:39:37,scam,Pending,Zhangbei,China,cbuckstonht@wise.com,,FALSE,,Email,,Open,Chat,Medium,,
+kolv-5205-4074,Ham Corbert,2024-03-18 11:56:13,kyc_transfer_on_hold,Pending,Carmen,Philippines,hcorberthu@wise.com,,FALSE,,Phone,,In Progress,Call,Low,,
+kvjx-0534-8231,Kermy Starford,2024-03-24 22:11:23,kyc_transfer_on_hold,Escalated,Freire,Chile,kstarfordhv@wise.com,,TRUE,Level 1,Email,,Closed,Chat,Low,,
+otcq-6718-9881,Karel Gabitis,2024-03-23 04:04:55,account_deactivation,Resolved,Gresik,Indonesia,kgabitishw@wise.com,,TRUE,,Email,,Closed,Email,High,,
+nmjd-5087-8728,Anselm Rhys,2024-05-10 10:46:50,technical_issues,Escalated,Shaoxing,China,arhyshx@wise.com,,TRUE,Level 3,Phone,,Closed,Email,Low,,
+rdjy-3841-4058,Pincas McCarrison,2024-04-20 00:16:07,exchange_rate,Escalated,Ołpiny,Poland,pmccarrisonhy@wise.com,,TRUE,Level 2,Phone,,Closed,Email,High,,
+slew-9501-8070,Bree Lauga,2024-01-23 07:29:35,referrals,Resolved,Dangchang Chengguanzhen,China,blaugahz@wise.com,,FALSE,,Chat,,Closed,Call,Medium,,
+pwrr-5740-8921,Desdemona Grandisson,2024-02-28 18:43:04,privacy,Resolved,Santa Rosa,Mexico,dgrandissoni0@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+jxxv-1973-6758,Annadiane Ricciardello,2024-05-25 00:16:13,verification,Resolved,Daytona Beach,United States,aricciardelloi1@wise.com,,TRUE,,Chat,,Closed,Email,Medium,,
+ubnv-1046-6231,Zilvia Leamon,2024-01-15 06:17:33,fees,Pending,Hatton,Sri Lanka,zleamoni2@wise.com,,FALSE,,Chat,,Open,Call,High,,
+cnzv-8815-7680,Inger Chennells,2024-05-17 17:11:06,referrals,Escalated,Duanjia,China,ichennellsi3@wise.com,3,FALSE,Level 1,Phone,2024-05-19 16:05:05,Closed,Call,High,2,48
+sgct-9082-3904,Chet Morratt,2024-03-24 09:03:48,referrals,Pending,Kisarawe,Tanzania,cmorratti4@wise.com,,TRUE,,Chat,,In Progress,Email,High,,
+ybiv-9671-7933,Mattias Ridding,2024-01-13 02:51:51,other,Resolved,Santa Brigida,Philippines,mriddingi5@wise.com,5,TRUE,,Phone,2024-01-18 14:31:29,Closed,Chat,Low,5,120
+ueve-6671-0606,Ivie Donlon,2024-05-16 00:20:55,verification,Pending,Pampachiri,Peru,idonloni6@wise.com,,FALSE,,Chat,,In Progress,Email,Low,,
+xhww-0580-4573,Gussie Boor,2024-02-09 13:14:23,exchange_rate,Resolved,Mora,Cameroon,gboori7@wise.com,,FALSE,,Email,,Closed,Email,High,,
+soeh-0990-1466,Maurice Kellet,2024-02-12 19:33:10,hat,Escalated,Lanckorona,Poland,mkelleti8@wise.com,,TRUE,Level 2,Chat,,Closed,Email,High,,
+whwr-1648-5616,Thornie Doogan,2024-02-28 15:16:18,assets/_investments,Escalated,Tuapse,Russia,tdoogani9@wise.com,,FALSE,Level 2,Chat,,Closed,Call,High,,
+ergu-3721-8411,Tootsie Duff,2024-06-22 08:54:03,other,Pending,Windusakti Hilir,Indonesia,tduffia@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+fpva-3766-2191,Brinn Begwell,2024-04-13 15:47:41,plastic,Pending,Inta,Russia,bbegwellib@wise.com,,TRUE,,Chat,,In Progress,Email,High,,
+bkkg-5979-7738,Chelsey Matskiv,2024-04-17 21:03:01,fees,Pending,Gary,United States,cmatskivic@wise.com,,FALSE,,Phone,,Open,Email,Low,,
+prwy-0017-8899,Jemimah Nazaret,2024-01-10 01:36:22,hat,Escalated,Avanca,Portugal,jnazaretid@wise.com,,FALSE,Level 3,Email,,Closed,Email,Medium,,
+jszy-5761-1518,Vidovic Beacon,2024-03-18 20:25:16,where_s_my_money,Pending,Mooirivier,South Africa,vbeaconie@wise.com,,FALSE,,Chat,,In Progress,Call,High,,
+ekbj-6453-7262,Diena Huyge,2024-02-22 10:36:21,technical_issues,Escalated,Kuniran,Indonesia,dhuygeif@wise.com,1,FALSE,Level 3,Phone,2024-02-26 17:05:23,Closed,Email,Medium,4,96
+jyoq-8458-2208,Paulette Boatwright,2024-03-24 02:17:12,account_deactivation,Escalated,Liwu,China,pboatwrightig@wise.com,1,TRUE,Level 3,Phone,2024-03-29 11:37:14,Closed,Call,Medium,5,120
+zofr-3428-8023,Seymour Dorton,2024-01-23 05:14:12,hat,Resolved,Yebaishou,China,sdortonih@wise.com,,FALSE,,Email,,Closed,Chat,Low,,
+lqyz-2762-9134,Liane Loughney,2024-03-01 15:02:54,kyc_transfer_on_hold,Pending,Ballina,Ireland,lloughneyii@wise.com,,FALSE,,Chat,,In Progress,Email,Low,,
+pxqe-9007-3825,Knox Culter,2024-02-12 15:14:06,kyc_transfer_on_hold,Resolved,Gading,Indonesia,kculterij@wise.com,,FALSE,,Phone,,Closed,Email,High,,
+lykh-7242-2829,Roseanne Fort,2024-02-22 07:27:47,exchange_rate,Escalated,Niny,Russia,rfortik@wise.com,,TRUE,Level 2,Email,,Closed,Call,Low,,
+qcqf-0566-1174,Emma Attwell,2024-05-18 10:40:57,account_deactivation,Pending,Lyon,France,eattwellil@wise.com,,FALSE,,Email,,In Progress,Call,Medium,,
+brft-0233-3596,Arlene Dagon,2024-04-23 01:25:26,customer_service,Escalated,Wiśniewo,Poland,adagonim@wise.com,,TRUE,Level 1,Chat,,Closed,Call,Low,,
+wjkx-0893-5004,Rochette Ison,2024-06-01 03:46:40,fees,Escalated,Chociwel,Poland,risonin@wise.com,,FALSE,Level 3,Phone,,Closed,Chat,High,,
+hbng-0007-0045,Letti Gammon,2024-02-20 16:44:23,plastic,Pending,Horta,Portugal,lgammonio@wise.com,,FALSE,,Chat,,Open,Call,High,,
+pfde-6337-4798,Isabeau McCorkell,2024-03-23 18:59:56,exchange_rate,Pending,Xinzhou,China,imccorkellip@wise.com,,FALSE,,Phone,,Open,Call,High,,
+umqc-1554-6090,Vernon Zarfati,2024-03-22 03:07:37,where_s_my_money,Escalated,Dalai,China,vzarfatiiq@wise.com,5,TRUE,Level 3,Chat,2024-03-23 20:44:10,Closed,Call,Low,1,24
+cgvk-3842-1327,Fitzgerald Shelp,2024-02-26 20:42:07,where_s_my_money,Pending,Tëploye,Russia,fshelpir@wise.com,,FALSE,,Chat,,In Progress,Email,Low,,
+huts-5981-3704,Felicity Crayk,2024-03-08 13:15:21,account_deactivation,Escalated,Kastsyukowka,Belarus,fcraykis@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Medium,,
+apda-5775-7534,Sophie Convery,2024-01-04 04:37:33,referrals,Escalated,Pekuwon,Indonesia,sconveryit@wise.com,,FALSE,Level 1,Chat,,Closed,Email,High,,
+wvci-8208-4930,Ignacius Demann,2024-05-08 16:55:44,customer_service,Escalated,Michałów,Poland,idemanniu@wise.com,4,TRUE,Level 1,Phone,2024-05-10 02:42:06,Closed,Email,Medium,2,48
+scrd-1289-6378,Joleen Palin,2024-04-16 21:45:29,kyc_transfer_on_hold,Resolved,Binangun,Indonesia,jpaliniv@wise.com,2,FALSE,,Chat,2024-04-26 18:13:16,Closed,Email,Low,10,240
+epwu-2388-6704,Kleon Padson,2024-03-29 18:41:27,scam,Escalated,Núi Sập,Vietnam,kpadsoniw@wise.com,5,FALSE,Level 2,Phone,2024-04-05 18:33:41,Closed,Email,High,7,168
+fpnb-5250-2534,Tim Ewdale,2024-06-27 02:33:24,customer_service,Resolved,Baranovichi,Belarus,tewdaleix@wise.com,3,TRUE,,Chat,2024-06-30 22:29:04,Closed,Chat,High,3,72
+onef-8082-4032,Licha Drewe,2024-05-29 14:11:53,assets/_investments,Pending,Thạnh Phú,Vietnam,ldreweiy@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+qnfc-2250-7720,Kara-lynn Salzberger,2024-04-04 04:40:49,fees,Pending,Boise,United States,ksalzbergeriz@wise.com,,FALSE,,Phone,,Open,Call,Low,,
+glip-3757-7640,Christophorus Beinisch,2024-03-24 22:17:25,scam,Escalated,Bornu Yassu,Nigeria,cbeinischj0@wise.com,,FALSE,Level 2,Email,,Closed,Chat,Low,,
+mgqe-5132-8855,Kittie Briddock,2024-01-13 08:13:17,kyc_transfer_on_hold,Resolved,Xuebu,China,kbriddockj1@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+dxgx-0196-2456,Cullan Wyndham,2024-01-14 04:00:22,fees,Resolved,Charleston,United States,cwyndhamj2@wise.com,,TRUE,,Chat,,Closed,Chat,High,,
+rdwc-4289-6487,Lurlene Santostefano.,2024-02-09 11:04:32,scam,Pending,Tây Hồ,Vietnam,lsantostefanoj3@wise.com,,TRUE,,Phone,,In Progress,Chat,High,,
+hlay-2645-0943,Ahmed Ticksall,2024-01-10 20:12:07,where_s_my_money,Pending,Tysmenytsya,Ukraine,aticksallj4@wise.com,,FALSE,,Chat,,In Progress,Call,Medium,,
+urjm-7162-3248,Spike Brian,2024-04-25 14:19:14,referrals,Escalated,Ambar,Peru,sbrianj5@wise.com,,FALSE,Level 1,Email,,Closed,Email,Low,,
+tkdq-0515-9564,Loree Walworth,2024-04-21 14:16:37,kyc_transfer_on_hold,Pending,Maglajani,Bosnia and Herzegovina,lwalworthj6@wise.com,,TRUE,,Chat,,Open,Call,High,,
+wvlx-0498-8117,Montague Witter,2024-06-13 02:45:36,hat,Resolved,Lille,France,mwitterj7@wise.com,,TRUE,,Phone,,Closed,Email,High,,
+tgsy-6634-0893,Marijo Challin,2024-05-19 21:47:49,hat,Pending,Freiria,Portugal,mchallinj8@wise.com,,TRUE,,Email,,In Progress,Call,High,,
+hyrw-4503-2655,Dyanne Werndly,2024-02-15 11:15:40,privacy,Pending,Laramate,Peru,dwerndlyj9@wise.com,,TRUE,,Email,,In Progress,Chat,High,,
+qtcq-8615-6876,Kenn Salle,2024-02-27 05:16:56,kyc_transfer_on_hold,Pending,Marka,Somalia,ksalleja@wise.com,,FALSE,,Email,,In Progress,Chat,Medium,,
+nbzx-6485-8107,Neale Treat,2024-05-22 03:50:29,verification,Pending,Pankshin,Nigeria,ntreatjb@wise.com,,FALSE,,Email,,In Progress,Call,Low,,
+olym-3426-1500,Riley Poschel,2024-01-04 15:05:54,technical_issues,Escalated,Ljusdal,Sweden,rposcheljc@wise.com,2,FALSE,Level 3,Chat,2024-01-06 19:04:58,Closed,Call,High,2,48
+kbct-3287-0279,Christye Zuanelli,2024-06-11 12:16:30,assets/_investments,Escalated,Jubaoshan,China,czuanellijd@wise.com,,FALSE,Level 1,Email,,Closed,Email,Low,,
+tuqt-2884-2782,Xever Wraith,2024-04-26 23:28:47,customer_service,Escalated,Julita,Philippines,xwraithje@wise.com,4,TRUE,Level 2,Email,2024-05-06 22:42:09,Closed,Email,High,10,240
+vydd-4638-4485,Meryl Davydzenko,2024-06-03 12:37:03,fees,Resolved,Awjilah,Libya,mdavydzenkojf@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+ixpp-3425-4769,Regan Dorrity,2024-06-28 12:32:42,fees,Resolved,Panoongan,Indonesia,rdorrityjg@wise.com,,FALSE,,Phone,,Closed,Chat,High,,
+njvr-6114-1464,Dorothy Vakhrushev,2024-03-06 00:01:15,scam,Pending,North Battleford,Canada,dvakhrushevjh@wise.com,,TRUE,,Email,,In Progress,Call,High,,
+dtds-9140-3220,Salomon Van Schafflaer,2024-01-22 14:19:49,fees,Pending,Chongjin,North Korea,svanji@wise.com,,TRUE,,Phone,,Open,Email,Low,,
+yymg-8295-9043,Shauna Eagland,2024-04-20 12:59:48,exchange_rate,Pending,Sŭedinenie,Bulgaria,seaglandjj@wise.com,,TRUE,,Email,,Open,Email,High,,
+cfju-5732-1925,Bibby Pinard,2024-02-19 16:32:31,kyc_transfer_on_hold,Resolved,Mainri,China,bpinardjk@wise.com,,FALSE,,Email,,Closed,Email,High,,
+qxsp-9362-1302,Benjamin Firks,2024-04-29 23:44:55,fees,Escalated,Bouaké,Ivory Coast,bfirksjl@wise.com,3,TRUE,Level 3,Phone,2024-05-03 09:23:23,Closed,Chat,High,4,96
+hgha-8593-1267,Connor Lamba,2024-01-28 05:18:40,plastic,Escalated,Pumwani,Kenya,clambajm@wise.com,,TRUE,Level 2,Email,,Closed,Email,High,,
+bvop-8601-0646,Elka Deavin,2024-04-19 07:39:10,assets/_investments,Resolved,Não Me Toque,Brazil,edeavinjn@wise.com,,FALSE,,Chat,,Closed,Email,Low,,
+gwuy-6834-5195,Cliff Ribchester,2024-05-17 03:36:08,kyc_transfer_on_hold,Escalated,Kolbuszowa,Poland,cribchesterjo@wise.com,,FALSE,Level 3,Phone,,Closed,Call,High,,
+nyek-9928-7430,Caryn Duprey,2024-04-08 19:22:56,kyc_transfer_on_hold,Pending,Severo-Zadonsk,Russia,cdupreyjp@wise.com,,FALSE,,Chat,,In Progress,Call,Low,,
+cbbt-7611-9475,Tracy McGragh,2024-05-28 14:52:04,referrals,Escalated,Mailsi,Pakistan,tmcgraghjq@wise.com,,FALSE,Level 1,Phone,,Closed,Call,Low,,
+qvpq-8576-7224,Flory Pakeman,2024-01-22 04:55:39,technical_issues,Escalated,Paphos,Cyprus,fpakemanjr@wise.com,4,FALSE,Level 2,Chat,2024-01-30 19:43:08,Closed,Call,Low,8,192
+jimy-5877-1437,Jasmine Copley,2024-05-15 03:40:26,where_s_my_money,Resolved,Paço de Arcos,Portugal,jcopleyjs@wise.com,,FALSE,,Phone,,Closed,Call,Medium,,
+zlzi-7586-4452,Lorettalorna Ferrar,2024-06-29 07:18:36,fees,Escalated,Risālpur,Pakistan,lferrarjt@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Medium,,
+ywjk-5797-3136,Rolf Ellul,2024-04-04 15:27:40,where_s_my_money,Escalated,Noebesa,Indonesia,rellulju@wise.com,5,FALSE,Level 2,Email,2024-04-07 06:34:35,Closed,Chat,Low,3,72
+qbfm-3625-0994,Cary Lillow,2024-01-01 10:58:14,privacy,Resolved,Palcamayo,Peru,clillowjv@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+euwr-4962-6005,Seana Culverhouse,2024-01-05 07:44:24,verification,Pending,Rato,Indonesia,sculverhousejw@wise.com,,FALSE,,Email,,In Progress,Call,High,,
+cwje-6756-0715,Catlin McMains,2024-03-19 09:33:00,fees,Escalated,Pompano Beach,United States,cmcmainsjx@wise.com,,TRUE,Level 2,Email,,Closed,Chat,Low,,
+unjm-1920-1993,Chiquia Marples,2024-01-19 07:40:27,verification,Resolved,Machang,China,cmarplesjy@wise.com,,FALSE,,Chat,,Closed,Call,Medium,,
+iaiz-0589-9983,Caprice Paulot,2024-03-31 21:22:03,exchange_rate,Pending,Dijon,France,cpaulotjz@wise.com,,FALSE,,Email,,Open,Chat,Low,,
+auxh-9446-0432,Colly Ordelt,2024-05-13 11:23:00,technical_issues,Escalated,Zbąszynek,Poland,cordeltk0@wise.com,4,FALSE,Level 3,Chat,2024-05-15 05:42:27,Closed,Email,Low,2,48
+izuw-0485-7633,Alonso Pirrie,2024-05-16 11:34:00,scam,Pending,Obninsk,Russia,apirriek1@wise.com,,TRUE,,Phone,,Open,Call,Low,,
+qfze-1997-6783,Saundra Aps,2024-05-09 15:02:23,plastic,Resolved,Sydney,Australia,sapsk2@wise.com,1,FALSE,,Chat,2024-05-17 18:22:40,Closed,Call,High,8,192
+ogkm-0240-3514,Jamison Priddey,2024-01-19 11:41:52,hat,Pending,Meaux,France,jpriddeyk3@wise.com,,TRUE,,Phone,,In Progress,Chat,High,,
+afll-6418-0710,Krissy Fawthorpe,2024-06-18 13:23:26,scam,Escalated,Krasnofarfornyy,Russia,kfawthorpek4@wise.com,,FALSE,Level 3,Email,,Closed,Email,High,,
+xnez-9614-8093,Tabatha Scaddon,2024-03-03 11:24:55,where_s_my_money,Escalated,Markowa,Poland,tscaddonk5@wise.com,,FALSE,Level 1,Email,,Closed,Email,Medium,,
+dhwq-8882-1814,Bev Jopling,2024-01-30 19:56:40,plastic,Escalated,Seattle,United States,bjoplingk6@wise.com,,TRUE,Level 1,Chat,,Closed,Chat,Medium,,
+lfkk-5978-8194,Bertina Ramel,2024-03-25 05:32:39,fees,Resolved,Rosario del Ingre,Bolivia,bramelk7@wise.com,,FALSE,,Email,,Closed,Email,High,,
+jciv-1986-8905,Enid Helgass,2024-05-02 04:48:51,account_deactivation,Escalated,Kafr al Labad,Palestinian Territory,ehelgassk8@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Medium,,
+jnob-8025-3064,Sanderson Vineall,2024-05-05 23:17:19,where_s_my_money,Pending,Tampere,Finland,svineallk9@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+ykht-6298-6798,Curt Brisco,2024-02-05 10:01:34,scam,Escalated,Yoichi,Japan,cbriscoka@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Low,,
+olfr-5191-0996,Sherill Mushett,2024-04-29 04:31:34,account_deactivation,Resolved,Runović,Croatia,smushettkb@wise.com,,TRUE,,Email,,Closed,Email,Low,,
+snxl-0383-8971,Nicolette Childe,2024-05-04 21:31:45,fees,Resolved,Taytayan,Philippines,nchildekc@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+iixk-8723-3801,Stoddard Weatherhead,2024-03-02 20:32:36,account_deactivation,Escalated,Lipno,Poland,sweatherheadkd@wise.com,,FALSE,Level 3,Chat,,Closed,Call,High,,
+oobv-4873-0311,Fredelia Chettle,2024-01-29 14:19:17,kyc_transfer_on_hold,Resolved,Pahing Pamulihan,Indonesia,fchettleke@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+hkel-8822-0088,Carrissa Jollands,2024-02-09 08:54:05,referrals,Pending,Pallasovka,Russia,cjollandskf@wise.com,,TRUE,,Email,,Open,Email,High,,
+lnvp-1352-4647,Fiann Gibbs,2024-03-20 12:47:58,assets/_investments,Escalated,Lemery,Philippines,fgibbskg@wise.com,,TRUE,Level 3,Chat,,Closed,Chat,Low,,
+lxmy-2813-0888,Alisha Cutler,2024-04-09 19:13:50,referrals,Resolved,Butwāl,Nepal,acutlerkh@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+mzoe-7925-5021,Jessi Danit,2024-01-01 17:41:22,verification,Escalated,Khondāb,Iran,jdanitki@wise.com,,TRUE,Level 1,Chat,,Closed,Chat,Medium,,
+rnit-6392-5943,Cara Duddan,2024-06-19 17:44:06,account_deactivation,Resolved,Daugavgrīva,Latvia,cduddankj@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+nevs-9393-7574,Maynard Crean,2024-03-20 06:51:51,exchange_rate,Pending,Koga,Japan,mcreankk@wise.com,,TRUE,,Phone,,In Progress,Call,Medium,,
+oxns-1286-5648,Crissie Lerohan,2024-05-06 04:19:54,hat,Pending,Pasirhuni,Indonesia,clerohankl@wise.com,,TRUE,,Phone,,Open,Chat,Medium,,
+ltbs-6285-2193,Arleen Sparhawk,2024-05-19 01:51:30,kyc_transfer_on_hold,Escalated,Dallas,United States,asparhawkkm@wise.com,,FALSE,Level 1,Chat,,Closed,Email,Medium,,
+xydm-1598-7627,Jeanelle Magowan,2024-05-13 05:32:06,verification,Escalated,Paine,Chile,jmagowankn@wise.com,,FALSE,Level 2,Chat,,Closed,Email,Low,,
+babx-7074-6266,Henrieta Hernik,2024-06-16 22:17:58,other,Escalated,Macha,China,hhernikko@wise.com,,TRUE,Level 2,Email,,Closed,Email,High,,
+sipf-2139-4278,Eugen Schorah,2024-04-25 19:43:11,assets/_investments,Escalated,Oslo,Norway,eschorahkp@wise.com,5,TRUE,Level 2,Phone,2024-05-04 03:39:14,Closed,Email,Low,9,216
+lgxo-2162-1058,Nowell Vaggers,2024-05-26 21:45:40,where_s_my_money,Pending,Banzão,Portugal,nvaggerskq@wise.com,,FALSE,,Email,,Open,Call,Medium,,
+kljg-0370-3127,Guy Sherebrooke,2024-03-27 16:07:59,other,Escalated,Castries,Saint Lucia,gsherebrookekr@wise.com,4,TRUE,Level 3,Phone,2024-03-29 21:36:00,Closed,Email,High,2,48
+otoc-3797-4637,Trenton Dominiak,2024-04-01 06:30:45,plastic,Pending,Chiguirip,Peru,tdominiakks@wise.com,,TRUE,,Chat,,Open,Chat,Medium,,
+zhmy-7998-8958,Jeff Wilkison,2024-06-10 22:58:58,exchange_rate,Pending,Lebak Timur,Indonesia,jwilkisonkt@wise.com,,FALSE,,Phone,,In Progress,Email,Low,,
+xfvd-0682-1625,Helenka Stroyan,2024-05-28 05:04:24,plastic,Resolved,Shangyi,China,hstroyanku@wise.com,,TRUE,,Phone,,Closed,Call,Medium,,
+trvh-5321-4427,Charmaine McEnteggart,2024-06-21 23:00:55,account_deactivation,Resolved,Biyong,China,cmcenteggartkv@wise.com,,TRUE,,Phone,,Closed,Email,Low,,
+xpet-0122-4121,Arny Zuann,2024-03-18 02:29:58,assets/_investments,Resolved,Padangpanjang,Indonesia,azuannkw@wise.com,5,FALSE,,Email,2024-03-23 04:22:25,Closed,Chat,Low,5,120
+ilev-4254-4648,Clarabelle Wetter,2024-05-02 08:27:54,referrals,Resolved,Amman,Jordan,cwetterkx@wise.com,,TRUE,,Phone,,Closed,Email,Low,,
+yape-1110-6897,Stevena Stoile,2024-01-15 13:10:42,hat,Pending,Banjar Desa,Indonesia,sstoileky@wise.com,,FALSE,,Email,,In Progress,Email,Medium,,
+pjaq-5843-5927,Pete Ancliff,2024-05-30 22:50:07,where_s_my_money,Escalated,Basīrpur,Pakistan,pancliffkz@wise.com,,TRUE,Level 3,Email,,Closed,Call,Low,,
+hzss-1861-2590,Franklin Woolley,2024-03-21 20:37:02,scam,Pending,Siborong-borong,Indonesia,fwoolleyl0@wise.com,,TRUE,,Phone,,Open,Chat,High,,
+mhad-0260-9674,Anastasie Beaven,2024-06-07 18:05:50,other,Escalated,Diriomo,Nicaragua,abeavenl1@wise.com,,TRUE,Level 1,Chat,,Closed,Email,Medium,,
+fyww-9753-4005,Jazmin Oller,2024-03-28 04:01:08,technical_issues,Resolved,Riachos,Portugal,jollerl2@wise.com,2,FALSE,,Email,2024-04-04 16:57:59,Closed,Call,Medium,7,168
+hdmi-1999-7996,Harwell Gascard,2024-06-20 03:42:45,referrals,Resolved,Pasadena,United States,hgascardl3@wise.com,2,TRUE,,Chat,2024-06-26 04:10:19,Closed,Call,Low,6,144
+cruz-3386-9521,Arne Auchterlony,2024-01-13 23:57:58,verification,Resolved,Nakonde,Zambia,aauchterlonyl4@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+hjld-7176-4562,Phoebe Stukings,2024-06-21 13:25:07,exchange_rate,Resolved,Ampera,Indonesia,pstukingsl5@wise.com,,TRUE,,Phone,,Closed,Chat,High,,
+wwxx-3469-8808,Weidar Ragsdall,2024-03-16 09:05:47,assets/_investments,Resolved,Baidian,China,wragsdalll6@wise.com,,TRUE,,Chat,,Closed,Call,Low,,
+sjll-2985-1364,Rancell Janoch,2024-03-05 06:38:59,other,Escalated,"Hospitalet De Llobregat, L'",Spain,rjanochl7@wise.com,,FALSE,Level 3,Phone,,Closed,Call,Medium,,
+sygv-0291-9455,Merrile Bowcher,2024-03-26 06:50:39,scam,Pending,Charlotte,United States,mbowcherl8@wise.com,,FALSE,,Chat,,In Progress,Email,Low,,
+lgiv-3254-6669,Vyky MacTerlagh,2024-04-15 21:53:04,assets/_investments,Pending,Perivólia,Cyprus,vmacterlaghl9@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+zolh-6765-9980,Gussy Lambregts,2024-06-27 16:34:58,assets/_investments,Pending,Xijia,China,glambregtsla@wise.com,,TRUE,,Chat,,Open,Call,Medium,,
+dgpu-6086-3652,Onfre Grigorushkin,2024-02-09 23:13:56,kyc_transfer_on_hold,Pending,Zdice,Czech Republic,ogrigorushkinlb@wise.com,,TRUE,,Phone,,In Progress,Chat,Low,,
+drlz-6630-9515,Prinz Fuke,2024-02-12 18:14:03,privacy,Pending,Jinanten,Indonesia,pfukelc@wise.com,,TRUE,,Chat,,In Progress,Chat,Low,,
+psgu-1156-3545,Courtney Casement,2024-05-14 16:42:38,fees,Resolved,Zilang,China,ccasementld@wise.com,5,FALSE,,Chat,2024-05-17 06:06:21,Closed,Email,Medium,3,72
+uejz-5663-6326,Constanta Armfirld,2024-01-26 20:11:26,scam,Pending,Shiyun,China,carmfirldle@wise.com,,TRUE,,Chat,,Open,Chat,Medium,,
+tcxw-0535-9894,Evelina Common,2024-01-17 21:02:56,exchange_rate,Pending,Milano,Italy,ecommonlf@wise.com,,FALSE,,Chat,,In Progress,Chat,High,,
+ecoq-4660-3902,Angeli Beddard,2024-01-30 05:18:40,fees,Pending,Pangu,China,abeddardlg@wise.com,,TRUE,,Phone,,In Progress,Chat,Medium,,
+zysd-7767-8688,Mercedes Titheridge,2024-06-08 01:19:05,technical_issues,Escalated,Bodø,Norway,mtitheridgelh@wise.com,,FALSE,Level 3,Email,,Closed,Call,High,,
+zjza-2656-5386,Portie Carlsson,2024-02-06 05:16:12,account_deactivation,Escalated,Villeurbanne,France,pcarlssonli@wise.com,3,TRUE,Level 3,Chat,2024-02-13 05:31:46,Closed,Call,Medium,7,168
+zvpk-5584-1076,Lianne Cirlos,2024-01-06 23:21:28,fees,Escalated,Huskvarna,Sweden,lcirloslj@wise.com,,FALSE,Level 1,Chat,,Closed,Chat,Medium,,
+ippq-3366-7943,Elisabetta Radnage,2024-04-26 19:45:19,technical_issues,Escalated,Auas,Honduras,eradnagelk@wise.com,,FALSE,Level 3,Email,,Closed,Chat,Low,,
+mwsw-6970-8741,Elisha Bradborne,2024-06-27 04:16:07,where_s_my_money,Escalated,Bom Despacho,Brazil,ebradbornell@wise.com,,FALSE,Level 3,Chat,,Closed,Call,High,,
+qqbp-1038-5322,Dougy Ladell,2024-04-13 18:14:48,fees,Escalated,Polo,Indonesia,dladelllm@wise.com,,FALSE,Level 2,Phone,,Closed,Chat,Low,,
+lczw-4831-0022,Lebbie Ernke,2024-05-05 22:16:15,fees,Resolved,Phu Sang,Thailand,lernkeln@wise.com,,FALSE,,Email,,Closed,Call,High,,
+rkaj-1567-9294,Anthia Wrightam,2024-03-27 15:04:09,verification,Pending,Gjirokastër,Albania,awrightamlo@wise.com,,FALSE,,Phone,,Open,Call,Low,,
+kwfu-9434-1310,Fayth Conquest,2024-03-03 17:51:37,kyc_transfer_on_hold,Escalated,Maastricht,Netherlands,fconquestlp@wise.com,,FALSE,Level 1,Email,,Closed,Email,High,,
+cdmz-3615-3684,Griselda Gherardesci,2024-01-16 18:52:08,assets/_investments,Escalated,Philadelphia,United States,ggherardescilq@wise.com,1,TRUE,Level 2,Phone,2024-01-24 00:30:29,Closed,Call,High,8,192
+ixwg-6375-3854,Urbano Burland,2024-03-14 15:47:14,exchange_rate,Resolved,Dongshan,China,uburlandlr@wise.com,5,FALSE,,Phone,2024-03-19 20:52:34,Closed,Call,High,5,120
+iotk-9193-9378,Gareth Sharvell,2024-01-11 23:17:09,technical_issues,Escalated,Diekirch,Luxembourg,gsharvellls@wise.com,,FALSE,Level 2,Phone,,Closed,Call,High,,
+kvoi-3864-5494,Chiquita Snazel,2024-02-07 04:24:14,referrals,Resolved,Khōshāmand,Afghanistan,csnazellt@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+arzw-1579-1396,Boyce Halbeard,2024-01-28 04:29:40,hat,Escalated,Yartsevo,Russia,bhalbeardlu@wise.com,,TRUE,Level 1,Phone,,Closed,Email,Low,,
+dnvq-9753-7448,Noella MacCart,2024-03-05 05:06:30,verification,Pending,Souto,Portugal,nmaccartlv@wise.com,,TRUE,,Email,,Open,Email,High,,
+unnw-9942-4629,Alyssa Hrachovec,2024-02-01 20:09:05,other,Pending,Chekmagush,Russia,ahrachoveclw@wise.com,,TRUE,,Email,,Open,Chat,Medium,,
+ibtk-9455-0205,Aldon Stoacley,2024-02-18 16:56:18,customer_service,Pending,Hasuda,Japan,astoacleylx@wise.com,,FALSE,,Email,,In Progress,Chat,Low,,
+antj-1725-9801,Heidie Wurz,2024-03-02 14:48:26,privacy,Pending,Uenohara,Japan,hwurzly@wise.com,,FALSE,,Email,,Open,Chat,Medium,,
+dwbx-9133-0464,Harp Kleisel,2024-02-26 09:49:23,technical_issues,Escalated,Starobachaty,Russia,hkleisellz@wise.com,,TRUE,Level 3,Email,,Closed,Call,High,,
+dqmn-2959-5038,Lonnard Bissatt,2024-03-14 17:53:43,customer_service,Escalated,Baleal,Portugal,lbissattm0@wise.com,,FALSE,Level 1,Email,,Closed,Call,High,,
+dzye-7799-2540,Jackquelin Rajchert,2024-04-05 23:47:50,verification,Resolved,Colmar,France,jrajchertm1@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+nakc-4367-6686,Dorey McLenahan,2024-05-21 06:41:45,verification,Escalated,Wirral,United Kingdom,dmclenahanm2@wise.com,,TRUE,Level 3,Chat,,Closed,Chat,High,,
+tuqg-0035-3156,Angie Pawle,2024-03-07 17:01:41,fees,Resolved,Ccatca,Peru,apawlem3@wise.com,1,FALSE,,Email,2024-03-11 16:12:02,Closed,Email,Medium,4,96
+wziv-5803-1310,Kale Jeffers,2024-03-25 06:11:25,technical_issues,Pending,Beni Khiar,Tunisia,kjeffersm4@wise.com,,TRUE,,Email,,Open,Chat,Medium,,
+jvfy-7907-1510,Murial Rumford,2024-06-02 14:20:22,where_s_my_money,Escalated,Biguo,China,mrumfordm5@wise.com,5,TRUE,Level 3,Email,2024-06-10 21:39:24,Closed,Chat,High,8,192
+rdfi-1607-4393,Jill Pixton,2024-06-27 12:56:47,fees,Escalated,Muara,Indonesia,jpixtonm6@wise.com,,TRUE,Level 1,Phone,,Closed,Chat,Low,,
+wpbl-9619-0697,Bobby Baily,2024-04-10 05:07:04,technical_issues,Escalated,Baoquanshan,China,bbailym7@wise.com,,TRUE,Level 2,Chat,,Closed,Email,High,,
+eepu-9232-8444,Claude Crowley,2024-01-01 16:35:41,other,Pending,Brant,Canada,ccrowleym8@wise.com,,FALSE,,Chat,,In Progress,Email,Medium,,
+tokd-4485-1714,Brendon Chisnall,2024-04-18 05:00:21,hat,Pending,Luodong,China,bchisnallm9@wise.com,,TRUE,,Chat,,In Progress,Email,Low,,
+dcox-6280-3971,Tye Liptrot,2024-05-11 11:54:36,other,Resolved,Viškovci,Croatia,tliptrotma@wise.com,,FALSE,,Chat,,Closed,Email,High,,
+pqpq-6847-4351,Claire Jacqueminot,2024-06-20 09:09:35,where_s_my_money,Escalated,Glendale,United States,cjacqueminotmb@wise.com,,TRUE,Level 1,Chat,,Closed,Call,Low,,
+xltr-7755-5624,Daloris Renak,2024-02-27 01:16:22,scam,Resolved,Raub,Malaysia,drenakmc@wise.com,,TRUE,,Chat,,Closed,Email,Medium,,
+vlwp-2208-0173,Gus Costain,2024-03-06 08:00:23,other,Pending,San Enrique,Philippines,gcostainmd@wise.com,,TRUE,,Chat,,Open,Chat,High,,
+zzxn-9860-7290,Vivie Viger,2024-04-07 07:34:47,fees,Pending,Yulin,China,vvigerme@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+phld-0029-6442,Pablo Oultram,2024-03-23 10:36:28,technical_issues,Escalated,Basseterre,Saint Kitts and Nevis,poultrammf@wise.com,,TRUE,Level 2,Email,,Closed,Email,Low,,
+zhpv-2604-9040,Vick Dible,2024-01-23 22:07:56,hat,Escalated,Xicheng,China,vdiblemg@wise.com,,FALSE,Level 3,Chat,,Closed,Call,Medium,,
+aljk-0001-0123,Polly Cluff,2024-06-16 23:29:43,account_deactivation,Pending,Kanbe,Myanmar,pcluffmh@wise.com,,FALSE,,Email,,In Progress,Chat,Low,,
+mjkn-6999-6642,Abbye Flawn,2024-06-02 21:12:42,exchange_rate,Resolved,Baocun,China,aflawnmi@wise.com,,FALSE,,Email,,Closed,Call,Low,,
+xuak-0095-4712,Marysa Pomeroy,2024-02-27 22:54:28,referrals,Escalated,Kizil,China,mpomeroymj@wise.com,,TRUE,Level 1,Phone,,Closed,Call,Low,,
+qffj-1234-7909,Ede Triplow,2024-04-26 01:03:48,customer_service,Escalated,Aygek,Armenia,etriplowmk@wise.com,3,FALSE,Level 1,Phone,2024-04-28 13:02:15,Closed,Email,Medium,2,48
+qasd-4930-9402,Peri Langmuir,2024-02-04 05:52:08,assets/_investments,Pending,Yangjiaping,China,plangmuirml@wise.com,,TRUE,,Phone,,Open,Email,Low,,
+xqqf-2205-3628,Dare Skatcher,2024-05-22 12:42:25,fees,Escalated,San Juan Sacatepéquez,Guatemala,dskatchermm@wise.com,,FALSE,Level 3,Chat,,Closed,Chat,High,,
+cxbs-1001-2365,Stanislas Aucourte,2024-04-01 00:35:12,scam,Resolved,Sehwān,Pakistan,saucourtemn@wise.com,,FALSE,,Chat,,Closed,Email,Low,,
+hbpa-7773-3036,Babette Foddy,2024-01-20 03:49:11,exchange_rate,Resolved,Temizhbekskaya,Russia,bfoddymo@wise.com,4,FALSE,,Email,2024-01-26 20:42:22,Closed,Chat,Medium,6,144
+unha-0855-5298,Maximo Moyer,2024-02-28 03:56:05,customer_service,Pending,Roissy Charles-de-Gaulle,France,mmoyermp@wise.com,,TRUE,,Phone,,In Progress,Email,Low,,
+dion-6237-4664,Brocky Vlasyev,2024-05-12 10:12:30,assets/_investments,Resolved,Indaial,Brazil,bvlasyevmq@wise.com,,FALSE,,Email,,Closed,Call,Low,,
+ztvx-5076-1885,Oralle Newcom,2024-03-26 13:40:19,verification,Pending,Elista,Russia,onewcommr@wise.com,,TRUE,,Chat,,Open,Email,Low,,
+eanb-0954-6527,Laina Danzelman,2024-01-12 23:04:39,exchange_rate,Pending,Sangatta,Indonesia,ldanzelmanms@wise.com,,TRUE,,Email,,Open,Call,Low,,
+wrce-8242-6166,Gray Zecchinii,2024-01-12 06:29:50,plastic,Pending,Padangtiji,Indonesia,gzecchiniimt@wise.com,,TRUE,,Phone,,In Progress,Chat,Medium,,
+pdli-6927-2674,Lanae Ralestone,2024-01-08 02:35:15,technical_issues,Resolved,Stupino,Russia,lralestonemu@wise.com,1,TRUE,,Phone,2024-01-15 14:59:40,Closed,Call,High,7,168
+frcq-4536-7380,Linzy Nafzger,2024-04-02 01:44:31,exchange_rate,Pending,Puan,Argentina,lnafzgermv@wise.com,,FALSE,,Chat,,Open,Chat,Medium,,
+odkc-1861-3359,Dorena Rumney,2024-06-16 09:31:32,customer_service,Pending,Guomaying,China,drumneymw@wise.com,,TRUE,,Chat,,Open,Chat,Low,,
+hjxf-6549-3515,Brandice Greystoke,2024-06-27 13:14:07,privacy,Pending,Khadzhalmakhi,Russia,bgreystokemx@wise.com,,FALSE,,Phone,,In Progress,Email,Medium,,
+gluk-8253-6113,Bernelle Flavelle,2024-06-02 01:01:06,scam,Escalated,Masachapa,Nicaragua,bflavellemy@wise.com,,TRUE,Level 3,Phone,,Closed,Email,Low,,
+paty-6005-1236,Tony Dorrian,2024-05-03 19:34:18,plastic,Escalated,Kaindy,Kyrgyzstan,tdorrianmz@wise.com,2,TRUE,Level 2,Chat,2024-05-13 07:34:36,Closed,Email,Medium,10,240
+oggw-2781-9909,Golda Delepine,2024-02-04 14:10:54,exchange_rate,Pending,Banjar Dukuh,Indonesia,gdelepinen0@wise.com,,FALSE,,Email,,Open,Email,High,,
+vvuf-5261-6995,Lind Glyne,2024-02-13 04:53:03,hat,Resolved,Krasnyy Oktyabr’,Russia,lglynen1@wise.com,,TRUE,,Phone,,Closed,Call,High,,
+qnyh-9001-4333,Bent Muzzini,2024-03-20 23:58:12,privacy,Resolved,Tawaramoto,Japan,bmuzzinin2@wise.com,3,FALSE,,Email,2024-03-23 01:08:49,Closed,Call,High,3,72
+vpzr-2535-7908,Mitchael Labin,2024-04-13 01:22:51,customer_service,Escalated,Xinheng,China,mlabinn3@wise.com,3,FALSE,Level 1,Chat,2024-04-15 20:12:48,Closed,Email,Low,2,48
+pezk-0504-8596,Pryce Loyd,2024-02-27 23:50:10,hat,Escalated,Patenongan,Indonesia,ploydn4@wise.com,,FALSE,Level 3,Chat,,Closed,Chat,Low,,
+kieh-3028-4228,Renee Bone,2024-03-05 07:29:20,verification,Pending,Mikhaylovskoye,Russia,rbonen5@wise.com,,FALSE,,Phone,,In Progress,Call,Low,,
+eylr-2374-5392,Carlye Leehane,2024-06-02 18:44:05,plastic,Escalated,Hongyanxi,China,cleehanen6@wise.com,5,FALSE,Level 2,Email,2024-06-10 02:08:17,Closed,Chat,Medium,8,192
+hdix-3948-5374,Tabbie Sproule,2024-06-09 07:13:23,referrals,Resolved,Tpig,Russia,tsproulen7@wise.com,4,TRUE,,Email,2024-06-12 20:29:39,Closed,Email,Low,3,72
+suvx-3202-2163,Hersch Brash,2024-04-06 12:27:39,where_s_my_money,Escalated,Medicine Hat,Canada,hbrashn8@wise.com,,FALSE,Level 3,Chat,,Closed,Call,Medium,,
+oejo-9842-6348,Catriona Domenici,2024-01-14 10:43:08,fees,Pending,Picton,Canada,cdomenicin9@wise.com,,TRUE,,Chat,,In Progress,Call,High,,
+tcgm-5536-2604,Inessa Gudge,2024-02-04 10:09:17,assets/_investments,Resolved,Vitebsk,Belarus,igudgena@wise.com,2,TRUE,,Phone,2024-02-10 21:54:52,Closed,Email,Low,6,144
+gaqw-4349-2898,El Hamlet,2024-03-14 21:15:08,referrals,Resolved,Kabulusan,Philippines,ehamletnb@wise.com,,TRUE,,Phone,,Closed,Call,Medium,,
+julb-0122-2903,Padgett Gergolet,2024-05-07 05:08:57,plastic,Escalated,Frydek,Poland,pgergoletnc@wise.com,1,FALSE,Level 1,Phone,2024-05-14 09:47:27,Closed,Email,High,7,168
+vsdp-9824-7633,Gerome Cassy,2024-01-29 23:44:36,customer_service,Pending,Aurora,Philippines,gcassynd@wise.com,,FALSE,,Phone,,Open,Email,Low,,
+abtx-2359-6615,Suzanne Vardon,2024-03-29 06:53:32,kyc_transfer_on_hold,Escalated,Gulrip’shi,Georgia,svardonne@wise.com,,FALSE,Level 1,Email,,Closed,Chat,High,,
+fbot-5786-8157,Barney Giraudeau,2024-03-28 01:52:05,hat,Escalated,Costa Nova do Prado,Portugal,bgiraudeaunf@wise.com,4,TRUE,Level 3,Chat,2024-03-29 15:19:21,Closed,Call,Medium,1,24
+hnyd-0077-3205,Ingrid Bowhey,2024-03-24 09:37:32,customer_service,Escalated,Casigua El Cubo,Venezuela,ibowheyng@wise.com,,TRUE,Level 1,Phone,,Closed,Call,Low,,
+zvok-0471-4172,Claudine Dibb,2024-04-27 05:22:16,privacy,Resolved,Dalian,China,cdibbnh@wise.com,,FALSE,,Phone,,Closed,Chat,Medium,,
+orvp-1030-8094,Torey Fomichyov,2024-04-06 04:56:51,plastic,Resolved,Gowurdak,Turkmenistan,tfomichyovni@wise.com,,TRUE,,Email,,Closed,Email,High,,
+uzfz-6991-2940,Elane Haggerwood,2024-02-18 11:10:03,other,Pending,Lazaro Cardenas,Mexico,ehaggerwoodnj@wise.com,,TRUE,,Chat,,In Progress,Call,High,,
+wufv-4460-4238,Juanita Peever,2024-04-12 15:50:52,technical_issues,Pending,Huliao,China,jpeevernk@wise.com,,TRUE,,Phone,,In Progress,Call,Low,,
+xavf-6140-9825,Blinny Summersett,2024-04-05 19:24:55,kyc_transfer_on_hold,Escalated,Jiangshan,China,bsummersettnl@wise.com,,TRUE,Level 2,Chat,,Closed,Call,Low,,
+bidw-4323-8264,Glenna Pettecrew,2024-03-26 19:07:42,fees,Resolved,Köpingsvik,Sweden,gpettecrewnm@wise.com,5,TRUE,,Phone,2024-03-28 07:34:38,Closed,Chat,Medium,2,48
+ookr-9381-7649,Rafi Cristoforo,2024-04-12 14:46:54,exchange_rate,Resolved,Beaufort,Luxembourg,rcristoforonn@wise.com,4,FALSE,,Email,2024-04-16 02:11:56,Closed,Call,Low,4,96
+nxmh-9875-6819,Belva Dansie,2024-04-16 01:44:07,referrals,Escalated,Baalbek,Lebanon,bdansieno@wise.com,,FALSE,Level 1,Email,,Closed,Email,Low,,
+xxpw-1329-5863,Winslow Yegorovnin,2024-04-06 16:10:22,account_deactivation,Pending,Horní Suchá,Czech Republic,wyegorovninnp@wise.com,,FALSE,,Email,,Open,Call,High,,
+xjuk-5956-3855,Charlotte Eliot,2024-06-18 15:21:51,customer_service,Pending,Daxi,China,celiotnq@wise.com,,TRUE,,Chat,,In Progress,Email,Low,,
+wvhc-0710-8860,Emiline Kissack,2024-01-08 13:02:20,privacy,Pending,Foča,Bosnia and Herzegovina,ekissacknr@wise.com,,FALSE,,Phone,,Open,Email,High,,
+wyeq-7798-7240,Stevy Velareal,2024-06-09 06:52:02,assets/_investments,Escalated,Yaozhou,China,svelarealns@wise.com,,FALSE,Level 3,Phone,,Closed,Chat,Medium,,
+dwgx-4861-4913,Melvyn Gutowska,2024-02-07 18:52:06,technical_issues,Pending,Bin’an,China,mgutowskant@wise.com,,TRUE,,Email,,In Progress,Email,High,,
+jpuv-6558-1026,Wilbur Boissier,2024-06-12 19:52:26,exchange_rate,Pending,Hongtang,China,wboissiernu@wise.com,,FALSE,,Email,,In Progress,Email,Low,,
+fccw-7183-7799,Erick Geldart,2024-03-05 01:19:10,referrals,Escalated,Liqiao,China,egeldartnv@wise.com,,TRUE,Level 1,Phone,,Closed,Chat,Low,,
+rjox-9976-3070,Ethan Leggon,2024-03-02 07:33:07,scam,Escalated,Lugar Novo,Portugal,eleggonnw@wise.com,,FALSE,Level 2,Chat,,Closed,Call,High,,
+erfh-9137-7943,Huntington Shimman,2024-06-08 19:57:23,verification,Resolved,Yanjiang,China,hshimmannx@wise.com,2,FALSE,,Email,2024-06-17 06:09:49,Closed,Chat,Low,9,216
+rosp-9892-4681,Karney O'Riordan,2024-01-21 17:14:29,verification,Escalated,Brumadinho,Brazil,koriordanny@wise.com,,FALSE,Level 3,Email,,Closed,Chat,High,,
+wxjz-7560-2800,Cindi Lorey,2024-03-30 16:35:42,privacy,Pending,Rodez,France,cloreynz@wise.com,,FALSE,,Phone,,In Progress,Email,Low,,
+zulj-0369-7650,Jeni Havesides,2024-04-24 11:14:24,scam,Resolved,Xibu,China,jhavesideso0@wise.com,,TRUE,,Chat,,Closed,Call,High,,
+ixsx-1146-7220,Gloriana Shewry,2024-03-04 01:44:47,other,Resolved,Villeneuve-lès-Avignon,France,gshewryo1@wise.com,,TRUE,,Phone,,Closed,Call,Medium,,
+nhzt-1221-5595,Adda Elloway,2024-03-19 09:09:39,kyc_transfer_on_hold,Pending,Valdemārpils,Latvia,aellowayo2@wise.com,,TRUE,,Chat,,In Progress,Chat,High,,
+djgj-4522-4636,Flori Dilger,2024-05-15 13:33:56,exchange_rate,Escalated,North Vancouver,Canada,fdilgero3@wise.com,4,TRUE,Level 3,Chat,2024-05-23 20:22:30,Closed,Call,Low,8,192
+dwyn-7960-3894,Davis Luxmoore,2024-06-03 20:44:47,kyc_transfer_on_hold,Escalated,Marilao,Philippines,dluxmooreo4@wise.com,,FALSE,Level 2,Phone,,Closed,Email,High,,
+jqam-0158-7922,Jessey Servant,2024-05-12 07:08:02,account_deactivation,Resolved,Beddeng,Philippines,jservanto5@wise.com,,FALSE,,Chat,,Closed,Call,Low,,
+aarr-8906-9677,Merl O'Hern,2024-03-29 11:37:09,technical_issues,Resolved,Luboń,Poland,moherno6@wise.com,,FALSE,,Email,,Closed,Chat,Low,,
+jksp-1548-1365,Enrichetta McCraine,2024-04-13 05:38:01,customer_service,Escalated,Pulopaya,Indonesia,emccraineo7@wise.com,,FALSE,Level 3,Chat,,Closed,Call,Medium,,
+kvnc-5379-7507,Murry Giacobo,2024-01-05 04:55:03,verification,Escalated,Nevel’sk,Russia,mgiacoboo8@wise.com,,TRUE,Level 1,Phone,,Closed,Chat,Low,,
+gwpm-4041-4510,Genni Sinnie,2024-03-21 06:47:56,referrals,Escalated,Caluire-et-Cuire,France,gsinnieo9@wise.com,,FALSE,Level 3,Phone,,Closed,Email,Medium,,
+ilfq-2607-1831,Amye Aubury,2024-01-15 23:16:26,referrals,Resolved,Baltimore,United States,aauburyoa@wise.com,,FALSE,,Chat,,Closed,Chat,Low,,
+qmkt-8172-6424,Sherri Lowndsbrough,2024-04-03 13:47:16,exchange_rate,Resolved,Sololá,Guatemala,slowndsbroughob@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+tbmr-4034-0116,Solly Henrych,2024-03-19 20:04:22,scam,Resolved,Kertasari,Indonesia,shenrychoc@wise.com,,TRUE,,Email,,Closed,Email,Low,,
+uojv-8804-1833,Car Ondrak,2024-06-24 14:35:23,scam,Escalated,Arkalyk,Kazakhstan,condrakod@wise.com,5,TRUE,Level 2,Email,2024-06-25 10:21:57,Closed,Email,High,1,24
+jvkg-3138-8487,Cly Brawn,2024-04-15 14:36:41,technical_issues,Escalated,Chironkamba,Comoros,cbrawnoe@wise.com,,FALSE,Level 3,Phone,,Closed,Email,Medium,,
+nxmb-2845-8928,Daisie Rendle,2024-02-01 04:17:58,where_s_my_money,Pending,Havtsal,Mongolia,drendleof@wise.com,,FALSE,,Email,,In Progress,Email,High,,
+egkz-2051-0898,Donnell Dumbar,2024-06-23 21:10:55,technical_issues,Resolved,Gujiadian,China,ddumbarog@wise.com,,FALSE,,Chat,,Closed,Chat,Low,,
+vvwg-6261-2161,Ramon Macbeth,2024-01-21 05:23:07,privacy,Pending,Kabarnet,Kenya,rmacbethoh@wise.com,,TRUE,,Chat,,Open,Email,High,,
+jhsn-4397-8745,Mar Clemett,2024-05-01 23:44:39,assets/_investments,Pending,Zhoutie,China,mclemettoi@wise.com,,TRUE,,Chat,,In Progress,Call,Low,,
+yksb-9476-3501,Zulema Gethins,2024-01-26 03:53:55,kyc_transfer_on_hold,Escalated,San Jose,Philippines,zgethinsoj@wise.com,2,FALSE,Level 3,Chat,2024-01-30 11:03:37,Closed,Email,Medium,4,96
+eemt-8563-1124,Roi Fevier,2024-01-23 01:49:24,hat,Escalated,Kalanguy,Russia,rfevierok@wise.com,2,TRUE,Level 3,Email,2024-01-25 06:47:47,Closed,Chat,Medium,2,48
+fjzx-7248-0707,Karrah Fieldsend,2024-05-02 10:15:33,assets/_investments,Escalated,Partille,Sweden,kfieldsendol@wise.com,,FALSE,Level 3,Email,,Closed,Email,Low,,
+zwpw-2391-0993,Frankie Godbehere,2024-01-22 10:05:57,technical_issues,Pending,Rychnov nad Kněžnou,Czech Republic,fgodbehereom@wise.com,,FALSE,,Phone,,In Progress,Call,High,,
+poiw-8641-1761,Richart Robertshaw,2024-05-24 13:29:43,technical_issues,Resolved,Pueblo,United States,rrobertshawon@wise.com,,TRUE,,Email,,Closed,Call,High,,
+ynpb-4405-7122,Bobinette Kinnach,2024-03-25 11:35:59,verification,Escalated,Arys,Kazakhstan,bkinnachoo@wise.com,,TRUE,Level 1,Phone,,Closed,Chat,High,,
+pkup-2100-0472,Urbain Tong,2024-01-20 08:33:36,technical_issues,Escalated,Changhan,Thailand,utongop@wise.com,,FALSE,Level 2,Email,,Closed,Email,Medium,,
+vkbf-4027-4319,Bekki D'Avaux,2024-03-03 00:44:00,kyc_transfer_on_hold,Resolved,San Juan,Philippines,bdavauxoq@wise.com,2,FALSE,,Email,2024-03-12 02:52:20,Closed,Chat,High,9,216
+plry-9316-9764,Consalve McGettrick,2024-05-15 05:48:29,assets/_investments,Resolved,Gualeguay,Argentina,cmcgettrickor@wise.com,,FALSE,,Email,,Closed,Chat,Low,,
+emfi-8290-3571,Shantee Bakes,2024-03-21 23:36:42,privacy,Escalated,Marzhing,China,sbakesos@wise.com,,TRUE,Level 2,Email,,Closed,Email,Medium,,
+offu-4794-9821,Aguistin Easom,2024-04-20 01:48:53,scam,Pending,Catamayo,Ecuador,aeasomot@wise.com,,TRUE,,Chat,,In Progress,Call,Medium,,
+vwwi-9117-2783,Lauren Goodacre,2024-03-16 04:00:23,where_s_my_money,Resolved,Buriti Alegre,Brazil,lgoodacreou@wise.com,4,TRUE,,Email,2024-03-21 21:06:38,Closed,Chat,Low,5,120
+zxpj-5577-3594,Kiel O'Regan,2024-04-21 19:25:24,scam,Escalated,Xinhang,China,koreganov@wise.com,3,TRUE,Level 3,Chat,2024-04-23 00:33:15,Closed,Chat,Low,2,48
+dtag-0635-0647,Carena Figure,2024-03-19 01:43:12,other,Resolved,Mhlume,Swaziland,cfigureow@wise.com,1,FALSE,,Phone,2024-03-22 05:21:46,Closed,Chat,Medium,3,72
+dvxd-0927-0047,Ottilie Oakey,2024-04-27 08:01:46,scam,Resolved,Dolsk,Poland,ooakeyox@wise.com,,FALSE,,Chat,,Closed,Email,High,,
+ehrn-5984-5666,Demeter Panther,2024-01-23 05:37:48,other,Resolved,San Jose,Mexico,dpantheroy@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+oewz-2448-4650,Pavia Ashworth,2024-06-04 00:27:41,account_deactivation,Escalated,Dongzhang,China,pashworthoz@wise.com,,FALSE,Level 3,Chat,,Closed,Email,Medium,,
+eqdt-5702-8873,Nil Wheatcroft,2024-02-27 18:35:00,exchange_rate,Resolved,Pengbu,China,nwheatcroftp0@wise.com,,TRUE,,Chat,,Closed,Call,High,,
+phvu-4867-1328,Ximenes Leppard,2024-01-28 21:01:47,verification,Escalated,Takeshiken,China,xleppardp1@wise.com,,FALSE,Level 1,Chat,,Closed,Chat,Medium,,
+ffku-5729-9102,Iormina Alcido,2024-02-16 21:07:04,kyc_transfer_on_hold,Resolved,Köln,Germany,ialcidop2@wise.com,,TRUE,,Phone,,Closed,Call,Medium,,
+bqbt-6947-8480,Jarrad Skewes,2024-02-12 08:01:46,kyc_transfer_on_hold,Resolved,Ratchaburi,Thailand,jskewesp3@wise.com,1,TRUE,,Chat,2024-02-17 14:11:50,Closed,Chat,Low,5,120
+abqk-0672-9568,Averyl Reynish,2024-01-06 15:04:26,account_deactivation,Resolved,Damasak,Nigeria,areynishp4@wise.com,,FALSE,,Email,,Closed,Chat,Low,,
+ikut-3348-8776,Daile Varley,2024-06-06 12:23:56,assets/_investments,Pending,Montongtebolak,Indonesia,dvarleyp5@wise.com,,FALSE,,Chat,,In Progress,Call,Medium,,
+dxcv-0346-3017,Ronnica Coveley,2024-01-16 09:55:29,technical_issues,Resolved,Maodao,China,rcoveleyp6@wise.com,,TRUE,,Chat,,Closed,Call,Low,,
+gtfe-8666-9242,Petronille Gammade,2024-04-05 21:37:07,exchange_rate,Pending,Santa Rosa del Sara,Bolivia,pgammadep7@wise.com,,TRUE,,Chat,,In Progress,Email,Low,,
+ahfr-4970-6181,Augustine Ayto,2024-06-13 01:35:45,kyc_transfer_on_hold,Resolved,Hammarö,Sweden,aaytop8@wise.com,,FALSE,,Phone,,Closed,Email,High,,
+bbdc-4956-5969,Fidela Kemwal,2024-03-31 22:13:21,plastic,Resolved,Urus-Martan,Russia,fkemwalp9@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+shwa-6529-1650,Niven Seawright,2024-04-14 20:50:52,where_s_my_money,Resolved,Sunan,North Korea,nseawrightpa@wise.com,,FALSE,,Chat,,Closed,Chat,Low,,
+ounv-9890-7074,Joletta Clarkin,2024-03-26 12:58:17,scam,Pending,Madrid,Spain,jclarkinpb@wise.com,,FALSE,,Email,,In Progress,Chat,Low,,
+eqjl-9400-1678,Arley Lenahan,2024-02-09 13:17:10,verification,Escalated,Santa Rita,Mexico,alenahanpc@wise.com,,FALSE,Level 2,Phone,,Closed,Call,Medium,,
+cgrq-5529-7258,Ramsay Goulden,2024-03-19 09:41:41,scam,Resolved,Ush-Tyube,Kazakhstan,rgouldenpd@wise.com,,TRUE,,Phone,,Closed,Call,Low,,
+qlae-1670-3799,Kennie Jewkes,2024-01-03 02:14:46,technical_issues,Pending,Riangbao,Indonesia,kjewkespe@wise.com,,TRUE,,Chat,,In Progress,Chat,Low,,
+azgb-5697-9226,Yettie Emmatt,2024-05-23 11:17:35,other,Escalated,Pingyang,China,yemmattpf@wise.com,2,TRUE,Level 1,Phone,2024-06-01 02:14:51,Closed,Chat,High,9,216
+imar-3363-6641,Germana Bavidge,2024-05-23 22:42:54,referrals,Escalated,Martinópolis,Brazil,gbavidgepg@wise.com,5,FALSE,Level 2,Phone,2024-05-24 11:30:40,Closed,Chat,Low,1,24
+acei-4297-5965,Jonathon Inchbald,2024-01-13 22:06:52,privacy,Resolved,Knyaginino,Russia,jinchbaldph@wise.com,,TRUE,,Phone,,Closed,Call,Low,,
+kbyx-0303-3861,Dolly Farbrace,2024-05-09 05:59:52,verification,Escalated,Jiqu,China,dfarbracepi@wise.com,,FALSE,Level 2,Chat,,Closed,Chat,High,,
+iqdb-4728-1326,Charline Cropper,2024-04-19 04:11:57,plastic,Escalated,Yanhe,China,ccropperpj@wise.com,,FALSE,Level 1,Email,,Closed,Chat,Low,,
+jzro-4202-8953,Pollyanna Iacovielli,2024-03-20 04:01:15,scam,Resolved,Salamnunggal,Indonesia,piacoviellipk@wise.com,,TRUE,,Phone,,Closed,Call,High,,
+qfhm-5087-6624,Shaine Caffin,2024-05-01 18:48:02,hat,Pending,Penhold,Canada,scaffinpl@wise.com,,FALSE,,Chat,,In Progress,Email,High,,
+rqga-5342-6803,Marchelle Walton,2024-05-25 18:00:51,assets/_investments,Escalated,Beizhuang,China,mwaltonpm@wise.com,,TRUE,Level 2,Email,,Closed,Email,Medium,,
+iher-6343-1744,Dale Gumery,2024-03-15 09:18:23,assets/_investments,Escalated,Pedro Betancourt,Cuba,dgumerypn@wise.com,,TRUE,Level 2,Email,,Closed,Email,Medium,,
+hvsx-4925-7260,Nicky Gahan,2024-02-25 23:40:57,hat,Resolved,Aix-en-Provence,France,ngahanpo@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+smrs-8297-7444,Fredericka Dibbin,2024-04-16 18:23:16,technical_issues,Resolved,Mertert,Luxembourg,fdibbinpp@wise.com,,FALSE,,Email,,Closed,Email,Low,,
+ltmi-1871-8082,Windy Juares,2024-04-19 17:22:45,privacy,Escalated,Cangkringan,Indonesia,wjuarespq@wise.com,,TRUE,Level 1,Chat,,Closed,Chat,Medium,,
+jrgd-7645-6213,Gayel Hargraves,2024-03-17 08:10:23,customer_service,Resolved,Mojoroto,Indonesia,ghargravespr@wise.com,,FALSE,,Phone,,Closed,Email,Medium,,
+zybd-1049-0580,Daryn Van de Velde,2024-01-22 19:05:00,scam,Escalated,Chãos,Portugal,dvanps@wise.com,,TRUE,Level 1,Chat,,Closed,Email,Low,,
+vghw-3939-1219,Merralee Hambric,2024-01-02 00:08:34,exchange_rate,Resolved,Georgīevka,Kazakhstan,mhambricpt@wise.com,,TRUE,,Chat,,Closed,Email,High,,
+lgzo-0063-0271,Brigitta Varrow,2024-01-23 04:39:43,privacy,Resolved,Sława,Poland,bvarrowpu@wise.com,,TRUE,,Phone,,Closed,Email,High,,
+xmtx-6930-5738,Corly Smart,2024-01-22 22:32:38,plastic,Pending,Casablanca,Morocco,csmartpv@wise.com,,TRUE,,Email,,Open,Call,Medium,,
+flzn-3622-7370,Nevsa Roxbee,2024-04-02 00:32:49,technical_issues,Escalated,Pentre,United Kingdom,nroxbeepw@wise.com,,TRUE,Level 1,Phone,,Closed,Call,Low,,
+gctl-5840-0583,Corbin Ventum,2024-02-03 14:44:16,assets/_investments,Escalated,San Jacinto,Philippines,cventumpx@wise.com,,TRUE,Level 1,Phone,,Closed,Email,High,,
+mqem-2753-4362,Madelene Meijer,2024-06-15 21:51:27,scam,Escalated,Postupice,Czech Republic,mmeijerpy@wise.com,,TRUE,Level 2,Phone,,Closed,Call,Low,,
+tgku-7310-7327,Antonia Backler,2024-04-29 09:53:38,plastic,Escalated,Fengyi,China,abacklerpz@wise.com,,TRUE,Level 3,Phone,,Closed,Chat,Low,,
+nsga-3612-0026,Archambault Parks,2024-06-26 18:16:52,scam,Resolved,Leworook,Indonesia,aparksq0@wise.com,2,FALSE,,Email,2024-06-30 16:35:12,Closed,Email,High,4,96
+kuej-7990-2128,Cecilius Rudge,2024-02-07 17:16:20,technical_issues,Pending,Kondoa,Tanzania,crudgeq1@wise.com,,FALSE,,Phone,,In Progress,Email,High,,
+okfu-7681-0277,Prudence Klinck,2024-04-06 21:31:19,plastic,Escalated,Zebrzydowice,Poland,pklinckq2@wise.com,3,TRUE,Level 1,Chat,2024-04-14 08:13:35,Closed,Call,Low,8,192
+kcvk-7675-7361,Cordelie Kennler,2024-03-06 18:38:48,assets/_investments,Resolved,Hongdu,China,ckennlerq3@wise.com,,TRUE,,Chat,,Closed,Chat,Medium,,
+gywz-6567-0737,Steven Caine,2024-01-08 03:08:34,scam,Escalated,Rychnov nad Kněžnou,Czech Republic,scaineq4@wise.com,,FALSE,Level 1,Chat,,Closed,Email,High,,
+cqel-1608-4775,Berrie Leigh,2024-03-19 07:29:24,customer_service,Resolved,Wangi,Indonesia,bleighq5@wise.com,,FALSE,,Chat,,Closed,Call,Medium,,
+zahk-4377-8893,Aloysius McCurlye,2024-05-22 21:19:33,privacy,Resolved,Gryazovets,Russia,amccurlyeq6@wise.com,,FALSE,,Email,,Closed,Email,Medium,,
+hijb-1351-6739,Dominic Harle,2024-02-19 00:36:40,verification,Resolved,Agoncillo,Philippines,dharleq7@wise.com,2,TRUE,,Email,2024-02-21 20:42:03,Closed,Chat,High,2,48
+vppe-6328-9393,Jakie De Clairmont,2024-04-11 05:51:01,kyc_transfer_on_hold,Resolved,Russeifa,Jordan,jdeq8@wise.com,,TRUE,,Phone,,Closed,Call,Medium,,
+uavb-4735-9181,Ludvig Bowshire,2024-03-15 14:19:02,assets/_investments,Resolved,Ozerki,Russia,lbowshireq9@wise.com,,FALSE,,Chat,,Closed,Email,Medium,,
+qvdz-4808-1999,Salvador Lyptratt,2024-01-07 10:11:41,other,Resolved,Jingmen,China,slyptrattqa@wise.com,,TRUE,,Phone,,Closed,Chat,Medium,,
+bwjh-6417-5881,Gavin Janek,2024-02-04 19:39:01,where_s_my_money,Pending,Karantaba,Gambia,gjanekqb@wise.com,,TRUE,,Phone,,In Progress,Chat,Low,,
+hqqg-7550-0798,Raynard Brikner,2024-02-26 03:56:38,hat,Pending,Louisville,United States,rbriknerqc@wise.com,,FALSE,,Email,,In Progress,Email,Low,,
+skuo-8695-4900,Farand Doeg,2024-05-29 14:42:34,where_s_my_money,Escalated,Babatngon,Philippines,fdoegqd@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,High,,
+dxcs-8959-2719,Dagmar Basezzi,2024-04-09 19:32:41,privacy,Resolved,Las Tejerías,Venezuela,dbasezziqe@wise.com,4,FALSE,,Phone,2024-04-11 20:34:59,Closed,Email,Medium,2,48
+ogsz-2503-7912,Nomi Bonnavant,2024-04-22 10:29:11,plastic,Escalated,Los Angeles,Mexico,nbonnavantqf@wise.com,3,FALSE,Level 3,Phone,2024-04-24 04:31:17,Closed,Call,High,2,48
+vxqr-3769-7351,Isobel Jenkyn,2024-02-07 03:07:24,assets/_investments,Escalated,Buk,Poland,ijenkynqg@wise.com,,FALSE,Level 2,Chat,,Closed,Call,High,,
+xpvx-2588-9373,Samara Burnep,2024-03-01 06:37:31,exchange_rate,Resolved,Ban Lam Luk Ka,Thailand,sburnepqh@wise.com,,FALSE,,Chat,,Closed,Email,High,,
+kxfg-6868-7323,Talyah Norvel,2024-01-11 17:49:04,exchange_rate,Pending,Mensalong,Indonesia,tnorvelqi@wise.com,,TRUE,,Phone,,Open,Chat,High,,
+roef-3459-5218,Vernon Sewart,2024-03-06 19:54:35,other,Pending,Keda,China,vsewartqj@wise.com,,TRUE,,Chat,,In Progress,Chat,High,,
+pcdc-2210-7021,Lynda Farrants,2024-04-28 23:42:13,privacy,Pending,Chonglou,China,lfarrantsqk@wise.com,,FALSE,,Chat,,Open,Call,Medium,,
+rlzs-1706-7305,Hester Covey,2024-03-31 11:51:45,other,Escalated,Chikwawa,Malawi,hcoveyql@wise.com,,FALSE,Level 3,Chat,,Closed,Call,Low,,
+tvso-2413-6201,Maressa Thrasher,2024-02-20 09:39:40,scam,Resolved,Dadong,China,mthrasherqm@wise.com,,TRUE,,Chat,,Closed,Chat,High,,
+ykey-2880-8397,Jolyn Kiely,2024-05-26 17:06:57,kyc_transfer_on_hold,Pending,København,Denmark,jkielyqn@wise.com,,TRUE,,Phone,,Open,Email,Medium,,
+wtxu-9475-3368,Agosto Nolleth,2024-05-26 02:36:48,account_deactivation,Pending,Ruyigi,Burundi,anollethqo@wise.com,,FALSE,,Email,,Open,Chat,Low,,
+skad-5147-7983,Pascale Duddle,2024-02-04 16:49:12,customer_service,Pending,Panjiang,China,pduddleqp@wise.com,,TRUE,,Phone,,In Progress,Chat,Medium,,
+wseo-7294-9740,Piggy Havill,2024-03-12 10:01:44,other,Escalated,Baitu,China,phavillqq@wise.com,,FALSE,Level 2,Email,,Closed,Email,Medium,,
+dmqt-4898-9391,Elnore Seacroft,2024-01-27 19:45:23,verification,Pending,Chengguan,China,eseacroftqr@wise.com,,FALSE,,Phone,,In Progress,Email,High,,
+eroy-9487-3444,Yalonda Gavahan,2024-03-31 02:40:55,account_deactivation,Escalated,Karangbenda,Indonesia,ygavahanqs@wise.com,,FALSE,Level 2,Email,,Closed,Chat,Low,,
+jncj-6481-5004,Jerrold Cheales,2024-01-23 09:00:25,verification,Escalated,Jinan-gun,South Korea,jchealesqt@wise.com,,TRUE,Level 2,Phone,,Closed,Email,Medium,,
+mmoz-8813-1594,Carolee Carvil,2024-02-28 02:57:50,verification,Pending,Santa Eulalia,Peru,ccarvilqu@wise.com,,FALSE,,Email,,In Progress,Email,Medium,,
+faoo-8299-0967,Donovan Povah,2024-01-08 19:44:25,verification,Pending,Ambanja,Madagascar,dpovahqv@wise.com,,FALSE,,Chat,,In Progress,Chat,High,,
+rkvp-0702-1536,Natal Charpling,2024-02-14 06:41:22,assets/_investments,Escalated,Lengkongbarang,Indonesia,ncharplingqw@wise.com,5,FALSE,Level 3,Phone,2024-02-24 14:03:41,Closed,Call,High,10,240
+cfal-8467-4844,Hebert Jewitt,2024-02-25 04:51:25,where_s_my_money,Pending,Kokkini Trimithia,Cyprus,hjewittqx@wise.com,,TRUE,,Phone,,In Progress,Call,Low,,
+zevx-8966-0594,Hilly Scotchmoor,2024-04-06 22:59:42,hat,Pending,Menol,Indonesia,hscotchmoorqy@wise.com,,TRUE,,Email,,Open,Call,Medium,,
+fbqk-6210-8446,Tuckie Southwick,2024-01-14 16:52:43,where_s_my_money,Pending,Laowobao,China,tsouthwickqz@wise.com,,TRUE,,Email,,Open,Chat,Medium,,
+zcuy-9944-8269,Waylan Redmille,2024-01-20 18:29:08,customer_service,Pending,Cuispes,Peru,wredmiller0@wise.com,,FALSE,,Phone,,In Progress,Chat,Medium,,
+obpy-2197-5316,Felice Earpe,2024-04-07 04:58:51,plastic,Resolved,Jintao,China,fearper1@wise.com,,FALSE,,Email,,Closed,Call,Low,,
+hqug-7735-5213,Theressa Boomes,2024-02-25 23:42:50,verification,Escalated,Myitkyina,Myanmar,tboomesr2@wise.com,,FALSE,Level 2,Chat,,Closed,Chat,Medium,,
+ghgr-9296-7454,Elaina Braham,2024-03-26 23:45:29,customer_service,Pending,Aniva,Russia,ebrahamr3@wise.com,,TRUE,,Chat,,In Progress,Email,High,,
+lphd-5527-6811,Joanna Tingey,2024-03-23 23:48:39,customer_service,Resolved,Timoulilt,Morocco,jtingeyr4@wise.com,,TRUE,,Email,,Closed,Call,Medium,,
+povr-8934-3466,Mathe McKelvie,2024-03-02 01:12:14,account_deactivation,Resolved,Quinta do Anjo,Portugal,mmckelvier5@wise.com,2,TRUE,,Email,2024-03-10 02:15:28,Closed,Call,Low,8,192
+mcvh-9324-3078,Devi Caret,2024-05-31 22:31:35,verification,Resolved,Bù Đốp,Vietnam,dcaretr6@wise.com,,FALSE,,Email,,Closed,Chat,High,,
+cfxf-7833-0417,Cinnamon Nelhams,2024-02-18 02:42:19,customer_service,Pending,Sylvan Lake,Canada,cnelhamsr7@wise.com,,TRUE,,Email,,In Progress,Email,Medium,,
+bfxt-9611-8993,Marjy Sauven,2024-02-23 10:26:23,referrals,Resolved,Xiaxi,China,msauvenr8@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+cldf-5293-0598,Chet McChesney,2024-04-02 10:39:19,assets/_investments,Escalated,Margara,Armenia,cmcchesneyr9@wise.com,,TRUE,Level 2,Chat,,Closed,Email,Low,,
+aayk-4589-2572,Charis Ebenezer,2024-01-16 09:42:07,privacy,Escalated,Las Toscas,Argentina,cebenezerra@wise.com,,TRUE,Level 2,Chat,,Closed,Chat,Medium,,
+hbyk-9382-9504,Thaddus Hartman,2024-05-23 02:31:09,referrals,Escalated,Maple Ridge,Canada,thartmanrb@wise.com,,FALSE,Level 2,Phone,,Closed,Chat,High,,
+xgwb-3368-4950,Sally Larmour,2024-04-28 19:07:58,account_deactivation,Escalated,Novais,Portugal,slarmourrc@wise.com,,TRUE,Level 1,Chat,,Closed,Chat,High,,
+jxab-7785-2699,Mallissa Gentreau,2024-03-29 06:05:26,kyc_transfer_on_hold,Pending,Duran,Philippines,mgentreaurd@wise.com,,FALSE,,Email,,Open,Chat,Low,,
+zpou-7931-8454,Kory Chelley,2024-06-04 01:27:29,technical_issues,Resolved,Bonavista,Canada,kchelleyre@wise.com,,FALSE,,Chat,,Closed,Call,High,,
+trud-2482-2275,Iorgo Shoebotham,2024-03-18 13:57:17,scam,Resolved,Shuangfeng,China,ishoebothamrf@wise.com,,TRUE,,Phone,,Closed,Chat,Low,,
+sprz-8456-5965,Hannah Bleythin,2024-01-18 13:46:34,where_s_my_money,Pending,Angoulême,France,hbleythinrg@wise.com,,FALSE,,Chat,,Open,Chat,Low,,
+czbv-7417-5846,Pearle Bridgstock,2024-05-28 01:46:24,customer_service,Escalated,Formosa,Brazil,pbridgstockrh@wise.com,,TRUE,Level 1,Chat,,Closed,Call,Low,,
+uwyz-5378-3440,Kenon Covendon,2024-04-09 23:02:07,verification,Resolved,Grand Rapids,United States,kcovendonri@wise.com,,FALSE,,Phone,,Closed,Chat,Low,,
+nybv-8943-7860,Erma Feavers,2024-01-20 12:15:46,other,Resolved,Subkowy,Poland,efeaversrj@wise.com,4,FALSE,,Email,2024-01-27 07:37:09,Closed,Chat,High,7,168
+vjrn-7609-7169,Hercules Hawk,2024-04-25 15:54:25,scam,Escalated,Gusau,Nigeria,hhawkrk@wise.com,,TRUE,Level 3,Email,,Closed,Chat,Low,,
+ihty-9658-0098,Lora Juares,2024-06-28 04:36:07,scam,Pending,Qarah Bāgh Bāzār,Afghanistan,ljuaresrl@wise.com,,FALSE,,Email,,In Progress,Email,Medium,,
+gbnt-3969-1587,Vikky Rawson,2024-01-30 19:51:37,exchange_rate,Pending,Dame-Marie,Haiti,vrawsonrm@wise.com,,FALSE,,Phone,,In Progress,Call,Low,,
+iyht-1745-7633,Averil Kmiec,2024-01-01 08:31:54,assets/_investments,Resolved,Al Buţayḩah,Syria,akmiecrn@wise.com,3,TRUE,,Email,2024-01-09 21:51:35,Closed,Chat,High,8,192
+ykwp-3643-8772,Angelina Dallewater,2024-01-13 00:07:54,kyc_transfer_on_hold,Resolved,Ouésso,Republic of the Congo,adallewaterro@wise.com,,TRUE,,Phone,,Closed,Email,Medium,,
+bvth-4763-3971,Leila Bewlay,2024-05-09 07:34:42,customer_service,Resolved,Xiangshan,China,lbewlayrp@wise.com,,FALSE,,Chat,,Closed,Call,Low,,
+cnip-2087-1104,Reese Haines,2024-03-04 15:18:07,account_deactivation,Escalated,Xinhe,China,rhainesrq@wise.com,,TRUE,Level 2,Phone,,Closed,Chat,Low,,
+wbmf-2197-2885,Jesse Beeken,2024-02-24 07:00:14,other,Escalated,Sosnovka,Russia,jbeekenrr@wise.com,4,TRUE,Level 1,Email,2024-02-29 13:39:42,Closed,Call,High,5,120
+zytq-8618-3016,Richy Evett,2024-05-19 13:19:31,technical_issues,Pending,Babak,Philippines,revettl@wise.com,,TRUE,,Phone,,In Progress,Email,Medium,,
+kybv-1596-3104,Abbott Tolfrey,2024-02-25 23:11:08,hat,Resolved,Markaryd,Sweden,atolfreym@wise.com,,FALSE,,Phone,,Closed,Call,High,,
