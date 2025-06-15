@@ -1,0 +1,1001 @@
+ticket_id,ticket_status,ticket_created_timestamp,ticket_solved_timestamp,ec_inbox,requester_name,ec_primary_root_cause,ec_request_type,ec_product_cause
+doxn-3577-1131,Hold,2024-05-10 04:04:40,,Extra Care,Kettie Diche,People::Vulnerability::Identification,Assessment,
+ohpc-0618-5447,Open,2024-03-26 18:03:08,,Extra Care,Rosetta Scott,Knowledge::Knowledge Base::KB Missing,Handling,KYC::Verification::Other
+qzkk-0363-3344,Open,2024-01-29 14:10:43,,Extra Care,Sharl Pashen,Process::Third Party Dependency::Third Party Access,Assessment,
+hokn-4709-3898,Hold,2024-06-23 10:55:27,,Extra Care,Pauly Stampfer,Process::Expectation Gap::Product Gap,Takeover,Compliance::Fraud::Deactivation
+ydqf-2805-6818,Closed,2024-02-02 20:54:39,,Extra Care,Nevins Pallant,System::Automation Issue::Intervention Failure,Takeover,KYC::Verification::POA
+nhec-9816-3959,Open,2024-04-01 00:38:53,,Extra Care,Greggory Semiraz,System::False Positive Outcome::Incorrect System Intervention,Escalation,Money Moving::Wise Card::Account change effect
+opwm-5571-7996,Closed,2024-01-01 01:37:58,2024-01-26 06:14:49,Extra Care,Alethea Beecham,Knowledge::Knowledge Base::KB Missing,Escalation,
+yesj-9964-2145,Hold,2024-04-08 22:41:51,,Extra Care,Rosene Di Filippo,Process::Third Party Dependency::Third Party Access,Assessment,
+nhsa-4215-9629,Open,2024-01-05 04:52:55,,Extra Care,Rochelle Dunridge,Process::Expectation Gap::Compliance Gap,Assessment,
+fwqo-2346-8836,Hold,2024-02-26 01:28:48,,Extra Care,Estell Glyn,BOD,Assessment,Money Moving::Wise Card::Dispute
+ooul-8531-2432,Hold,2024-05-31 04:46:16,,Extra Care,Minnie Rutledge,People::Vulnerability::Appropriate Accommodation,Handling,
+sihe-7419-9718,Solved,2024-03-09 07:28:44,2024-04-08 23:51:25,Extra Care,Bibi Iddison,People::External Engagement::Third Party Engagement,Takeover,Compliance::Fraud::ATO
+xqzf-1601-4479,Open,2024-05-27 02:08:15,,Extra Care,Elisabetta Fredy,System::False Positive Outcome::Incorrect System Intervention,Assessment,
+hsev-4487-2441,Hold,2024-02-03 14:43:17,,Extra Care,Benny Rheaume,System::Customer Usage Issue::Customer Input or Error,Handling,Compliance::Fraud::Check
+frjk-5798-8408,Closed,2024-04-01 11:12:51,,Extra Care,Terry Hellin,Process::Expectation Gap::Product Gap,Escalation,Money Moving::Wise Card::Card failure
+cujv-4733-1481,Solved,2024-01-07 18:43:48,2024-01-08 06:59:02,Extra Care,Olwen MacVaugh,People::Customer Engagement::Unreasonable Delay,Handling,
+xclz-4494-3745,Open,2024-05-27 03:22:50,,Extra Care,Loren Barnshaw,System::Automation Issue::Intervention Failure,Escalation,Money Moving::Wise Card::Account change effect
+pkiz-4498-0254,Solved,2024-04-26 05:20:42,,Extra Care,Lexi Bifield,People::External Engagement::Third Party Engagement,Handling,Compliance::Sanctions::Deactivation
+lmmm-9339-4159,Open,2024-04-29 05:54:25,,Extra Care,Georgie Bull,People::Incorrect Action::Agent Decision,Handling,
+dlza-5166-0306,Hold,2024-05-10 17:32:49,,Extra Care,Reid Blockley,Process::Third Party Dependency::Third Party Access,Handling,ec_root_cause_compliance__fraud
+upbb-6272-2658,Closed,2024-02-26 22:46:43,,Extra Care,Ximenes Jendrich,People::Vulnerability::Appropriate Accommodation,Assessment,
+kxzz-4936-2935,Closed,2024-01-17 11:02:42,2024-01-28 22:14:03,Extra Care,Samaria Joris,Process::Third Party Dependency::Third Party Access,Escalation,
+gbvo-8110-5300,Hold,2024-04-17 06:48:47,,Extra Care,Paulina Serot,Process::Third Party Dependency::Third Party Error,Handling,
+yoho-6263-7197,Hold,2024-03-20 14:49:09,,Extra Care,Fionnula Bricket,Process::Expectation Gap::Speed Gap,Escalation,
+awml-7013-8167,Open,2024-05-31 08:00:25,,Extra Care,Shalna Leifer,Do not select::Customer Input or Error,Takeover,
+apgb-4586-4411,Hold,2024-02-21 00:16:03,,Extra Care,Hetty Feehely,People::Vulnerability::Identification,Handling,
+anbf-4626-2549,Open,2024-02-28 07:12:45,,Extra Care,Winnie Delleschi,People::Customer Engagement::Tonal Issues,Handling,
+gvnm-4306-9281,Hold,2024-03-23 15:54:48,,Extra Care,Matthieu Campos,Process::Third Party Dependency::Third Party Access,Assessment,Compliance::AML::Deactivation
+ltwx-1484-2986,Solved,2024-06-25 16:59:01,2024-07-13 23:11:47,Extra Care,Cornie Davidofski,People::Vulnerability::Identification,Escalation,
+vxwe-3620-4636,Closed,2024-01-03 00:53:05,2024-01-06 07:43:20,Extra Care,Lynea Tchir,Knowledge::Knowledge Base::KB Missing,Escalation,
+vomq-2797-7880,Hold,2024-05-08 14:33:55,,Extra Care,Gianni Bottinelli,People::Customer Engagement::Tonal Issues,Takeover,KYC::Deactivation
+tvhp-0953-0548,Hold,2024-01-23 18:34:37,,Extra Care,Nickolai Northin,Process::Internal Process Issue::Unmonitored Channel,Takeover,Account::Access and updates
+msot-9458-2793,Solved,2024-05-03 20:14:02,2024-05-25 15:00:31,Extra Care,Alano Garrity,Process::Internal Process Issue::Unmonitored Channel,Escalation,KYC::CDD::SOW Deactivation
+nxkd-9783-3709,Closed,2024-02-17 12:35:52,2024-02-21 13:25:39,Extra Care,Leeanne Beasleigh,People::External Engagement::Third Party Engagement,Assessment,KYC::Verification::POA
+ekpd-3719-8426,Solved,2024-03-20 12:33:31,2024-03-25 05:03:43,Extra Care,Dannye Goullee,People::Customer Engagement::Unreasonable Delay,Assessment,Money Moving::Wise Card::Account change effect
+dawv-7603-3716,Closed,2024-03-16 17:02:29,,Extra Care,Brietta Houliston,People::Customer Engagement::Agent Understanding,Assessment,Compliance::Fraud::Check
+bqdb-7030-2067,Open,2024-04-25 17:44:56,,Extra Care,Axe Sutherington,System::Customer Usage Issue:Technical Issues,Escalation,
+vngy-2848-0619,Open,2024-05-07 12:40:33,,Extra Care,Tiphanie Dominey,People::Incorrect Action::Agent Decision,Takeover,ec_root_cause_compliance__fraud
+tgcw-2327-0869,Closed,2024-01-29 14:40:48,2024-02-08 09:25:18,Extra Care,Tucker McAuley,Process::Org Delay::Insufficient Resource,Assessment,
+ztkm-5718-8093,Hold,2024-05-26 17:13:53,,Extra Care,Collette Gouck,System::Customer Usage Issue::Accessibility,Escalation,
+rlcf-7501-0601,Closed,2024-02-05 03:50:51,,Extra Care,Kelley Trythall,People::Incorrect Action::Procedural Adherence,Assessment,
+ifhi-3892-0436,Closed,2024-01-16 06:01:51,,Extra Care,Duane Bruineman,Process::Expectation Gap::Speed Gap,Handling,
+dlme-5489-2294,Solved,2024-03-30 15:29:57,2024-04-13 22:19:30,Extra Care,Townie Huckstepp,Process::Third Party Dependency::Third Party Info Delay,Escalation,
+abgl-2659-3564,Hold,2024-05-16 04:38:17,,Extra Care,Emili Hulett,People::Incorrect Action::Incorrect Guidance,Assessment,KYC::POAT
+coty-5208-7853,Solved,2024-06-06 13:51:52,2024-07-02 04:53:16,Extra Care,Edgard Lawther,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,
+pvrr-1169-3815,Open,2024-03-01 07:34:31,,Extra Care,Jephthah Ascough,People::Customer Engagement::Unreasonable Delay,Takeover,
+rwph-6950-5393,Hold,2024-05-01 17:53:47,,Extra Care,Beryl Dengel,Process::Expectation Gap::Compliance Gap,Escalation,KYC::Verification::Other
+ztbz-1684-8444,Open,2024-06-21 12:00:52,,Extra Care,Garvy de Tocqueville,Process::Expectation Gap::Product Gap,Takeover,
+coff-2085-5879,Hold,2024-05-01 07:10:17,,Extra Care,Keely Klimowski,System::Customer Usage Issue::Accessibility,Escalation,Money Moving::Balances
+zqbh-4330-0254,Closed,2024-05-24 10:54:24,2024-06-01 00:25:11,Extra Care,Jerrine Castanares,People::Incorrect Action::Agent Decision,Takeover,
+ldjo-8632-3390,Hold,2024-03-19 20:09:00,,Extra Care,Zachary Burras,People::External Engagement::Third Party Engagement,Handling,
+hkge-6279-1534,Closed,2024-06-08 17:07:35,,Extra Care,Nanine Ashall,Process::Third Party Dependency::Third Party Error (Partner),Escalation,
+dnyg-7483-9267,Hold,2024-04-08 07:49:52,,Extra Care,Kaye Rudolf,BOD,Takeover,Account::Other
+gjph-3723-0807,Open,2024-04-10 04:12:09,,Extra Care,Demetris Bellchamber,Process::Expectation Gap::Compliance Gap,Escalation,
+ogvu-5609-0346,Open,2024-01-30 12:29:47,,Extra Care,Yoshiko Schwandner,System::Information Limitation::Information Unclear,Takeover,
+cjkk-5948-2735,Closed,2024-03-10 18:09:50,2024-03-25 12:03:53,Extra Care,Marice Paddison,People::External Engagement::Third Party Engagement,Takeover,
+qgws-0579-7571,Solved,2024-01-07 17:24:06,2024-01-19 00:29:14,Extra Care,Horton Borgnol,Process::Third Party Dependency::Third Party Error (Partner),Assessment,Compliance::Surveillance
+mpto-6901-9673,Hold,2024-05-02 12:05:27,,Extra Care,Vicki Demer,Do not select::Customer Input or Error,Escalation,
+rqqi-1893-6897,Hold,2024-01-01 14:00:53,,Extra Care,Jeanette Regina,People::Vulnerability::Appropriate Accommodation,Takeover,
+jnrn-4757-4930,Closed,2024-01-15 18:22:54,2024-02-14 18:10:13,Extra Care,Celestyn Binham,People::Incorrect Action::Agent Decision,Handling,
+tdlv-1023-6545,Closed,2024-04-27 16:34:51,2024-05-23 08:19:54,Extra Care,Delaney McCarron,System::Customer Usage Issue::Customer Input or Error,Assessment,
+neww-1213-6075,Open,2024-03-24 02:49:03,,Extra Care,Estevan Volkes,System::Information Limitation::Information Unclear,Escalation,
+spzs-5982-8652,Open,2024-01-11 01:58:02,,Extra Care,Sherry Babonau,People::Customer Engagement::Unclear Communication,Escalation,Compliance::Sanctions::Check
+ojkv-6845-1572,Solved,2024-03-21 04:42:11,2024-04-19 23:25:14,Extra Care,Ave Grayley,Knowledge::Knowledge Base::KB Missing,Takeover,KYC::CDD::SOW Deactivation
+isng-2428-4632,Closed,2024-05-18 01:56:35,2024-05-23 18:08:00,Extra Care,Livvie Byfford,People::Incorrect Action::Incomplete Outcome,Escalation,
+bubw-7667-9941,Hold,2024-03-18 16:43:42,,Extra Care,Craggie Puckinghorne,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,
+lafj-7576-8038,Solved,2024-06-11 21:30:53,2024-06-14 06:05:22,Extra Care,Tani Lagneaux,People::Incorrect Action::Incorrect Guidance,Escalation,
+bhdk-8621-9606,Solved,2024-01-28 04:34:22,2024-02-23 15:13:37,Extra Care,Yorgos Zoane,People::Incorrect Action::Incorrect Escalation,Handling,
+fxnk-6517-7668,Closed,2024-05-05 19:31:24,2024-05-14 17:13:45,Extra Care,Vasili Cuseck,Process::Third Party Dependency::Third Party Info Delay,Takeover,
+uifu-9559-0508,Solved,2024-06-19 14:27:27,2024-06-27 10:50:19,Extra Care,Manon Kobiera,People::Vulnerability::Identification,Handling,Compliance::Surveillance
+ftoi-2628-2898,Solved,2024-05-25 18:58:36,2024-06-09 06:47:28,Extra Care,Ambrosio Carlino,System::Information Limitation::Information Unclear,Assessment,
+palg-7592-5796,Closed,2024-01-18 16:31:38,2024-01-21 14:18:36,Extra Care,Jaquelin Denerley,System::Automation Issue::Tooling Failure,Escalation,
+ivky-8823-9285,Solved,2024-03-26 12:22:55,2024-04-05 04:49:39,Extra Care,Antonina Profit,People::Vulnerability::Appropriate Accommodation,Assessment,
+emsr-3956-5714,Closed,2024-02-14 16:59:13,,Extra Care,Brian Burle,Process::Third Party Dependency::Third Party Info Delay,Assessment,
+hmzg-1309-5160,Open,2024-02-24 18:31:03,,Extra Care,Tonya Colomb,Knowledge::Outward Facing Information::External Publication Misleading,Handling,KYC::Verification::POA
+zzqx-0748-2889,Closed,2024-02-23 06:32:56,,Extra Care,Aluino Onthank,People::Customer Engagement::Tonal Issues,Takeover,
+pqga-4969-2057,Closed,2024-02-19 17:43:48,,Extra Care,Ernesto Marshland,People::Incorrect Action::Agent Decision,Handling,
+icvd-2477-1960,Solved,2024-06-28 12:09:51,2024-07-13 13:32:31,Extra Care,Felicity Brachell,People::External Engagement::Third Party Engagement,Escalation,
+tqfv-1707-2845,Open,2024-05-11 21:52:50,,Extra Care,Daune Belliveau,People::External Engagement::Third Party Engagement,Assessment,Compliance::Fraud::Check
+lats-0127-2490,Solved,2024-04-06 04:48:05,2024-05-04 23:12:46,Extra Care,Ysabel Bulman,Process::Third Party Dependency::Third Party Access,Escalation,KYC::CDD::SOW Deactivation
+wjqw-9248-6521,Solved,2024-04-04 01:24:00,2024-05-02 12:47:41,Extra Care,Pollyanna Snoxill,People::Incorrect Action::Incomplete Outcome,Takeover,KYC::Verification::Missing document
+nypd-0982-8865,Closed,2024-03-25 15:33:22,2024-03-28 00:12:52,Extra Care,Saul Emblem,People::Incorrect Action::Incorrect Escalation,Assessment,Compliance::Sanctions::Check
+rhyq-6709-2243,Hold,2024-03-28 14:30:53,,Extra Care,Don MacGahey,Process::Third Party Dependency::Third Party Error (Partner),Handling,
+jzoz-9444-1558,Open,2024-02-21 21:34:23,,Extra Care,Abelard Spall,People::Customer Engagement::Agent Understanding,Escalation,
+vuoh-4786-1746,Open,2024-04-03 12:09:02,,Extra Care,Misty Hardington,People::Customer Engagement::Tonal Issues,Escalation,
+hmir-4901-8227,Hold,2024-01-03 14:55:02,,Extra Care,Karisa Tubritt,Process::Third Party Dependency::Third Party Info Delay,Assessment,
+vgzi-4761-3672,Open,2024-02-27 20:31:56,,Extra Care,Tibold Leavy,People::Incorrect Action::Agent Decision,Assessment,
+dmky-3135-3860,Open,2024-03-12 18:01:00,,Extra Care,Elsi Daggett,Process::Expectation Gap::Compliance Gap,Handling,
+pqvj-5287-0162,Open,2024-05-16 11:17:05,,Extra Care,Artur Baigent,Knowledge::Outward Facing Information::External Publication Misleading,Assessment,
+ffwn-6681-4345,Closed,2024-05-29 15:11:50,2024-06-04 14:45:16,Extra Care,Stanwood Luxon,Knowledge::Knowledge Base::KB Missing,Takeover,Compliance::Fraud::Deactivation
+wsha-2115-0269,Open,2024-06-21 11:42:41,,Extra Care,Melba Cuardall,System::Customer Usage Issue::Accessibility,Takeover,
+sliq-5250-4237,Closed,2024-06-19 13:51:49,2024-07-05 13:11:32,Extra Care,Ewell Illesley,System::False Positive Outcome::Incorrect System Intervention,Handling,
+spqw-3631-3479,Closed,2024-06-20 03:42:46,2024-06-24 06:41:53,Extra Care,Elyse Fishbourne,People::Incorrect Action::Procedural Adherence,Escalation,KYC::Verification::POA
+leqf-0286-4648,Solved,2024-01-18 19:25:48,2024-02-05 07:00:44,Extra Care,Dorris Knudsen,People::Incorrect Action::Incorrect Guidance,Takeover,Account::Other
+ppvl-1078-4543,Hold,2024-02-29 02:10:03,,Extra Care,Vern Hulles,People::Incorrect Action::Procedural Adherence,Handling,Compliance::AML::Deactivation
+eday-1573-1114,Closed,2024-02-12 18:58:29,2024-02-21 18:52:27,Extra Care,Hakim Budd,Process::Internal Process Issue::Unmonitored Channel,Assessment,KYC::CDD::SOW Deactivation
+huqw-4613-6039,Solved,2024-03-08 05:00:01,2024-03-10 01:54:14,Extra Care,Locke Bucksey,System::Customer Usage Issue::Accessibility,Escalation,Accessibility
+pnij-4827-4939,Hold,2024-03-02 10:05:30,,Extra Care,Werner Stringman,People::Incorrect Action::Incorrect Guidance,Takeover,Compliance::Sanctions::Deactivation
+wnul-0270-4579,Closed,2024-04-27 15:15:19,2024-05-24 10:56:59,Extra Care,Griffie Feldstern,Knowledge::Knowledge Base::KB Missing,Escalation,
+wour-8049-5687,Closed,2024-06-17 23:51:28,2024-07-08 17:08:00,Extra Care,Margeaux Willcot,Process::Internal Process Issue::Unmonitored Channel,Escalation,KYC::Verification::Other
+xuam-7632-2551,Open,2024-06-17 02:35:00,,Extra Care,Westleigh Work,People::Vulnerability::Identification,Takeover,Money Moving::Wise Card::Dispute
+qalx-5829-8081,Open,2024-01-02 01:35:44,,Extra Care,Bernetta Ipwell,Process::Expectation Gap::Product Gap,Handling,KYC::CDD::SOW Deactivation
+qxrp-2795-3193,Solved,2024-02-12 10:52:05,2024-02-28 04:43:00,Extra Care,Glenn Sloane,People::Incorrect Action::Agent Decision,Handling,Money Moving::Wise Card::Card failure
+iipt-0441-8160,Closed,2024-01-11 19:45:35,2024-01-13 02:05:36,Extra Care,Skip Boughtwood,BOD,Takeover,Money Moving::Balances
+whvi-0094-7780,Hold,2024-06-01 16:00:17,,Extra Care,Joela Mixon,Process::Third Party Dependency::Third Party Info Delay,Handling,
+aaxi-7904-0560,Open,2024-04-09 13:04:49,,Extra Care,Felix Wimp,System::Customer Usage Issue::Customer Input or Error,Takeover,
+rgqj-9379-9820,Hold,2024-05-26 06:41:28,,Extra Care,Roseanna Valentelli,Process::Third Party Dependency::Third Party Error (Partner),Handling,
+pokt-0922-6206,Hold,2024-02-01 22:43:54,,Extra Care,Wyn Outright,People::Customer Engagement::Tonal Issues,Assessment,
+kzcm-0779-0566,Open,2024-05-17 10:15:11,,Extra Care,Denni Drew-Clifton,Process::Third Party Dependency::Third Party Access,Takeover,
+hhtl-6200-4616,Open,2024-01-02 19:56:23,,Extra Care,Banky Eisig,Knowledge::Outward Facing Information::External Publication Misleading,Handling,KYC::Verification::Missing document
+ejoq-7813-2066,Solved,2024-04-23 05:01:31,2024-04-28 10:35:00,Extra Care,Farlay Otley,Process::Expectation Gap::Product Gap,Assessment,
+mjzg-6230-4621,Closed,2024-02-25 04:52:21,2024-03-17 20:38:01,Extra Care,Shermy Reiach,Process::Internal Process Issue::Gap in Process,Handling,KYC::CDD::SOW Deactivation
+jgvz-2897-1370,Open,2024-02-26 11:28:04,,Extra Care,Con Ploughwright,Process::Internal Process Issue::Gap in Process,Escalation,KYC::Deactivation
+qang-3855-6366,Open,2024-05-07 17:49:57,,Extra Care,Gilligan Harower,Process::Third Party Dependency::Third Party Error (Partner),Takeover,KYC::Deactivation
+grwm-3264-4459,Open,2024-02-14 00:13:14,,Extra Care,Isaac Tinston,People::Vulnerability::Appropriate Accommodation,Handling,
+mmqx-0472-3922,Solved,2024-04-26 14:38:55,2024-05-05 01:22:52,Extra Care,Yancy Proudlock,Process::Third Party Dependency::Third Party Access,Escalation,
+ewlq-6399-5798,Closed,2024-01-30 17:18:51,,Extra Care,Katleen Peter,People::Vulnerability::Appropriate Accommodation,Escalation,Money Moving::Wise Card::Dispute
+ogyi-7514-2959,Closed,2024-01-01 23:32:40,2024-01-21 10:31:32,Extra Care,Hinze Burde,People::Incorrect Action::Incorrect Guidance,Assessment,Compliance::AML::Deactivation
+rmvm-3304-4620,Hold,2024-03-10 23:07:34,,Extra Care,Linc Menpes,Process::Third Party Dependency::Third Party Info Delay,Escalation,KYC::Verification::Missing document
+urun-4263-0228,Closed,2024-04-13 03:50:19,2024-05-05 05:03:02,Extra Care,Bond Sandbrook,Process::Third Party Dependency::Third Party Info Delay,Handling,Compliance::Fraud::Scam
+rzrb-7968-8607,Solved,2024-03-29 23:36:26,2024-04-25 02:38:56,Extra Care,Sallie Thebe,People::Incorrect Action::Incorrect Guidance,Escalation,
+qltv-1344-4304,Closed,2024-01-18 17:34:44,,Extra Care,Piggy Fontes,People::Incorrect Action::Incomplete Outcome,Takeover,Money Moving::Balances
+zxpq-0342-9489,Hold,2024-04-04 17:12:59,,Extra Care,Lib Warlaw,System::False Positive Outcome::Incorrect System Intervention,Escalation,
+dxsp-4660-8305,Open,2024-04-23 08:40:08,,Extra Care,Rooney Milstead,Knowledge::Knowledge Base::KB Missing,Assessment,
+zxkz-4794-1604,Solved,2024-01-25 11:58:36,,Extra Care,Harley Waterdrinker,Process::Third Party Dependency::Third Party Error,Assessment,
+jbdj-9146-1199,Solved,2024-02-12 20:00:22,2024-02-19 21:34:40,Extra Care,Lorin Dowdney,People::Customer Engagement::Agent Understanding,Handling,Money Moving::Wise Card::Card failure
+fgmj-3896-5337,Closed,2024-02-03 17:15:16,2024-02-19 05:11:12,Extra Care,Collie Harding,Process::Third Party Dependency::Third Party Access,Handling,
+mecv-2725-0032,Solved,2024-05-30 15:27:25,,Extra Care,Roi Carthew,People::Incorrect Action::Incorrect Guidance,Takeover,
+pdgx-7184-2713,Closed,2024-03-23 19:56:14,2024-04-02 05:07:53,Extra Care,Alleen Farguhar,People::Vulnerability::Identification,Escalation,
+hwqr-6752-8963,Closed,2024-01-11 18:02:36,,Extra Care,Katharina Bearham,Process::Internal Process Issue::Gap in Process,Escalation,KYC::CDD::SOW issue
+ikkf-4503-4712,Open,2024-04-12 08:41:08,,Extra Care,Davey Kenneford,BOD,Handling,KYC::Verification::Other
+hyzs-5142-3784,Closed,2024-05-03 06:49:18,,Extra Care,Arte Ledgley,Do not select::Customer Input or Error,Escalation,Compliance::AML::Check
+jfeo-3553-4632,Solved,2024-06-05 05:20:15,2024-06-29 20:52:39,Extra Care,Massimiliano Piegrome,People::Incorrect Action::Incorrect Guidance,Assessment,
+tion-1802-5738,Solved,2024-05-15 13:50:36,,Extra Care,Patricia Snowman,System::Customer Usage Issue:Technical Issues,Handling,
+ufqi-1488-6357,Closed,2024-06-01 17:23:26,2024-06-18 13:50:27,Extra Care,Byrle Tangye,People::Incorrect Action::Procedural Adherence,Escalation,Compliance::Fraud::Scam
+cnuw-0934-5795,Open,2024-05-02 15:34:01,,Extra Care,Currie Gosz,BOD,Handling,
+udmv-8859-8131,Closed,2024-04-17 16:24:06,2024-04-20 10:00:09,Extra Care,Melony Belli,Do not select::Customer Input or Error,Takeover,
+mchu-8696-6708,Open,2024-01-06 19:28:47,,Extra Care,Fifine M'Quharge,People::External Engagement::Third Party Engagement,Takeover,
+pqnv-9934-7818,Hold,2024-02-14 09:59:42,,Extra Care,Rob Dunckley,Process::Expectation Gap::Compliance Gap,Takeover,
+jrlj-2103-0221,Hold,2024-06-19 01:40:00,,Extra Care,Christiana Chritchlow,People::Incorrect Action::Agent Decision,Takeover,KYC::POAT
+eduq-7591-0839,Open,2024-06-23 23:02:56,,Extra Care,Carling Beechcraft,People::Incorrect Action::Procedural Accuracy,Handling,
+moos-3086-9658,Closed,2024-02-17 22:38:34,2024-02-22 02:43:39,Extra Care,Andonis Manners,People::Customer Engagement::Agent Understanding,Handling,Money Moving::Wise Card::Account change effect
+ooun-7846-1980,Hold,2024-01-11 02:27:42,,Extra Care,Averyl Swinden,Process::Third Party Dependency::Third Party Error (Partner),Assessment,
+obsa-9548-2416,Closed,2024-02-20 23:01:25,2024-03-05 02:42:17,Extra Care,Rose Listone,People::Incorrect Action::Incomplete Outcome,Assessment,KYC::CDD::SOW Deactivation
+maeq-0425-6589,Hold,2024-06-08 13:38:29,,Extra Care,Perceval Connal,Process::Internal Process Issue::Gap in Process,Escalation,
+iyvq-4415-0541,Open,2024-04-19 11:48:10,,Extra Care,Olenka Kirwan,Process::Expectation Gap::Speed Gap,Escalation,Account::Other
+sjzv-6221-6913,Solved,2024-04-26 02:32:34,2024-05-18 12:47:11,Extra Care,Terrell Merryfield,System::False Positive Outcome::Incorrect System Intervention,Assessment,
+kupf-4771-2700,Closed,2024-02-17 22:44:24,,Extra Care,Cornelia Morl,People::Incorrect Action::Incorrect Guidance,Escalation,KYC::Verification::IDWL
+sqfj-8121-5843,Open,2024-01-16 14:56:54,,Extra Care,Leisha Ather,System::Automation Issue::Tooling Failure,Escalation,
+cygz-9504-5933,Open,2024-05-26 18:17:12,,Extra Care,Hillie Kasman,Process::Expectation Gap::Product Gap,Takeover,
+qekv-1680-7342,Open,2024-01-12 20:30:47,,Extra Care,Kirbee Blencowe,Process::Internal Process Issue::Unmonitored Channel,Takeover,Compliance::Fraud::Deactivation
+fjsg-4893-5664,Closed,2024-01-28 13:22:17,2024-02-23 10:33:36,Extra Care,Kim Yakutin,System::Automation Issue::Intervention Failure,Takeover,
+bger-7592-8995,Solved,2024-06-17 13:40:07,,Extra Care,Billie Sillwood,Knowledge::Outward Facing Information::External Publication Misleading,Handling,
+dwgx-1008-5376,Solved,2024-01-25 19:28:24,2024-02-07 12:43:47,Extra Care,Nady Varley,People::Customer Engagement::Tonal Issues,Takeover,
+vvqt-0455-9380,Hold,2024-04-16 18:35:18,,Extra Care,Leann Iskov,People::External Engagement::Third Party Engagement,Escalation,KYC::Verification::IDWL
+imbx-4669-6291,Closed,2024-04-02 06:24:09,2024-04-06 08:50:33,Extra Care,Aimee Gawith,People::Vulnerability::Identification,Takeover,
+amyz-4813-1750,Closed,2024-06-26 12:55:45,,Extra Care,Angie Jillitt,Process::Internal Process Issue::Gap in Process,Assessment,Compliance::AML::Check
+ihyp-7758-5203,Closed,2024-01-29 06:15:42,2024-02-21 09:33:29,Extra Care,Aland Sillwood,System::Automation Issue::Intervention Failure,Escalation,Compliance::AML::Deactivation
+owwx-9722-9042,Open,2024-05-05 21:36:31,,Extra Care,Lucia Zanni,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+qrjo-6279-1721,Closed,2024-05-17 22:59:41,,Extra Care,Martica Bonicelli,People::External Engagement::Third Party Engagement,Handling,Money Moving::Wise Card::Account change effect
+xyaf-5182-2320,Hold,2024-02-27 02:29:45,,Extra Care,Sibyl Matokhnin,System::Automation Issue::Intervention Failure,Handling,Compliance::Sanctions::Check
+xvej-8953-7717,Closed,2024-02-26 07:43:05,2024-03-07 22:30:19,Extra Care,Alika Grouer,People::Incorrect Action::Incorrect Guidance,Assessment,
+zipe-8033-6242,Closed,2024-01-24 09:00:16,,Extra Care,Brooke Cowan,People::Customer Engagement::Unclear Communication,Handling,
+fulp-5636-6951,Open,2024-06-05 13:23:57,,Extra Care,Kikelia MacSween,People::Customer Engagement::Agent Understanding,Escalation,KYC::Verification::Missing document
+zrph-3891-6695,Closed,2024-03-05 23:42:55,2024-04-03 16:37:13,Extra Care,Norine Greim,System::Customer Usage Issue:Technical Issues,Takeover,Money Moving::Balances
+jmiw-1648-9537,Open,2024-02-24 07:55:28,,Extra Care,Darren Pover,Do not select::Customer Input or Error,Assessment,
+zglo-2136-3270,Hold,2024-03-01 17:37:16,,Extra Care,Urbano Earnshaw,System::False Positive Outcome::Incorrect System Intervention,Takeover,Compliance::Sanctions::Check
+odaj-4678-8129,Closed,2024-06-16 07:57:57,2024-06-21 19:25:44,Extra Care,Talbert Enoch,Process::Third Party Dependency::Third Party Error (Partner),Escalation,
+tdxu-2651-6401,Solved,2024-06-29 00:51:34,2024-07-21 07:28:38,Extra Care,Carmela Hosten,System::Customer Usage Issue::Customer Input or Error,Handling,
+xqtc-1839-7612,Hold,2024-04-16 05:26:51,,Extra Care,Hanson Bottlestone,Process::Expectation Gap::Product Gap,Takeover,
+endo-7514-1406,Solved,2024-03-23 13:59:12,2024-04-16 13:07:37,Extra Care,Kristi Hanford,People::Incorrect Action::Procedural Accuracy,Assessment,
+lnxc-7177-9401,Closed,2024-01-06 07:52:23,2024-01-23 11:49:20,Extra Care,Jasmine Glewe,Process::Expectation Gap::Speed Gap,Handling,
+vktm-0535-1847,Hold,2024-04-10 22:59:31,,Extra Care,Doralin Kinvan,BOD,Escalation,
+yuoa-3552-4883,Open,2024-03-14 02:53:00,,Extra Care,Dotty Higbin,Process::Org Delay::Insufficient Resource,Escalation,
+yane-4838-1092,Hold,2024-01-10 08:42:59,,Extra Care,Ailis Hazleton,People::Customer Engagement::Unreasonable Delay,Assessment,Compliance::Sanctions::Check
+udrb-5782-5103,Hold,2024-06-06 12:21:58,,Extra Care,Kerstin Prestwich,System::Customer Usage Issue::Customer Input or Error,Assessment,Compliance::AML::Check
+scvo-0014-2311,Solved,2024-04-22 21:35:43,2024-04-26 04:55:19,Extra Care,Gustave Ridley,Knowledge::Knowledge Base::KB Missing,Takeover,Accessibility
+kadf-4604-3312,Closed,2024-01-11 10:36:23,2024-02-03 17:23:17,Extra Care,Taffy Garbert,People::Incorrect Action::Procedural Adherence,Takeover,Compliance::Sanctions::Deactivation
+fart-4642-3066,Closed,2024-02-05 21:10:59,2024-02-09 04:48:40,Extra Care,Bordy Seeking,Process::Expectation Gap::Speed Gap,Escalation,
+vgvk-2586-2082,Solved,2024-04-01 03:35:24,2024-04-12 05:18:59,Extra Care,Raffaello Luto,People::Customer Engagement::Unclear Communication,Escalation,KYC::Other
+admw-0789-5930,Solved,2024-02-08 20:12:14,2024-02-14 05:57:02,Extra Care,Gabbey Sherrett,People::Incorrect Action::Procedural Accuracy,Assessment,Compliance::Fraud::Check
+xcip-8201-0071,Open,2024-03-08 20:19:48,,Extra Care,Packston Self,System::False Positive Outcome::Incorrect System Intervention,Assessment,Account::Access and updates
+ljvi-9050-7364,Solved,2024-01-28 13:45:20,,Extra Care,Margarete Gosse,System::Automation Issue::Intervention Failure,Handling,
+zlke-1267-8907,Closed,2024-06-17 05:45:56,2024-07-08 12:15:43,Extra Care,Hesther Kettridge,People::Customer Engagement::Tonal Issues,Handling,
+ozbq-5685-9350,Open,2024-06-24 02:03:45,,Extra Care,Alexander Refford,People::External Engagement::Third Party Engagement,Assessment,
+smup-9523-4229,Hold,2024-06-01 07:56:57,,Extra Care,Lennard McBratney,BOD,Takeover,
+ihrr-1669-2193,Closed,2024-03-31 19:01:33,2024-04-10 00:05:21,Extra Care,Gabby Aysik,Do not select::Customer Input or Error,Assessment,KYC::CDD::SOW issue
+gfxn-1971-9790,Closed,2024-05-19 14:35:17,2024-06-03 20:09:53,Extra Care,Kendal Sommerland,Process::Third Party Dependency::Third Party Error (Partner),Assessment,Compliance::Sanctions::Check
+rbyv-5344-7416,Solved,2024-06-25 18:27:29,2024-07-14 17:24:19,Extra Care,Matias Carley,Process::Expectation Gap::Speed Gap,Escalation,Money Moving::Transfer
+ytcz-9394-1025,Closed,2024-06-18 04:10:00,2024-07-17 18:54:42,Extra Care,Celestyn Duley,Process::Internal Process Issue::Unmonitored Channel,Assessment,KYC::POAT
+assa-1573-4518,Closed,2024-05-16 13:13:44,2024-06-13 03:13:45,Extra Care,Annissa Avrahamoff,Knowledge::Knowledge Base::KB Missing,Assessment,Money Moving::Wise Card::Account change effect
+hagd-8861-7026,Closed,2024-06-20 20:32:39,2024-07-04 20:57:34,Extra Care,Lida Millican,Process::Expectation Gap::Product Gap,Handling,Compliance::Sanctions::Check
+lawc-0795-3679,Hold,2024-06-08 12:32:31,,Extra Care,Shina Alderson,System::Automation Issue::Intervention Failure,Assessment,
+rnyn-0596-0843,Open,2024-05-30 09:24:26,,Extra Care,Gertie Ricker,BOD,Escalation,Compliance::Surveillance
+jrwz-5688-4652,Solved,2024-02-23 04:34:29,2024-02-28 15:54:42,Extra Care,Alix Gilloran,People::Incorrect Action::Incorrect Guidance,Escalation,
+gdjw-1566-6466,Closed,2024-03-31 22:12:15,2024-04-06 04:22:43,Extra Care,Alida Henricsson,Process::Third Party Dependency::Third Party Info Delay,Takeover,Compliance::Fraud::Scam
+rzlk-3563-0086,Open,2024-04-27 19:47:10,,Extra Care,Kerri Rainsbury,System::Customer Usage Issue::Customer Input or Error,Takeover,KYC::Verification::Missing document
+efle-9875-7919,Hold,2024-04-27 21:32:37,,Extra Care,Laney Furse,System::False Positive Outcome::Incorrect System Intervention,Assessment,KYC::Verification::IDWL
+jyqm-8595-5306,Hold,2024-05-06 14:00:53,,Extra Care,Isiahi Reilly,People::Incorrect Action::Incomplete Outcome,Assessment,
+nelm-7175-0693,Hold,2024-05-29 21:47:50,,Extra Care,Emmott Gonzalvo,Process::Internal Process Issue::Unmonitored Channel,Handling,Compliance::Sanctions::Deactivation
+qgmc-4301-5647,Hold,2024-05-11 13:00:29,,Extra Care,Elizabeth Spincke,System::Automation Issue::Tooling Failure,Assessment,
+kbue-2801-1792,Open,2024-03-31 22:23:53,,Extra Care,Octavius Coda,People::Customer Engagement::Unreasonable Delay,Takeover,
+uvqg-4544-5746,Closed,2024-02-07 13:13:15,,Extra Care,Maitilde Clibbery,People::Incorrect Action::Incorrect Escalation,Takeover,KYC::Verification::IDWL
+tsct-5967-4895,Closed,2024-05-24 09:54:04,2024-06-22 09:10:01,Extra Care,Domingo Bere,System::False Positive Outcome::Incorrect System Intervention,Handling,KYC::Other
+rfmq-9439-6114,Open,2024-06-16 04:37:16,,Extra Care,Desmond Gerrill,System::Automation Issue::Tooling Failure,Takeover,Money Moving::Transfer
+jtkf-8276-3497,Solved,2024-02-16 20:23:07,,Extra Care,Chick Aveyard,System::Automation Issue::Tooling Failure,Takeover,Compliance::Surveillance
+dzso-5325-1827,Closed,2024-05-28 22:28:53,2024-06-15 08:34:44,Extra Care,Andris Thunnercliffe,People::Incorrect Action::Incomplete Outcome,Escalation,Compliance::Fraud::Deactivation
+jywt-3548-3458,Hold,2024-01-08 03:47:47,,Extra Care,Konstance Reeder,Process::Expectation Gap::Speed Gap,Takeover,KYC::Verification::IDWL
+myek-6248-4244,Hold,2024-01-02 00:23:12,,Extra Care,Bobette Viall,People::Incorrect Action::Procedural Adherence,Escalation,
+riic-4612-0742,Closed,2024-05-19 13:14:59,,Extra Care,Jessalin Longhorn,People::Vulnerability::Appropriate Accommodation,Handling,
+hbyt-9597-7792,Closed,2024-01-12 21:57:56,2024-01-17 07:23:00,Extra Care,Rakel Sexcey,Process::Third Party Dependency::Third Party Info Delay,Escalation,
+grlk-6879-8533,Hold,2024-05-20 06:55:21,,Extra Care,Maxwell Haymes,System::Customer Usage Issue::Accessibility,Escalation,KYC::Verification::POA
+cpem-4573-6854,Open,2024-01-09 04:54:42,,Extra Care,Nathan Laboune,Do not select::Customer Input or Error,Takeover,Compliance::Surveillance
+tvcy-7206-9293,Closed,2024-05-15 08:40:25,2024-06-01 03:50:59,Extra Care,Normy Fulop,System::Customer Usage Issue::Accessibility,Handling,Compliance::Fraud::Deactivation
+tzrq-2778-9817,Solved,2024-01-21 14:44:02,2024-01-23 10:06:55,Extra Care,Bertha Lisett,Process::Third Party Dependency::Third Party Error,Takeover,Compliance::AML::Deactivation
+rmrv-5549-0811,Closed,2024-02-05 14:38:25,,Extra Care,Liz Redolfi,System::Automation Issue::Intervention Failure,Escalation,
+eqwi-9488-7649,Closed,2024-03-17 20:25:26,2024-03-26 01:58:35,Extra Care,Kameko Cramond,People::Incorrect Action::Incorrect Escalation,Handling,
+wvta-6969-3163,Hold,2024-02-05 13:07:08,,Extra Care,Suzi Balfre,People::Incorrect Action::Procedural Adherence,Escalation,
+odbp-0367-4266,Closed,2024-04-29 15:00:08,2024-05-21 14:21:34,Extra Care,Josselyn Hurry,People::Incorrect Action::Agent Decision,Escalation,
+aevi-3999-8755,Open,2024-01-12 21:23:16,,Extra Care,Nicolais Semered,People::Customer Engagement::Unreasonable Delay,Takeover,
+ideg-7868-7641,Closed,2024-02-16 23:44:18,2024-02-17 08:32:10,Extra Care,Orelee Casterton,System::Customer Usage Issue::Accessibility,Assessment,
+sjwg-3811-5833,Solved,2024-04-25 05:39:16,,Extra Care,Cirilo Ruf,Process::Internal Process Issue::Gap in Process,Escalation,
+geua-3710-9893,Hold,2024-01-15 18:27:15,,Extra Care,Freddie Hughs,Process::Internal Process Issue::Gap in Process,Takeover,Compliance::Fraud::Check
+zqvm-7662-8115,Closed,2024-04-02 21:50:29,,Extra Care,Katharine Gonning,People::Incorrect Action::Procedural Adherence,Handling,Compliance::AML::Check
+ijne-9537-7157,Open,2024-06-23 11:09:37,,Extra Care,Letti Beresfore,People::Incorrect Action::Incorrect Guidance,Escalation,Money Moving::Wise Card::Account change effect
+zlun-9765-8944,Solved,2024-01-10 16:15:38,2024-01-12 16:51:07,Extra Care,Dot Ricciardiello,People::Incorrect Action::Incorrect Escalation,Escalation,
+xriv-6718-9267,Closed,2024-01-31 12:39:49,2024-02-15 17:03:03,Extra Care,Isidoro Whitcher,People::Incorrect Action::Procedural Adherence,Assessment,KYC::CDD::SOW issue
+zehh-2180-7710,Open,2024-04-12 10:02:55,,Extra Care,Inesita O'Cosgra,System::Automation Issue::Intervention Failure,Handling,KYC::CDD::SOW Deactivation
+wmum-0227-8574,Solved,2024-01-14 00:41:31,2024-02-09 05:58:06,Extra Care,Antin Mattedi,People::Vulnerability::Identification,Handling,
+oesi-8491-3033,Closed,2024-02-26 13:16:20,2024-03-17 04:52:06,Extra Care,Shandy Whorlow,Process::Third Party Dependency::Third Party Error,Takeover,KYC::Verification::Other
+ndyv-8405-6277,Hold,2024-06-13 03:25:51,,Extra Care,Devonne Ritson,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,Compliance::Fraud::Deactivation
+mwal-5647-3566,Open,2024-06-15 11:40:55,,Extra Care,Mommy Tailour,Process::Expectation Gap::Product Gap,Handling,KYC::CDD::SOW Deactivation
+cvmw-3228-9893,Hold,2024-01-08 19:48:47,,Extra Care,Ryan Antonikov,People::Customer Engagement::Unreasonable Delay,Takeover,Money Moving::Transfer
+ckqx-2489-1997,Open,2024-04-07 07:02:15,,Extra Care,Rip Danilin,People::Incorrect Action::Procedural Accuracy,Takeover,Compliance::Fraud::Deactivation
+ledg-5864-4654,Hold,2024-04-23 11:45:29,,Extra Care,Nanete Burmaster,People::Incorrect Action::Procedural Adherence,Assessment,
+nnxn-0856-5584,Open,2024-02-22 05:48:44,,Extra Care,Leola Sexten,People::Vulnerability::Identification,Handling,Compliance::Sanctions::Check
+npku-1514-0597,Open,2024-01-19 08:45:30,,Extra Care,Guillaume Jado,System::Automation Issue::Intervention Failure,Handling,
+whtd-3267-7879,Hold,2024-04-08 16:51:35,,Extra Care,Pattin Borghese,People::Customer Engagement::Unclear Communication,Escalation,
+hlzd-5744-3060,Hold,2024-06-11 06:41:04,,Extra Care,Susan Coddrington,People::Vulnerability::Identification,Assessment,KYC::CDD::SOW Deactivation
+ukdu-5634-2346,Closed,2024-06-13 16:27:33,,Extra Care,Zulema Ferby,System::False Positive Outcome::Incorrect System Intervention,Handling,KYC::POAT
+unke-0169-1498,Solved,2024-04-11 17:04:10,2024-04-27 03:13:25,Extra Care,Wendall Rannald,People::Vulnerability::Appropriate Accommodation,Takeover,
+gzev-1596-6205,Solved,2024-05-07 18:44:31,2024-05-14 12:08:05,Extra Care,Neils Riccione,People::Vulnerability::Appropriate Accommodation,Takeover,Money Moving::Wise Card::Dispute
+zilj-6032-8229,Closed,2024-02-09 04:51:40,2024-02-23 15:26:16,Extra Care,Christie O'Harney,People::Customer Engagement::Tonal Issues,Assessment,KYC::CDD::SOW issue
+vgit-1711-5946,Closed,2024-06-12 04:44:18,2024-06-23 20:47:37,Extra Care,Iver Van den Broek,Process::Internal Process Issue::Unmonitored Channel,Escalation,
+loyy-4253-2694,Solved,2024-02-17 16:19:37,2024-03-02 16:10:27,Extra Care,Catherina Ourry,System::Automation Issue::Tooling Failure,Escalation,
+pzyy-7675-2043,Open,2024-04-12 12:06:09,,Extra Care,Maighdiln Schops,Process::Expectation Gap::Product Gap,Escalation,KYC::CDD::SOW Deactivation
+wtol-0448-1352,Hold,2024-06-28 17:29:50,,Extra Care,Caldwell Guess,People::Incorrect Action::Incomplete Outcome,Handling,
+ypcp-1035-1096,Open,2024-01-15 17:12:11,,Extra Care,Inger Farlham,Knowledge::Outward Facing Information::External Publication Misleading,Assessment,Money Moving::Transfer
+rdau-2493-3684,Solved,2024-02-14 08:05:34,2024-03-05 10:25:36,Extra Care,Loutitia Farnie,People::Incorrect Action::Agent Decision,Escalation,
+idrz-1483-9397,Closed,2024-01-19 03:42:46,2024-02-09 19:52:24,Extra Care,Gunther Petrasch,People::Customer Engagement::Unreasonable Delay,Escalation,Compliance::Sanctions::Check
+yjni-6036-9449,Solved,2024-04-11 03:10:23,2024-04-22 16:31:51,Extra Care,Bertram Tille,People::Vulnerability::Identification,Takeover,KYC::Deactivation
+wxjn-6906-0581,Closed,2024-04-07 05:21:43,2024-04-30 06:55:39,Extra Care,Nikki Goggey,People::Customer Engagement::Tonal Issues,Escalation,
+wfas-0967-5852,Open,2024-04-08 08:43:30,,Extra Care,Franz Brompton,People::Incorrect Action::Incomplete Outcome,Takeover,
+cgak-1918-2588,Solved,2024-05-28 02:01:40,2024-06-23 03:19:06,Extra Care,Angelica Gard,People::Incorrect Action::Agent Decision,Escalation,
+nrty-1877-2982,Closed,2024-03-05 08:39:02,2024-03-06 09:36:16,Extra Care,Ivett Dearth,People::Incorrect Action::Incorrect Guidance,Takeover,
+sait-1214-3989,Open,2024-02-04 02:38:59,,Extra Care,Cecily Nesbit,Knowledge::Outward Facing Information::External Publication Misleading,Handling,
+qqoi-9346-0676,Solved,2024-05-14 08:19:41,2024-05-19 23:57:29,Extra Care,Alessandro Cornier,Process::Internal Process Issue::Unmonitored Channel,Escalation,KYC::CDD::SOW Deactivation
+vwui-4402-0809,Open,2024-05-06 04:09:23,,Extra Care,Ysabel Schwaiger,People::Customer Engagement::Unclear Communication,Assessment,
+vwtd-6252-2496,Open,2024-04-22 05:12:49,,Extra Care,Sheba Bugdale,People::Customer Engagement::Unclear Communication,Handling,
+ajne-1323-0980,Hold,2024-01-19 10:56:19,,Extra Care,Jess Fleischmann,BOD,Assessment,
+skul-9712-1941,Closed,2024-06-26 13:38:52,2024-07-17 08:37:03,Extra Care,Hurleigh Guppy,System::Customer Usage Issue:Technical Issues,Assessment,Compliance::AML::Deactivation
+mvvv-3416-7616,Hold,2024-06-26 16:54:33,,Extra Care,Tamas Brydell,Process::Org Delay::Insufficient Resource,Handling,Compliance::Sanctions::Deactivation
+nonh-3261-2237,Solved,2024-04-30 19:52:53,2024-05-22 05:31:47,Extra Care,Flin McGinnis,People::Customer Engagement::Agent Understanding,Handling,
+ahdc-5717-4919,Closed,2024-02-20 20:12:51,2024-03-18 12:02:48,Extra Care,Gayle Gallier,Knowledge::Knowledge Base::KB Missing,Assessment,KYC::CDD::SOW issue
+poef-9089-5015,Hold,2024-01-14 06:41:04,,Extra Care,Blair Treace,People::Customer Engagement::Agent Understanding,Handling,
+vpui-1872-5786,Open,2024-04-05 20:08:10,,Extra Care,Jaime Waltho,Process::Third Party Dependency::Third Party Access,Takeover,Compliance::Sanctions::Check
+ohwq-2024-1896,Open,2024-06-12 11:08:01,,Extra Care,Morlee Lilleman,Process::Third Party Dependency::Third Party Info Delay,Escalation,Money Moving::Balances
+kfqh-8653-9173,Hold,2024-05-27 07:09:52,,Extra Care,Hynda Volkers,Process::Third Party Dependency::Third Party Error,Escalation,
+bsni-4180-7959,Closed,2024-05-11 17:56:35,2024-06-08 07:43:07,Extra Care,Bryn Verrills,People::Incorrect Action::Incomplete Outcome,Escalation,Compliance::Fraud::Deactivation
+uvjy-2204-0720,Hold,2024-02-23 10:56:55,,Extra Care,Thedrick Langtree,People::Incorrect Action::Procedural Accuracy,Takeover,
+pnpv-7714-2013,Hold,2024-05-22 21:39:27,,Extra Care,Katinka Fountian,People::Vulnerability::Identification,Handling,
+cexm-9710-0349,Hold,2024-01-23 23:03:30,,Extra Care,Walton Cubitt,System::Automation Issue::Tooling Failure,Takeover,
+bqeg-8838-5266,Open,2024-02-14 23:38:40,,Extra Care,Townsend Rikard,Process::Org Delay::Insufficient Resource,Assessment,
+mukc-6297-2709,Solved,2024-01-07 10:09:15,2024-01-14 11:03:20,Extra Care,Emmie Newvill,Do not select::Customer Input or Error,Escalation,KYC::POAT
+hknm-8864-8007,Hold,2024-04-08 12:00:58,,Extra Care,Geralda Antonoyev,Knowledge::Knowledge Base::KB Missing,Handling,Accessibility
+scta-0417-6798,Hold,2024-02-12 16:07:49,,Extra Care,Armand Speariett,Process::Third Party Dependency::Third Party Error,Assessment,
+glya-4232-9732,Open,2024-02-29 22:16:32,,Extra Care,Gregor Dugmore,Process::Internal Process Issue::Gap in Process,Escalation,
+wqmn-0646-2251,Closed,2024-01-02 16:35:11,2024-01-12 16:11:28,Extra Care,Tuesday Gosswell,People::Customer Engagement::Agent Understanding,Handling,
+tkny-6651-1209,Open,2024-04-27 21:40:24,,Extra Care,Miles Barr,People::External Engagement::Third Party Engagement,Takeover,
+zhiv-9700-1152,Hold,2024-05-03 23:30:34,,Extra Care,Uri Fossord,Process::Expectation Gap::Compliance Gap,Assessment,Money Moving::Balances
+znkp-9506-3354,Closed,2024-04-19 11:32:14,,Extra Care,Annecorinne Hugin,People::Incorrect Action::Procedural Adherence,Escalation,Account::Other
+ndjj-2704-5820,Hold,2024-06-05 20:50:21,,Extra Care,Hendrik McKinnell,People::Customer Engagement::Unclear Communication,Takeover,Account::Other
+ghfy-5950-4863,Closed,2024-05-24 02:25:45,2024-05-25 05:48:40,Extra Care,Onfroi Gildersleaves,Process::Expectation Gap::Product Gap,Assessment,Compliance::Fraud::Scam
+arlq-3076-2648,Open,2024-06-08 16:58:38,,Extra Care,Page Jakubczyk,People::External Engagement::Third Party Engagement,Assessment,KYC::CDD::SOW issue
+bara-7654-3319,Hold,2024-01-30 15:50:29,,Extra Care,Seline Maffulli,People::Incorrect Action::Incorrect Escalation,Escalation,
+nwno-2974-6447,Solved,2024-04-26 18:52:29,2024-04-29 21:35:29,Extra Care,Seka Grinval,People::External Engagement::Third Party Engagement,Assessment,Money Moving::Wise Card::Account change effect
+rsrx-5325-7792,Open,2024-04-25 21:41:30,,Extra Care,Adriane Solley,System::False Positive Outcome::Incorrect System Intervention,Handling,KYC::CDD::SOW issue
+elta-0617-4742,Hold,2024-05-18 23:18:45,,Extra Care,Conchita Mardell,Process::Third Party Dependency::Third Party Info Delay,Escalation,Compliance::AML::Check
+envv-1913-0987,Hold,2024-01-09 09:53:46,,Extra Care,Amery Ashwin,System::Customer Usage Issue::Customer Input or Error,Assessment,Accessibility
+kvxr-3775-4201,Closed,2024-05-10 02:08:20,2024-05-25 22:28:06,Extra Care,Karoly Yarmouth,People::Vulnerability::Identification,Escalation,Compliance::Sanctions::Deactivation
+udmr-4629-7495,Closed,2024-04-19 20:00:57,2024-04-30 04:53:16,Extra Care,Adelaide Byllam,System::Automation Issue::Intervention Failure,Escalation,Compliance::Fraud::Deactivation
+ttex-2808-4023,Hold,2024-04-03 12:01:34,,Extra Care,Alina Gerding,System::Automation Issue::Tooling Failure,Takeover,
+tadd-5926-7414,Open,2024-01-15 03:21:36,,Extra Care,Laura Dury,People::Customer Engagement::Unclear Communication,Escalation,Money Moving::Wise Card::Account change effect
+ojkn-9779-3107,Solved,2024-06-16 20:53:03,2024-06-30 07:19:46,Extra Care,Bertrand Sneesby,Do not select::Customer Input or Error,Escalation,
+gfnt-1872-5194,Closed,2024-02-26 23:16:52,2024-03-13 10:58:08,Extra Care,Edita Normanvill,Process::Third Party Dependency::Third Party Error (Partner),Takeover,KYC::Verification::Other
+fdal-6787-6117,Closed,2024-01-19 23:34:35,,Extra Care,Torie Huckin,Process::Internal Process Issue::Unmonitored Channel,Assessment,
+zwvr-1608-3303,Closed,2024-03-14 13:07:53,2024-03-30 04:50:30,Extra Care,Luisa McGonigle,Process::Internal Process Issue::Gap in Process,Escalation,
+hsir-6173-1759,Closed,2024-01-21 17:27:42,2024-02-05 22:46:31,Extra Care,Anne Steptoe,People::Incorrect Action::Agent Decision,Takeover,Compliance::Sanctions::Check
+nlop-6829-6518,Solved,2024-05-13 21:57:35,,Extra Care,Finley Laxe,People::Vulnerability::Appropriate Accommodation,Escalation,ec_root_cause_compliance__fraud
+yhdv-1028-0609,Closed,2024-04-20 03:10:19,,Extra Care,Harbert Junes,People::Vulnerability::Appropriate Accommodation,Escalation,
+ckxr-1505-7749,Closed,2024-04-11 02:50:54,,Extra Care,Derby Cull,People::Incorrect Action::Agent Decision,Takeover,KYC::POAT
+kqas-7784-7786,Solved,2024-05-25 04:06:50,2024-06-10 00:07:36,Extra Care,Raffaello Digle,Process::Internal Process Issue::Unmonitored Channel,Handling,KYC::Deactivation
+rofn-5256-0105,Open,2024-01-26 14:07:05,,Extra Care,Hyacinth Sunderland,System::Customer Usage Issue::Customer Input or Error,Takeover,KYC::Verification::Other
+cwfx-5008-8077,Solved,2024-05-22 05:55:17,2024-06-05 12:46:28,Extra Care,Allissa Neasam,System::Automation Issue::Tooling Failure,Escalation,
+fcef-9429-8969,Closed,2024-06-02 12:51:16,2024-06-03 18:18:47,Extra Care,Susanetta Scholcroft,Do not select::Customer Input or Error,Takeover,Compliance::Surveillance
+ofxr-7048-1365,Solved,2024-02-09 04:01:22,,Extra Care,Phylys Cairns,People::Vulnerability::Appropriate Accommodation,Handling,
+rlah-8531-5912,Open,2024-03-02 19:35:06,,Extra Care,Salvatore Kitteringham,System::False Positive Outcome::Incorrect System Intervention,Assessment,KYC::CDD::SOW issue
+rwaa-6384-5850,Open,2024-04-18 21:11:18,,Extra Care,Lennard Bubbear,People::Customer Engagement::Unreasonable Delay,Escalation,
+wrsd-0478-8213,Open,2024-06-20 19:20:52,,Extra Care,Rudie Tolomelli,Process::Internal Process Issue::Unmonitored Channel,Handling,
+xjcd-3315-9420,Solved,2024-04-13 13:34:50,2024-04-23 11:20:51,Extra Care,Arda Haworth,System::False Positive Outcome::Incorrect System Intervention,Escalation,
+wlyn-4261-9558,Solved,2024-05-13 01:38:46,2024-06-07 08:53:32,Extra Care,Falito Blei,People::Incorrect Action::Incorrect Escalation,Assessment,KYC::CDD::SOW issue
+vhru-0855-8563,Open,2024-03-20 16:35:08,,Extra Care,Theressa Bardey,Do not select::Customer Input or Error,Takeover,
+grbp-2580-1356,Open,2024-02-28 02:01:33,,Extra Care,Ike Dinneges,People::Customer Engagement::Agent Understanding,Escalation,
+dmnj-1105-8954,Hold,2024-05-06 21:02:35,,Extra Care,Ernesta Mathissen,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+lubi-2700-1853,Solved,2024-03-05 23:07:52,,Extra Care,Aldric Usborn,Process::Third Party Dependency::Third Party Info Delay,Takeover,KYC::Verification::Other
+qjal-9954-7470,Open,2024-01-27 09:08:02,,Extra Care,Udell Chasen,People::Incorrect Action::Procedural Accuracy,Handling,KYC::Verification::Missing document
+szce-7752-7634,Solved,2024-03-04 07:06:51,,Extra Care,Crissy Broad,People::Incorrect Action::Agent Decision,Takeover,Money Moving::Transfer
+lquh-4847-9893,Closed,2024-04-22 22:05:30,2024-05-18 04:03:11,Extra Care,Viviyan Baines,Process::Expectation Gap::Product Gap,Takeover,KYC::Verification::Missing document
+ovku-9493-5218,Solved,2024-01-23 14:06:03,2024-02-07 05:48:01,Extra Care,Joshia Heisham,Process::Internal Process Issue::Gap in Process,Takeover,ec_root_cause_compliance__fraud
+ifag-6161-9100,Open,2024-04-21 01:48:52,,Extra Care,Nathanael Dionsetti,Process::Third Party Dependency::Third Party Error (Partner),Takeover,Money Moving::Transfer
+ljje-1098-6822,Solved,2024-01-07 13:33:00,2024-01-21 11:15:24,Extra Care,Duky Treacy,System::Customer Usage Issue:Technical Issues,Escalation,Compliance::Fraud::Scam
+qwrk-2461-8167,Hold,2024-04-09 15:10:50,,Extra Care,Myrvyn Clingan,Process::Expectation Gap::Product Gap,Assessment,KYC::Verification::Other
+vual-1959-6541,Hold,2024-05-22 01:24:33,,Extra Care,Tab Paulou,People::External Engagement::Third Party Engagement,Takeover,Compliance::Sanctions::Deactivation
+skwm-7145-2339,Open,2024-06-27 02:19:23,,Extra Care,Udell Bangham,People::Customer Engagement::Agent Understanding,Assessment,KYC::CDD::SOW issue
+mjpy-0441-4374,Solved,2024-06-06 03:46:09,2024-07-04 07:23:46,Extra Care,Koo Balfre,Process::Internal Process Issue::Gap in Process,Escalation,Compliance::Sanctions::Deactivation
+qhdh-8180-9185,Closed,2024-03-15 11:57:49,,Extra Care,Humfrid Lemoir,Process::Expectation Gap::Speed Gap,Takeover,Money Moving::Wise Card::Card failure
+haxm-6970-7090,Solved,2024-02-22 04:54:50,2024-02-23 01:14:25,Extra Care,Rosalyn Doutch,People::Customer Engagement::Unreasonable Delay,Handling,KYC::Verification::Other
+jezo-9470-5028,Hold,2024-01-18 13:29:15,,Extra Care,Husain Gifford,People::Incorrect Action::Incomplete Outcome,Takeover,Money Moving::Wise Card::Account change effect
+zdxq-1151-0839,Open,2024-02-03 07:52:27,,Extra Care,Falkner Elleton,System::Customer Usage Issue:Technical Issues,Takeover,
+qngy-4367-0075,Closed,2024-04-16 12:13:03,,Extra Care,Herve Kinnoch,People::Customer Engagement::Unreasonable Delay,Assessment,Account::Access and updates
+afbm-8250-8960,Hold,2024-05-13 14:58:40,,Extra Care,Beverley Smeeth,Process::Third Party Dependency::Third Party Info Delay,Handling,
+xqbr-3220-1385,Hold,2024-01-24 10:42:48,,Extra Care,Goober Bennoe,Process::Expectation Gap::Compliance Gap,Takeover,KYC::Verification::Missing document
+gzgk-1021-4147,Hold,2024-02-05 19:53:46,,Extra Care,Shea Retchford,People::Customer Engagement::Tonal Issues,Assessment,
+hogt-7919-7905,Hold,2024-06-22 11:54:36,,Extra Care,Linc Son,Knowledge::Knowledge Base::KB Missing,Handling,
+lmva-4309-6481,Closed,2024-02-01 10:32:08,2024-02-16 21:35:15,Extra Care,Moe Stennings,System::Customer Usage Issue::Customer Input or Error,Takeover,KYC::POAT
+tgob-6403-5544,Open,2024-05-25 19:36:26,,Extra Care,Adriana Ronchetti,People::Incorrect Action::Procedural Accuracy,Takeover,
+ower-9374-9561,Closed,2024-03-14 07:03:48,2024-04-11 13:32:52,Extra Care,Cyrus Provis,Process::Third Party Dependency::Third Party Error (Partner),Handling,Account::Access and updates
+zfxo-9549-7628,Solved,2024-01-07 01:54:21,2024-02-05 08:01:24,Extra Care,Mathe Iceton,Do not select::Customer Input or Error,Handling,Compliance::Sanctions::Check
+grow-3363-3230,Closed,2024-02-19 17:01:05,2024-03-17 16:28:37,Extra Care,Jillayne Mallabar,Process::Third Party Dependency::Third Party Info Delay,Takeover,Compliance::Fraud::Scam
+roao-7113-7514,Closed,2024-05-27 20:50:45,2024-05-28 11:44:00,Extra Care,Dana Tschierasche,Process::Org Delay::Insufficient Resource,Takeover,Compliance::Sanctions::Deactivation
+lkix-7158-9941,Solved,2024-04-13 03:42:56,,Extra Care,Cybil Goodwyn,System::False Positive Outcome::Incorrect System Intervention,Assessment,
+abvj-5159-7581,Open,2024-01-08 03:04:04,,Extra Care,Bart Pert,People::External Engagement::Third Party Engagement,Takeover,
+rmbh-1131-9484,Closed,2024-01-05 12:27:54,,Extra Care,Gasparo Lawlings,Process::Third Party Dependency::Third Party Error (Partner),Handling,
+sgat-7922-6147,Closed,2024-04-13 00:34:27,2024-04-26 05:33:45,Extra Care,Agustin Lowde,People::Incorrect Action::Procedural Accuracy,Escalation,
+mlgd-0627-4595,Open,2024-04-12 18:37:00,,Extra Care,Abrahan Piccard,System::Customer Usage Issue::Accessibility,Assessment,KYC::Verification::Missing document
+lbyc-4631-5269,Solved,2024-05-05 09:41:27,,Extra Care,Bathsheba Bagenal,System::Customer Usage Issue::Accessibility,Escalation,
+zsvz-6658-5127,Open,2024-01-31 14:23:18,,Extra Care,Onida Pringuer,Process::Expectation Gap::Product Gap,Assessment,
+gzuf-0246-3496,Closed,2024-02-21 12:23:55,,Extra Care,Maurine Olive,Do not select::Customer Input or Error,Takeover,KYC::Verification::IDWL
+eavt-3430-9027,Closed,2024-05-31 12:16:39,2024-06-18 06:10:44,Extra Care,Leoine Hathwood,People::Customer Engagement::Agent Understanding,Handling,
+eumz-1744-5546,Open,2024-05-05 02:27:50,,Extra Care,Corbie Sneddon,Process::Third Party Dependency::Third Party Access,Handling,
+htwo-8298-3308,Open,2024-03-13 11:33:51,,Extra Care,Flin Betteney,People::Incorrect Action::Incomplete Outcome,Takeover,
+ltlx-4430-8458,Solved,2024-04-19 16:22:14,,Extra Care,Helenelizabeth Epps,People::Incorrect Action::Agent Decision,Escalation,KYC::CDD::SOW issue
+fptm-6072-1889,Open,2024-06-24 19:15:51,,Extra Care,Marsiella Grout,BOD,Escalation,
+siko-8187-2604,Solved,2024-03-01 11:20:44,2024-03-27 15:04:04,Extra Care,Vernor Haxbie,People::Customer Engagement::Agent Understanding,Handling,KYC::Verification::Other
+zhxp-3302-3510,Open,2024-01-05 09:01:49,,Extra Care,Garry Rawcliffe,System::Information Limitation::Information Unclear,Takeover,ec_root_cause_compliance__fraud
+xbcd-9186-8463,Hold,2024-03-28 02:32:53,,Extra Care,Anthea Kohler,BOD,Assessment,Account::Other
+pzio-9550-3728,Hold,2024-01-10 02:47:37,,Extra Care,Shem Masterson,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,Account::Access and updates
+wtrf-7013-4504,Solved,2024-06-21 21:06:30,2024-07-17 00:47:54,Extra Care,Dav Luckes,Process::Org Delay::Insufficient Resource,Takeover,
+rxwd-7127-9088,Hold,2024-03-12 13:51:51,,Extra Care,Allard Gammack,Process::Third Party Dependency::Third Party Error,Escalation,Accessibility
+fbjk-5551-0745,Solved,2024-04-22 17:26:12,2024-05-06 04:10:24,Extra Care,Rosemarie Chapell,People::Incorrect Action::Procedural Adherence,Assessment,
+sloq-1192-3229,Open,2024-06-21 09:30:22,,Extra Care,Rebe Rouge,Process::Org Delay::Insufficient Resource,Handling,
+ftvc-4803-7085,Open,2024-03-10 10:58:58,,Extra Care,Anita North,People::Customer Engagement::Agent Understanding,Assessment,
+ykge-7633-3752,Solved,2024-04-16 14:23:22,,Extra Care,Homerus Marczyk,People::Vulnerability::Identification,Handling,ec_root_cause_compliance__fraud
+oips-6236-6748,Open,2024-03-21 02:24:45,,Extra Care,Bartie Branche,System::Information Limitation::Information Unclear,Handling,Money Moving::Wise Card::Card failure
+smch-8106-2121,Closed,2024-05-27 07:57:12,2024-06-14 01:40:22,Extra Care,Randal Sayles,Process::Third Party Dependency::Third Party Error (Partner),Escalation,
+luzx-7748-4132,Open,2024-01-31 19:09:39,,Extra Care,Mohandis Astbury,System::Information Limitation::Information Unclear,Takeover,Money Moving::Wise Card::Card failure
+heyj-4510-0268,Hold,2024-03-29 16:54:53,,Extra Care,Casie McGeever,System::False Positive Outcome::Incorrect System Intervention,Takeover,KYC::POAT
+nrmf-7493-3206,Hold,2024-04-21 11:48:24,,Extra Care,Dewitt Flaubert,People::Incorrect Action::Procedural Adherence,Takeover,Money Moving::Wise Card::Dispute
+drjt-4770-6789,Solved,2024-01-27 06:25:04,2024-02-03 16:06:22,Extra Care,Nichole Alexsandrev,People::Customer Engagement::Tonal Issues,Escalation,
+bpks-5240-8446,Hold,2024-03-18 23:53:07,,Extra Care,Nilson Jauncey,Process::Internal Process Issue::Unmonitored Channel,Takeover,
+mfii-2345-1918,Solved,2024-01-10 14:33:15,2024-01-12 07:40:07,Extra Care,Corilla Pittel,System::Automation Issue::Intervention Failure,Takeover,
+ivzi-3057-5507,Closed,2024-04-02 10:36:33,,Extra Care,Gery Fassbender,BOD,Takeover,
+ahea-5425-7349,Hold,2024-03-04 01:28:17,,Extra Care,Jessa Blunsden,Process::Internal Process Issue::Unmonitored Channel,Escalation,
+hbjy-5242-1581,Solved,2024-02-10 00:03:26,2024-03-01 07:49:36,Extra Care,Susan Gateman,System::Information Limitation::Information Unclear,Takeover,Compliance::AML::Check
+jrwx-0286-7657,Hold,2024-01-02 15:38:26,,Extra Care,Heywood Lemm,Process::Third Party Dependency::Third Party Access,Takeover,KYC::CDD::SOW issue
+mkok-0042-3187,Hold,2024-05-22 09:04:04,,Extra Care,Jenn Shegog,System::Automation Issue::Tooling Failure,Escalation,
+pdfp-3645-4242,Solved,2024-05-18 16:02:10,2024-05-19 09:46:25,Extra Care,Ingunna Langlois,Do not select::Customer Input or Error,Escalation,
+czxu-0333-9575,Closed,2024-04-14 16:57:18,2024-05-08 15:37:15,Extra Care,Estrellita Croyser,People::Incorrect Action::Incorrect Escalation,Takeover,KYC::Other
+lmfu-4159-9196,Closed,2024-06-18 15:54:39,2024-07-14 12:32:17,Extra Care,Annmaria Waddingham,Process::Third Party Dependency::Third Party Error (Partner),Assessment,Money Moving::Wise Card::Account change effect
+bfev-6642-7553,Solved,2024-05-03 20:57:34,2024-05-13 21:09:36,Extra Care,Lorraine Ambrosi,Process::Internal Process Issue::Gap in Process,Takeover,Money Moving::Wise Card::Dispute
+nxwz-5910-8402,Hold,2024-04-25 23:56:12,,Extra Care,Robenia Rearden,Process::Internal Process Issue::Gap in Process,Handling,KYC::Verification::IDWL
+ihxd-6352-1090,Closed,2024-01-26 14:33:10,2024-01-27 00:31:38,Extra Care,Adrian Sheirlaw,System::False Positive Outcome::Incorrect System Intervention,Escalation,Money Moving::Balances
+fzrg-4576-4800,Hold,2024-04-23 23:35:34,,Extra Care,Kial Woodison,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,Accessibility
+kwrs-2842-2317,Solved,2024-01-27 21:53:43,,Extra Care,Ludovico Gerhartz,Knowledge::Knowledge Base::KB Missing,Takeover,KYC::POAT
+uqfz-8774-2101,Closed,2024-04-25 06:54:47,2024-05-15 10:43:57,Extra Care,Kriste Macauley,Process::Internal Process Issue::Unmonitored Channel,Assessment,
+scoh-5642-5757,Hold,2024-01-13 16:03:58,,Extra Care,Cherilynn Heinzler,Process::Third Party Dependency::Third Party Info Delay,Escalation,
+kptv-8706-2427,Hold,2024-06-09 00:36:07,,Extra Care,Anatol Bogeys,System::Automation Issue::Tooling Failure,Assessment,
+fzfi-6368-3951,Closed,2024-05-25 20:39:45,,Extra Care,Erika Cowern,Process::Third Party Dependency::Third Party Error (Partner),Handling,
+mfhv-3597-1765,Open,2024-03-20 03:22:15,,Extra Care,Sharline Dingsdale,BOD,Escalation,
+jmbh-0284-4000,Solved,2024-06-16 08:47:21,,Extra Care,Luciana Rushmer,Knowledge::Outward Facing Information::External Publication Misleading,Assessment,
+rbth-5903-9270,Hold,2024-04-28 04:32:19,,Extra Care,Johny Studd,People::Incorrect Action::Procedural Accuracy,Handling,
+jkai-3063-5206,Closed,2024-05-19 20:20:11,2024-06-11 01:41:13,Extra Care,Joann Thripp,People::Incorrect Action::Incorrect Guidance,Handling,
+sjwp-0489-0471,Open,2024-02-21 01:50:50,,Extra Care,Colline Lippo,System::Automation Issue::Tooling Failure,Takeover,Compliance::AML::Deactivation
+dfyw-4623-5319,Solved,2024-02-13 23:56:07,2024-03-13 15:35:59,Extra Care,Gery Ferentz,Do not select::Customer Input or Error,Takeover,
+mcji-0319-3561,Hold,2024-02-22 18:13:41,,Extra Care,Cob Birk,System::Customer Usage Issue::Customer Input or Error,Escalation,KYC::Deactivation
+crks-3729-2224,Solved,2024-04-27 15:51:37,2024-05-01 02:43:14,Extra Care,Rosabel Klainman,System::Customer Usage Issue:Technical Issues,Assessment,
+pnje-8919-8583,Open,2024-01-16 20:26:08,,Extra Care,Gabey Casserley,Process::Third Party Dependency::Third Party Info Delay,Takeover,
+rhrp-2707-2333,Open,2024-05-22 09:46:47,,Extra Care,Charo Gaythor,Process::Third Party Dependency::Third Party Error,Assessment,
+rdvj-6941-2292,Hold,2024-06-13 16:42:38,,Extra Care,Enrique Mandy,People::Incorrect Action::Procedural Adherence,Assessment,
+sayo-7834-2859,Hold,2024-02-27 04:52:54,,Extra Care,Alessandra Dowe,People::External Engagement::Third Party Engagement,Handling,Account::Access and updates
+qezc-5795-4672,Open,2024-05-31 20:19:19,,Extra Care,Amandi Stiffkins,Process::Internal Process Issue::Unmonitored Channel,Escalation,
+voon-3635-1573,Open,2024-03-22 09:43:12,,Extra Care,Barty Crucitti,Process::Expectation Gap::Compliance Gap,Escalation,Money Moving::Wise Card::Dispute
+wcza-5753-4635,Closed,2024-04-04 17:40:57,2024-04-19 09:16:51,Extra Care,Loutitia Ferris,Process::Expectation Gap::Speed Gap,Takeover,KYC::CDD::SOW Deactivation
+uogl-5106-0263,Closed,2024-06-08 06:46:55,2024-07-04 20:06:58,Extra Care,Ruddie Pelling,People::Customer Engagement::Unreasonable Delay,Assessment,KYC::Other
+rrkp-5174-1657,Solved,2024-04-18 21:17:02,2024-05-11 20:45:36,Extra Care,Ole Gooms,Do not select::Customer Input or Error,Takeover,Compliance::AML::Check
+fnwc-2479-1684,Open,2024-01-03 01:08:26,,Extra Care,Linoel Stapleford,Process::Expectation Gap::Speed Gap,Escalation,
+liil-5537-0893,Closed,2024-02-01 10:55:27,2024-03-02 11:05:06,Extra Care,Denys Dicky,People::Customer Engagement::Unclear Communication,Assessment,Compliance::AML::Check
+yucr-1012-5242,Open,2024-05-23 13:55:46,,Extra Care,Francklin Kettow,People::Vulnerability::Appropriate Accommodation,Handling,KYC::Deactivation
+qbji-3974-1989,Hold,2024-03-30 13:03:31,,Extra Care,Marieann Wearing,People::Incorrect Action::Incomplete Outcome,Handling,KYC::Verification::Missing document
+gpds-3348-1458,Hold,2024-05-14 04:36:08,,Extra Care,Conrado McAtamney,Process::Org Delay::Insufficient Resource,Escalation,
+aejq-1439-1292,Solved,2024-04-25 11:05:08,,Extra Care,Guilbert Lawrance,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,KYC::Verification::Other
+cqla-5721-0941,Solved,2024-02-26 02:17:35,2024-02-27 13:37:10,Extra Care,Barbe Ellett,People::Incorrect Action::Agent Decision,Assessment,
+zzvj-5534-7371,Open,2024-05-20 20:45:25,,Extra Care,Rania Osgar,People::Incorrect Action::Procedural Adherence,Escalation,KYC::Verification::IDWL
+lhjo-6157-2491,Open,2024-03-26 06:14:31,,Extra Care,Lonnard Kerman,Process::Third Party Dependency::Third Party Access,Assessment,Compliance::AML::Check
+mfxl-5042-2253,Solved,2024-02-07 15:55:17,2024-02-10 17:21:44,Extra Care,Eben Bunting,System::Customer Usage Issue:Technical Issues,Takeover,Compliance::Fraud::Check
+bvdt-2687-6172,Hold,2024-06-13 02:59:00,,Extra Care,Melessa Demko,People::Incorrect Action::Incorrect Guidance,Handling,
+rwpu-3465-8865,Solved,2024-06-05 19:54:26,2024-06-26 17:06:42,Extra Care,Horatius Florez,Process::Internal Process Issue::Gap in Process,Handling,Accessibility
+dmgm-0985-1064,Closed,2024-05-04 19:56:50,2024-05-07 10:08:38,Extra Care,Ronnie Adamek,System::Customer Usage Issue:Technical Issues,Handling,Account::Access and updates
+mcrr-3586-4609,Open,2024-02-10 08:11:59,,Extra Care,Kippie Pettet,People::Vulnerability::Appropriate Accommodation,Assessment,
+ozkn-3497-3948,Hold,2024-04-20 01:31:00,,Extra Care,Uriah Brosius,People::Vulnerability::Identification,Assessment,KYC::POAT
+obts-3304-3037,Solved,2024-04-27 23:35:33,,Extra Care,Tova Sukbhans,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,Money Moving::Wise Card::Account change effect
+lvql-2173-6813,Closed,2024-02-09 13:11:12,2024-03-10 22:30:56,Extra Care,Arch Birnie,Process::Third Party Dependency::Third Party Error (Partner),Escalation,KYC::CDD::SOW Deactivation
+jive-9684-8614,Hold,2024-03-30 23:41:33,,Extra Care,Michelle Fake,Process::Third Party Dependency::Third Party Access,Assessment,KYC::CDD::SOW Deactivation
+cwbm-3255-9997,Solved,2024-06-09 05:37:40,2024-07-07 00:32:43,Extra Care,Miguela Eliff,Do not select::Customer Input or Error,Escalation,
+eyxk-1408-3692,Solved,2024-05-02 03:18:24,2024-05-27 19:01:19,Extra Care,Claudine Bankes,Process::Third Party Dependency::Third Party Info Delay,Takeover,
+xoqq-1186-5147,Solved,2024-01-03 10:04:58,2024-01-22 11:47:16,Extra Care,Callida Comberbeach,Process::Third Party Dependency::Third Party Access,Takeover,Account::Access and updates
+alxr-8816-4400,Hold,2024-04-04 18:48:45,,Extra Care,Hoebart McCree,System::Customer Usage Issue::Accessibility,Handling,KYC::Deactivation
+juay-4835-0259,Hold,2024-05-05 02:17:29,,Extra Care,Collen Daniellot,Process::Third Party Dependency::Third Party Access,Assessment,Money Moving::Wise Card::Dispute
+uefu-1707-0330,Open,2024-04-26 03:52:05,,Extra Care,Bathsheba Westall,People::Incorrect Action::Incomplete Outcome,Takeover,Compliance::Sanctions::Deactivation
+ymoo-5594-3455,Hold,2024-05-04 16:28:37,,Extra Care,Fayette Shee,BOD,Assessment,
+zaew-8664-3068,Solved,2024-05-11 17:46:12,2024-06-08 05:43:30,Extra Care,Erv Wannan,System::False Positive Outcome::Incorrect System Intervention,Assessment,Compliance::Surveillance
+cfzk-2949-9308,Closed,2024-05-25 11:45:28,2024-06-06 19:49:07,Extra Care,Addia Doppler,People::Vulnerability::Appropriate Accommodation,Assessment,Account::Access and updates
+viez-4857-8602,Hold,2024-03-05 16:56:06,,Extra Care,Ambur Wolstenholme,People::Incorrect Action::Procedural Adherence,Escalation,
+hvkk-8079-1821,Hold,2024-02-20 15:42:55,,Extra Care,Mandy Sisnett,People::Incorrect Action::Incomplete Outcome,Assessment,Money Moving::Wise Card::Dispute
+ctvi-8239-8765,Closed,2024-06-22 07:34:32,2024-06-25 05:05:57,Extra Care,Romonda Adnams,Do not select::Customer Input or Error,Assessment,KYC::Deactivation
+lcvg-7381-0702,Open,2024-02-21 08:40:18,,Extra Care,Cordi Joannic,Do not select::Customer Input or Error,Assessment,
+zbku-5879-9598,Hold,2024-02-07 03:11:57,,Extra Care,Dona Tyson,System::False Positive Outcome::Incorrect System Intervention,Assessment,
+mxgi-5288-7230,Open,2024-03-06 07:20:48,,Extra Care,Worthy Arunowicz,Knowledge::Outward Facing Information::External Publication Misleading,Handling,Money Moving::Wise Card::Dispute
+vubw-1279-3907,Open,2024-06-19 19:00:14,,Extra Care,Hadrian McMearty,Process::Internal Process Issue::Unmonitored Channel,Escalation,
+kvqd-9659-7278,Open,2024-04-07 06:26:01,,Extra Care,Elianora Kiendl,Process::Third Party Dependency::Third Party Info Delay,Assessment,
+shpv-9338-4821,Solved,2024-04-03 04:28:43,2024-04-07 00:14:52,Extra Care,Lauraine Lepope,System::Customer Usage Issue:Technical Issues,Takeover,KYC::Other
+jshl-0819-8270,Closed,2024-05-02 15:26:38,2024-05-22 10:35:11,Extra Care,Haskel Spikeings,People::Incorrect Action::Agent Decision,Handling,
+splh-1470-5733,Solved,2024-01-12 13:34:34,,Extra Care,Madalena Doale,Process::Third Party Dependency::Third Party Info Delay,Escalation,ec_root_cause_compliance__fraud
+xncx-3634-7449,Closed,2024-05-27 05:28:28,2024-06-19 23:18:33,Extra Care,Janaya Tomaszczyk,Process::Expectation Gap::Product Gap,Assessment,
+dbsm-9437-8362,Open,2024-06-25 04:31:04,,Extra Care,Pet Dioniso,System::Customer Usage Issue:Technical Issues,Handling,
+vcsl-5827-4893,Solved,2024-04-01 08:30:55,2024-04-23 15:56:19,Extra Care,Bentlee Drinnan,Process::Expectation Gap::Product Gap,Escalation,Money Moving::Balances
+xwbe-4122-7168,Closed,2024-06-25 17:26:42,2024-07-23 20:04:53,Extra Care,Elyn Soltan,Process::Third Party Dependency::Third Party Error,Takeover,KYC::Deactivation
+saah-7133-8888,Closed,2024-05-10 07:38:14,2024-05-29 00:09:09,Extra Care,Grethel Colliard,People::Customer Engagement::Unreasonable Delay,Handling,Compliance::Fraud::Scam
+vtxu-6500-5181,Hold,2024-03-26 14:54:46,,Extra Care,Mil Branwhite,People::Vulnerability::Identification,Takeover,Accessibility
+wyzo-9063-0109,Closed,2024-06-06 11:22:34,2024-07-04 00:05:17,Extra Care,Julienne Mawditt,People::Incorrect Action::Incomplete Outcome,Escalation,
+gkha-2095-2182,Open,2024-06-27 15:19:31,,Extra Care,Idell McGruar,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,KYC::CDD::SOW Deactivation
+gwgc-3670-7555,Solved,2024-02-19 16:49:42,2024-02-22 20:58:41,Extra Care,Ileana Speachley,Knowledge::Knowledge Base::KB Missing,Escalation,
+lhhs-7290-2126,Open,2024-06-16 13:42:27,,Extra Care,Lilith Brechin,People::Customer Engagement::Unreasonable Delay,Escalation,
+acma-7547-3357,Closed,2024-05-13 04:19:38,,Extra Care,Jeanne Josephy,Process::Expectation Gap::Speed Gap,Escalation,
+vsnh-8447-3498,Solved,2024-01-02 16:34:06,2024-01-03 17:56:24,Extra Care,Elliott Oxe,People::Incorrect Action::Incorrect Guidance,Handling,Compliance::AML::Check
+zzlj-7133-7747,Closed,2024-02-11 07:41:35,2024-02-15 14:24:56,Extra Care,Anny Blinman,System::Customer Usage Issue:Technical Issues,Assessment,
+hibo-3529-8293,Closed,2024-04-11 21:43:49,2024-05-01 03:53:49,Extra Care,Jodie Sneesby,Process::Internal Process Issue::Gap in Process,Assessment,KYC::CDD::SOW Deactivation
+uzbu-5218-7436,Solved,2024-02-28 21:14:52,,Extra Care,Rouvin Smullen,System::Customer Usage Issue::Customer Input or Error,Assessment,Money Moving::Wise Card::Account change effect
+xjqv-6431-6355,Solved,2024-02-12 20:50:27,,Extra Care,Giorgia Macak,System::Customer Usage Issue::Accessibility,Escalation,
+oygl-6179-9876,Solved,2024-04-22 23:25:52,2024-04-30 20:58:10,Extra Care,Noelani Elles,Process::Org Delay::Insufficient Resource,Assessment,
+nxjp-2782-4839,Solved,2024-05-17 08:13:40,2024-05-30 17:48:47,Extra Care,Christina Lumpkin,Knowledge::Knowledge Base::KB Missing,Takeover,
+wyhc-7982-1433,Open,2024-01-26 00:38:25,,Extra Care,Tracy Woodwin,System::Automation Issue::Tooling Failure,Escalation,Compliance::Fraud::Check
+ywlz-8330-8608,Solved,2024-02-25 11:50:24,2024-03-18 14:15:19,Extra Care,Lowell Adam,System::Customer Usage Issue::Customer Input or Error,Handling,Money Moving::Wise Card::Card failure
+lgmd-1757-5350,Solved,2024-02-26 02:00:34,2024-03-20 18:08:28,Extra Care,Kassi Holehouse,System::Automation Issue::Tooling Failure,Assessment,
+fmpk-5747-1476,Hold,2024-04-18 04:33:26,,Extra Care,Jenifer Tomanek,Process::Expectation Gap::Product Gap,Assessment,KYC::Verification::IDWL
+csqf-5040-6573,Closed,2024-02-29 15:23:12,2024-03-26 23:25:58,Extra Care,Sibylla Moss,System::False Positive Outcome::Incorrect System Intervention,Takeover,KYC::Verification::Missing document
+cvef-4298-2332,Closed,2024-06-06 09:03:55,2024-07-06 01:20:41,Extra Care,Ian Follet,Process::Internal Process Issue::Gap in Process,Escalation,Money Moving::Wise Card::Account change effect
+pajw-5071-1464,Closed,2024-04-02 14:09:50,2024-04-30 04:38:43,Extra Care,Danny Glasheen,System::Customer Usage Issue:Technical Issues,Handling,KYC::Verification::IDWL
+pkpz-9354-0769,Solved,2024-06-01 22:41:44,2024-06-30 00:21:33,Extra Care,Auroora Hrinchenko,System::Automation Issue::Tooling Failure,Escalation,
+egpi-6436-7347,Solved,2024-06-29 07:34:27,,Extra Care,Minor Graveney,Process::Third Party Dependency::Third Party Error,Handling,Compliance::AML::Check
+lnft-8216-0492,Open,2024-01-27 16:09:32,,Extra Care,Debra Pepler,People::Customer Engagement::Unclear Communication,Escalation,
+nbbd-2268-4671,Hold,2024-06-16 08:09:17,,Extra Care,Melesa Shakespear,People::Incorrect Action::Procedural Adherence,Handling,Compliance::Sanctions::Check
+jpxu-6608-3075,Closed,2024-02-28 23:29:54,,Extra Care,Jemmy Piche,People::Incorrect Action::Incorrect Escalation,Handling,Compliance::Sanctions::Deactivation
+bzwo-6829-5262,Closed,2024-01-02 15:50:40,2024-01-24 12:05:44,Extra Care,Dana Dugmore,People::Incorrect Action::Procedural Accuracy,Assessment,
+zedn-2048-2533,Solved,2024-06-24 18:47:19,2024-06-30 13:13:15,Extra Care,Angelina Pawling,Process::Org Delay::Insufficient Resource,Assessment,
+qrvk-1913-7893,Solved,2024-01-26 16:34:57,2024-02-18 22:09:52,Extra Care,Chelsie Batcheldor,Process::Expectation Gap::Product Gap,Assessment,Money Moving::Transfer
+gfom-5041-9517,Hold,2024-04-26 08:22:45,,Extra Care,Timotheus Gartin,Process::Third Party Dependency::Third Party Info Delay,Handling,Accessibility
+wsub-9110-1011,Hold,2024-03-27 10:53:40,,Extra Care,Tedd Iacopetti,System::Automation Issue::Intervention Failure,Takeover,Money Moving::Transfer
+iauz-8834-5393,Solved,2024-05-13 16:43:47,2024-06-09 20:19:38,Extra Care,Chantal Huban,Do not select::Customer Input or Error,Assessment,
+hijq-3825-8359,Solved,2024-06-23 13:27:53,2024-07-09 23:45:40,Extra Care,Ruprecht Denisot,People::Incorrect Action::Procedural Accuracy,Escalation,
+lmjf-5793-3253,Solved,2024-05-03 11:25:11,2024-05-31 17:36:03,Extra Care,Anya Drever,Process::Expectation Gap::Compliance Gap,Handling,Compliance::Sanctions::Deactivation
+pfwz-8852-0757,Solved,2024-05-30 21:16:58,2024-06-28 17:50:19,Extra Care,Hanni Pimlock,People::Customer Engagement::Unclear Communication,Escalation,KYC::POAT
+bwap-2642-3854,Hold,2024-03-20 12:51:56,,Extra Care,Vladimir Stoneman,Process::Internal Process Issue::Unmonitored Channel,Handling,
+mslz-2695-6952,Open,2024-01-06 07:02:23,,Extra Care,Juan Woolvett,BOD,Handling,KYC::Verification::Other
+zgoy-3018-5729,Open,2024-05-18 09:35:27,,Extra Care,Miller Franchi,People::Vulnerability::Identification,Escalation,KYC::Verification::IDWL
+jffw-9134-5350,Solved,2024-01-06 18:00:00,,Extra Care,Kamila Palfreman,Process::Third Party Dependency::Third Party Info Delay,Handling,Compliance::Fraud::Check
+jpdm-1362-9207,Solved,2024-01-14 10:59:40,2024-01-30 18:11:30,Extra Care,Alanna Zanioletti,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+khaa-8276-8746,Closed,2024-05-06 18:35:48,2024-05-07 17:47:46,Extra Care,Daisy Beuscher,System::Automation Issue::Tooling Failure,Assessment,KYC::Verification::IDWL
+oogv-7241-6227,Hold,2024-06-18 06:20:41,,Extra Care,Berke Robbs,People::External Engagement::Third Party Engagement,Handling,Account::Other
+mkna-5545-3878,Open,2024-04-22 00:22:31,,Extra Care,Matilde Habbijam,People::Customer Engagement::Unreasonable Delay,Takeover,Compliance::Fraud::Scam
+qyns-7460-1700,Hold,2024-01-08 02:50:38,,Extra Care,Kamilah Grizard,People::Incorrect Action::Agent Decision,Assessment,
+ysiv-2783-1237,Closed,2024-04-22 03:06:38,,Extra Care,Adan Damp,Knowledge::Knowledge Base::KB Missing,Handling,Account::Other
+rjgs-3818-8509,Hold,2024-04-22 01:00:42,,Extra Care,Celeste Kinneally,People::Incorrect Action::Incomplete Outcome,Assessment,
+aoow-4439-2871,Hold,2024-06-12 10:47:01,,Extra Care,Nesta Leppington,System::Customer Usage Issue::Customer Input or Error,Escalation,
+kzcf-5581-5778,Hold,2024-04-23 00:49:11,,Extra Care,Ailina Antonucci,System::Customer Usage Issue:Technical Issues,Escalation,Compliance::Sanctions::Check
+gufm-6308-3616,Closed,2024-01-18 04:51:12,2024-02-12 11:18:00,Extra Care,Elianore Peiser,Process::Expectation Gap::Speed Gap,Takeover,KYC::Verification::Missing document
+dgiu-5126-9709,Closed,2024-01-14 15:31:35,2024-02-11 05:24:42,Extra Care,Doralynn O' Mulderrig,People::Incorrect Action::Incorrect Escalation,Handling,
+qlcy-2402-6540,Hold,2024-02-05 17:30:52,,Extra Care,Gerald Monroe,Knowledge::Knowledge Base::KB Missing,Escalation,
+zurn-5741-1956,Closed,2024-06-06 18:51:47,2024-07-06 21:27:06,Extra Care,Leroi Harms,Process::Third Party Dependency::Third Party Error (Partner),Takeover,KYC::Verification::POA
+xzvz-3412-1668,Open,2024-05-04 23:17:08,,Extra Care,Marchall Dassindale,Knowledge::Knowledge Base::KB Missing,Takeover,KYC::Verification::Missing document
+eafq-6213-7606,Open,2024-05-10 10:13:09,,Extra Care,Lynea Synke,People::Customer Engagement::Tonal Issues,Assessment,
+xbro-9034-5073,Open,2024-06-01 04:38:29,,Extra Care,Walt Carbin,People::Vulnerability::Appropriate Accommodation,Takeover,KYC::CDD::SOW issue
+xrrs-4313-2470,Hold,2024-01-29 05:37:07,,Extra Care,Natala Gerhts,People::Vulnerability::Appropriate Accommodation,Escalation,KYC::Other
+rduj-5151-3543,Solved,2024-01-16 20:43:46,,Extra Care,Leland Race,People::Incorrect Action::Incorrect Guidance,Handling,Compliance::Fraud::Scam
+ajoa-2462-3005,Closed,2024-03-31 03:34:16,2024-04-18 19:54:28,Extra Care,Gail Giacobillo,People::Incorrect Action::Incorrect Escalation,Assessment,
+eubc-3241-6995,Open,2024-05-24 01:05:36,,Extra Care,Mollie Newnham,System::Customer Usage Issue::Accessibility,Escalation,Compliance::Fraud::ATO
+eanb-7356-7982,Solved,2024-02-11 10:50:42,2024-03-10 11:11:27,Extra Care,Chrystel Preskett,People::Customer Engagement::Tonal Issues,Assessment,Compliance::Surveillance
+zmod-2611-5130,Hold,2024-04-11 22:51:44,,Extra Care,Philly Hampshire,People::Customer Engagement::Tonal Issues,Escalation,Compliance::Surveillance
+ldit-3329-1972,Hold,2024-03-06 17:20:31,,Extra Care,Blane Woof,People::Incorrect Action::Procedural Accuracy,Assessment,
+hynw-0911-3585,Open,2024-06-14 07:13:14,,Extra Care,Tiebout Stubbings,Process::Internal Process Issue::Unmonitored Channel,Handling,Compliance::Sanctions::Check
+vlnv-7052-3321,Hold,2024-01-08 02:51:33,,Extra Care,Datha Eaves,Do not select::Customer Input or Error,Assessment,Compliance::AML::Deactivation
+uhdp-0447-6487,Solved,2024-05-21 15:35:35,2024-06-18 01:31:08,Extra Care,Prince Fahy,System::Customer Usage Issue::Accessibility,Assessment,Accessibility
+rsck-3367-8619,Solved,2024-01-02 12:57:07,2024-01-12 11:19:39,Extra Care,Rici Kenright,People::Incorrect Action::Procedural Accuracy,Handling,KYC::Verification::IDWL
+jcwm-9423-3596,Open,2024-06-26 22:58:10,,Extra Care,Dorey Leydon,People::Incorrect Action::Procedural Accuracy,Takeover,Account::Other
+kcfh-4211-9595,Hold,2024-04-09 18:15:31,,Extra Care,Sallyann Jandourek,Process::Expectation Gap::Compliance Gap,Assessment,KYC::Deactivation
+hvli-7088-7472,Solved,2024-01-17 05:23:41,,Extra Care,Hermie Gorhardt,System::Information Limitation::Information Unclear,Takeover,
+rcsc-8397-6879,Open,2024-03-20 18:17:39,,Extra Care,Rodrique Benet,People::External Engagement::Third Party Engagement,Escalation,Money Moving::Wise Card::Dispute
+kure-4754-4860,Hold,2024-01-30 21:17:42,,Extra Care,Thorvald Scarratt,Process::Expectation Gap::Speed Gap,Escalation,
+phsp-0281-6580,Open,2024-01-05 21:22:25,,Extra Care,Arri Evangelinos,Process::Expectation Gap::Product Gap,Takeover,Compliance::Fraud::Check
+hhpl-5876-9132,Solved,2024-05-04 22:18:07,2024-05-26 02:37:10,Extra Care,Alick Baison,Process::Expectation Gap::Speed Gap,Escalation,Compliance::Sanctions::Check
+hdpp-5081-0695,Hold,2024-02-09 21:39:46,,Extra Care,Tommi Clempton,Process::Internal Process Issue::Gap in Process,Assessment,Money Moving::Transfer
+nzer-9460-6666,Solved,2024-02-01 00:10:07,2024-02-20 10:59:17,Extra Care,Padgett Streetley,Do not select::Customer Input or Error,Handling,
+boft-5950-8712,Hold,2024-04-09 20:44:50,,Extra Care,Arly Balasini,People::Vulnerability::Appropriate Accommodation,Escalation,
+gytm-3503-0257,Closed,2024-03-05 11:08:30,,Extra Care,Sallie Lohoar,Process::Third Party Dependency::Third Party Info Delay,Assessment,
+ortu-5063-8232,Closed,2024-04-26 02:56:47,2024-05-17 01:46:36,Extra Care,Selina Ferrettini,System::Customer Usage Issue:Technical Issues,Takeover,Compliance::Fraud::ATO
+vznh-5279-1389,Closed,2024-04-15 22:52:41,2024-04-19 16:00:38,Extra Care,Ddene Loggie,People::Incorrect Action::Agent Decision,Escalation,Compliance::Sanctions::Deactivation
+bqdg-5260-5866,Closed,2024-03-23 16:44:48,,Extra Care,Kiah Blythe,Process::Third Party Dependency::Third Party Access,Escalation,
+tluf-7319-0306,Hold,2024-02-27 15:59:17,,Extra Care,Janna Mitroshinov,People::Incorrect Action::Incorrect Guidance,Assessment,Account::Access and updates
+kpck-6027-5554,Solved,2024-03-04 04:37:58,2024-03-10 16:58:39,Extra Care,Gard Killiam,Process::Internal Process Issue::Unmonitored Channel,Assessment,Account::Access and updates
+zylc-4158-5039,Solved,2024-01-22 17:05:59,2024-01-26 20:42:19,Extra Care,Lauritz Kerner,System::Customer Usage Issue:Technical Issues,Handling,Compliance::Sanctions::Check
+hcmx-3553-4917,Open,2024-04-30 23:35:24,,Extra Care,Pietrek Duddy,Process::Internal Process Issue::Gap in Process,Escalation,Account::Other
+ejut-7850-5242,Open,2024-05-12 02:07:39,,Extra Care,Carmelina Baty,Process::Third Party Dependency::Third Party Access,Handling,
+aeas-2748-1079,Hold,2024-03-21 22:21:41,,Extra Care,Petronia Kinvan,People::Incorrect Action::Incomplete Outcome,Escalation,Compliance::Fraud::Check
+zpfy-8227-2075,Open,2024-02-14 08:01:00,,Extra Care,Vinny Lokier,Process::Expectation Gap::Product Gap,Assessment,
+bngz-3389-6632,Closed,2024-03-24 03:24:01,2024-04-06 17:17:47,Extra Care,Taite Saich,People::Customer Engagement::Unreasonable Delay,Assessment,
+ftdq-1480-1413,Solved,2024-03-01 12:48:57,2024-03-15 14:04:41,Extra Care,Dennie Rigler,People::Customer Engagement::Agent Understanding,Handling,
+dvov-9217-8199,Solved,2024-06-07 08:13:46,2024-06-26 07:09:57,Extra Care,Orelie Tuerena,System::Customer Usage Issue:Technical Issues,Handling,KYC::POAT
+wuly-9788-1745,Open,2024-04-06 20:14:55,,Extra Care,Madalena Everil,Process::Internal Process Issue::Unmonitored Channel,Takeover,Compliance::Sanctions::Check
+bkno-6959-7633,Hold,2024-02-14 11:44:53,,Extra Care,Farrell Entwisle,Process::Third Party Dependency::Third Party Error (Partner),Handling,Account::Access and updates
+uvby-3912-5766,Open,2024-05-06 03:38:44,,Extra Care,Courtney Glennon,People::Incorrect Action::Incomplete Outcome,Assessment,
+wkvg-3702-0575,Hold,2024-06-10 20:55:39,,Extra Care,Rockie Lukovic,Knowledge::Outward Facing Information::External Publication Misleading,Assessment,KYC::Other
+sszy-1062-7657,Hold,2024-06-07 02:17:49,,Extra Care,Patrice Gellately,People::Vulnerability::Identification,Escalation,
+iuos-3929-2016,Hold,2024-02-19 18:59:40,,Extra Care,Gelya Laidel,People::External Engagement::Third Party Engagement,Escalation,
+gkqw-2531-0973,Closed,2024-03-20 06:20:03,2024-04-06 15:46:28,Extra Care,Crysta Stadden,People::Incorrect Action::Agent Decision,Escalation,
+iwby-1936-8031,Closed,2024-05-28 11:12:54,2024-06-27 03:52:46,Extra Care,Urson Scinelli,Process::Internal Process Issue::Unmonitored Channel,Escalation,
+dotf-3239-6739,Solved,2024-03-09 14:31:33,2024-03-17 12:04:57,Extra Care,Bridie Blamire,Knowledge::Knowledge Base::KB Missing,Escalation,Compliance::Sanctions::Check
+xfte-0767-1406,Closed,2024-01-16 20:58:54,2024-01-22 20:09:16,Extra Care,Jarad Tenney,System::Information Limitation::Information Unclear,Assessment,
+ohvy-4499-0376,Solved,2024-05-17 22:47:43,2024-05-31 12:22:02,Extra Care,Marven Cowdry,Process::Internal Process Issue::Unmonitored Channel,Escalation,Compliance::AML::Check
+dzue-7560-5840,Closed,2024-02-27 19:06:44,2024-03-13 12:40:34,Extra Care,Moira Fawke,Process::Third Party Dependency::Third Party Error,Assessment,
+xezh-7211-0101,Solved,2024-05-02 14:05:55,2024-05-23 22:42:30,Extra Care,Ardith Benion,System::Customer Usage Issue::Customer Input or Error,Escalation,
+wavq-4325-2556,Hold,2024-03-13 22:04:33,,Extra Care,Gunther Belchamber,Process::Third Party Dependency::Third Party Info Delay,Handling,KYC::Verification::Other
+hajq-6141-8094,Hold,2024-02-07 17:33:09,,Extra Care,Clarita de Werk,System::Customer Usage Issue::Accessibility,Escalation,
+oiwe-1568-3523,Open,2024-04-18 22:11:35,,Extra Care,Edgar Keeble,People::Customer Engagement::Agent Understanding,Escalation,
+zrjl-0600-7972,Open,2024-06-18 05:15:46,,Extra Care,Bettina Becks,Process::Third Party Dependency::Third Party Error (Partner),Assessment,KYC::Verification::Missing document
+asoe-9932-2972,Closed,2024-06-04 04:30:57,2024-06-24 23:45:01,Extra Care,Daria Di Giorgio,Process::Expectation Gap::Speed Gap,Takeover,
+lyzm-4687-3026,Hold,2024-06-17 22:16:32,,Extra Care,Linnet Matusiak,System::Customer Usage Issue::Accessibility,Takeover,Money Moving::Wise Card::Account change effect
+pknq-1038-3573,Solved,2024-01-18 09:22:45,2024-02-14 13:14:04,Extra Care,Marv Ellyatt,People::Incorrect Action::Procedural Adherence,Escalation,Compliance::Fraud::Deactivation
+udws-0201-8968,Open,2024-06-29 21:41:01,,Extra Care,Elladine Preddy,System::Automation Issue::Intervention Failure,Handling,Compliance::Fraud::ATO
+vbvf-7808-1729,Closed,2024-05-22 20:46:19,2024-05-25 09:28:26,Extra Care,Cordy Lavallie,People::Vulnerability::Identification,Assessment,
+yizs-9115-6308,Open,2024-04-19 12:08:15,,Extra Care,Bearnard Sheard,System::False Positive Outcome::Incorrect System Intervention,Assessment,
+lamy-0203-5269,Solved,2024-02-23 06:23:02,,Extra Care,Konstantin Hymor,Process::Internal Process Issue::Gap in Process,Handling,Compliance::Sanctions::Deactivation
+dqep-0568-7489,Closed,2024-05-03 07:45:02,,Extra Care,Nikki MacCorkell,Process::Third Party Dependency::Third Party Info Delay,Assessment,
+ljcg-3316-9461,Closed,2024-02-17 03:06:13,2024-03-03 01:57:42,Extra Care,Shandra Wedon,Process::Expectation Gap::Speed Gap,Handling,KYC::CDD::SOW Deactivation
+vwgt-6474-4879,Hold,2024-02-03 23:41:13,,Extra Care,Babette Tapley,System::Automation Issue::Tooling Failure,Assessment,
+xltt-1369-9643,Open,2024-02-13 20:44:05,,Extra Care,Clarance Giacaponi,Knowledge::Knowledge Base::KB Missing,Assessment,
+apfb-5779-8657,Open,2024-03-13 14:09:33,,Extra Care,Misty Carverhill,Process::Internal Process Issue::Gap in Process,Handling,
+whbw-0693-8674,Hold,2024-06-27 06:18:34,,Extra Care,Flore Stain,Process::Expectation Gap::Speed Gap,Handling,KYC::Other
+zsyi-0913-2891,Solved,2024-01-31 15:42:28,2024-02-14 18:31:46,Extra Care,Odele Walley,People::Incorrect Action::Incomplete Outcome,Handling,
+ncwn-8628-7659,Open,2024-01-12 00:21:59,,Extra Care,Lynnea Vedikhov,People::Incorrect Action::Agent Decision,Escalation,
+wchr-7592-0031,Open,2024-05-19 17:43:46,,Extra Care,Marilyn Sergean,System::Customer Usage Issue:Technical Issues,Escalation,Money Moving::Transfer
+zhur-8705-1297,Solved,2024-03-14 13:53:33,2024-04-04 18:43:52,Extra Care,Judas Vasilyev,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,Account::Other
+jqei-3211-4897,Closed,2024-06-03 02:00:58,,Extra Care,Jinny Exroll,Process::Third Party Dependency::Third Party Error,Takeover,
+mlcu-7432-4766,Open,2024-04-04 15:44:08,,Extra Care,Leah Lunbech,Knowledge::Knowledge Base::KB Missing,Assessment,
+shjd-6586-9622,Hold,2024-05-26 21:24:15,,Extra Care,Ikey Wyldbore,People::External Engagement::Third Party Engagement,Assessment,
+urdj-5603-0863,Open,2024-01-23 08:41:40,,Extra Care,Bucky Tidman,Process::Internal Process Issue::Unmonitored Channel,Takeover,Compliance::Fraud::Scam
+dxku-6837-4143,Solved,2024-01-17 20:59:29,2024-01-19 11:35:52,Extra Care,Kellen Pill,Process::Internal Process Issue::Unmonitored Channel,Handling,
+kxhc-6397-3168,Open,2024-02-04 09:09:05,,Extra Care,Valina Filipczynski,Knowledge::Outward Facing Information::External Publication Misleading,Escalation,Money Moving::Wise Card::Account change effect
+xxdc-8671-2567,Open,2024-04-12 04:11:10,,Extra Care,Jackie Parkyns,People::Incorrect Action::Incomplete Outcome,Escalation,Account::Access and updates
+ryrp-8392-7763,Open,2024-05-12 22:57:56,,Extra Care,Martyn Brunelleschi,System::False Positive Outcome::Incorrect System Intervention,Takeover,
+qnjq-7303-7705,Open,2024-05-07 15:58:10,,Extra Care,Findley Barnfather,People::Incorrect Action::Procedural Accuracy,Escalation,Compliance::AML::Deactivation
+wajf-6930-5656,Solved,2024-05-04 16:48:05,,Extra Care,Ollie Patrie,People::Customer Engagement::Agent Understanding,Takeover,
+ikkj-1362-5154,Solved,2024-06-17 09:05:19,2024-07-05 23:54:43,Extra Care,Margarete Schroder,System::Customer Usage Issue::Customer Input or Error,Assessment,KYC::Verification::Other
+jkjc-0840-9523,Solved,2024-04-05 18:38:26,,Extra Care,Nerita Sellors,Process::Third Party Dependency::Third Party Access,Handling,
+ggar-3931-4606,Hold,2024-02-10 15:52:58,,Extra Care,Stanton Smurthwaite,People::Vulnerability::Appropriate Accommodation,Assessment,
+ldez-8589-4650,Closed,2024-02-02 12:51:32,2024-03-03 03:16:06,Extra Care,Birgit Chason,System::False Positive Outcome::Incorrect System Intervention,Assessment,ec_root_cause_compliance__fraud
+iqwd-3646-9928,Hold,2024-05-29 16:07:58,,Extra Care,Kimmie Bonnick,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+dzpc-0216-7207,Open,2024-04-06 01:56:17,,Extra Care,Anita Manueli,People::External Engagement::Third Party Engagement,Takeover,Money Moving::Balances
+bngi-1168-9232,Solved,2024-06-15 17:30:26,2024-06-24 05:54:47,Extra Care,Petra Fernihough,Process::Expectation Gap::Speed Gap,Takeover,KYC::Other
+dmvm-1781-8585,Closed,2024-01-16 05:59:18,2024-01-30 04:03:47,Extra Care,Robbie Pevsner,People::Customer Engagement::Unclear Communication,Escalation,KYC::Verification::IDWL
+inzf-8111-1722,Solved,2024-02-28 13:42:06,2024-03-06 09:01:43,Extra Care,Katleen Hazard,Process::Third Party Dependency::Third Party Error,Escalation,
+xsbg-2822-4133,Hold,2024-04-25 13:18:58,,Extra Care,Marice Tomes,System::Customer Usage Issue:Technical Issues,Handling,KYC::CDD::SOW Deactivation
+wctu-9076-8580,Closed,2024-03-27 19:33:14,2024-04-09 04:32:56,Extra Care,Siana Barlie,People::Incorrect Action::Procedural Adherence,Assessment,
+hgkz-0977-3287,Hold,2024-01-26 20:44:19,,Extra Care,Tadeas Exon,System::Customer Usage Issue::Customer Input or Error,Takeover,Compliance::Sanctions::Check
+xatf-7338-0410,Open,2024-05-31 08:48:44,,Extra Care,Fabio Probetts,People::Incorrect Action::Incorrect Escalation,Assessment,Compliance::Fraud::Scam
+mcts-6823-0669,Hold,2024-05-19 07:17:40,,Extra Care,Hadleigh Huckster,Process::Internal Process Issue::Unmonitored Channel,Assessment,
+rnne-6164-3243,Solved,2024-03-08 03:39:27,2024-03-11 04:56:34,Extra Care,Gabriellia Coleshill,People::Customer Engagement::Unclear Communication,Assessment,Money Moving::Balances
+dumk-2236-6185,Hold,2024-05-01 03:22:34,,Extra Care,Parrnell Myerscough,Process::Third Party Dependency::Third Party Access,Takeover,Compliance::Surveillance
+cxry-8154-9972,Open,2024-03-28 06:09:33,,Extra Care,Nicolais Dunks,People::Incorrect Action::Incomplete Outcome,Assessment,
+gobt-4584-0312,Closed,2024-01-29 23:45:46,2024-02-22 21:11:12,Extra Care,Malory Helm,Process::Internal Process Issue::Gap in Process,Takeover,KYC::POAT
+rdkf-7502-4624,Solved,2024-05-11 09:06:53,2024-06-09 11:05:25,Extra Care,Kirk Garley,Process::Expectation Gap::Compliance Gap,Escalation,KYC::Other
+gkdg-0581-1667,Closed,2024-01-11 20:02:28,2024-01-14 14:23:08,Extra Care,Naomi Stitt,System::Customer Usage Issue:Technical Issues,Handling,
+yphy-3234-2952,Solved,2024-04-16 19:38:25,2024-04-25 20:03:53,Extra Care,Wildon Moncaster,System::Information Limitation::Information Unclear,Handling,
+pxko-1593-2427,Closed,2024-04-21 03:59:56,2024-04-22 02:20:14,Extra Care,Mag Lougheid,People::Customer Engagement::Agent Understanding,Assessment,Compliance::Surveillance
+rrwv-0358-0394,Hold,2024-04-29 02:50:52,,Extra Care,Kain Suddick,People::Vulnerability::Identification,Takeover,KYC::Verification::IDWL
+kfgb-9726-2429,Hold,2024-04-11 23:27:26,,Extra Care,Thorin Bratchell,System::Customer Usage Issue::Accessibility,Escalation,Money Moving::Wise Card::Card failure
+qsmq-9903-3280,Solved,2024-06-08 05:33:56,2024-06-24 23:08:15,Extra Care,Hunfredo Renzullo,System::False Positive Outcome::Incorrect System Intervention,Takeover,Money Moving::Balances
+czxw-3266-7209,Hold,2024-04-08 15:48:50,,Extra Care,Hewett Stubbings,People::Vulnerability::Identification,Takeover,
+ejpo-1958-0361,Solved,2024-03-26 08:26:37,2024-04-01 05:24:51,Extra Care,Elysia Hobgen,Process::Third Party Dependency::Third Party Access,Handling,
+dkae-7407-5040,Solved,2024-05-15 20:13:11,2024-06-06 04:27:32,Extra Care,Jerald Riccione,System::Information Limitation::Information Unclear,Assessment,Compliance::Sanctions::Deactivation
+auhk-6000-2224,Solved,2024-02-09 10:19:10,2024-03-10 04:05:32,Extra Care,Tildie Olenikov,System::Customer Usage Issue:Technical Issues,Assessment,
+hark-0038-5205,Closed,2024-02-29 09:07:42,2024-03-28 03:40:59,Extra Care,Skell Albin,Do not select::Customer Input or Error,Assessment,
+jghz-8817-5678,Closed,2024-05-31 13:42:52,2024-06-26 16:50:19,Extra Care,Fonzie Atyeo,People::Incorrect Action::Procedural Accuracy,Escalation,
+rebw-6776-5289,Solved,2024-01-09 05:18:41,,Extra Care,Cherish Brewerton,Process::Third Party Dependency::Third Party Info Delay,Handling,
+vpdc-6583-1239,Closed,2024-02-04 12:22:04,2024-02-24 15:57:14,Extra Care,Vite McTiernan,Knowledge::Knowledge Base::KB Missing,Escalation,KYC::POAT
+dsbi-6080-0432,Closed,2024-04-24 19:15:49,,Extra Care,Keelia Dunhill,People::Customer Engagement::Tonal Issues,Takeover,
+aegb-5661-2505,Open,2024-01-05 19:31:44,,Extra Care,Shaun Westphalen,System::Customer Usage Issue:Technical Issues,Assessment,ec_root_cause_compliance__fraud
+oxyn-2885-0778,Hold,2024-01-11 00:57:32,,Extra Care,Carree O'Fallone,Process::Expectation Gap::Product Gap,Takeover,Money Moving::Transfer
+iqcn-3151-0999,Hold,2024-03-18 19:46:38,,Extra Care,Elke Tisor,People::Customer Engagement::Tonal Issues,Escalation,
+pjeq-5851-4420,Open,2024-06-18 03:41:14,,Extra Care,Stacee Jewar,People::Customer Engagement::Unreasonable Delay,Takeover,Compliance::AML::Check
+czkn-1319-2142,Open,2024-06-16 15:37:47,,Extra Care,Corrie Simmings,System::Automation Issue::Intervention Failure,Escalation,
+cqem-3573-7781,Open,2024-04-25 01:33:25,,Extra Care,Dasie Lovegrove,Do not select::Customer Input or Error,Assessment,KYC::Verification::Missing document
+sfwd-6397-3769,Open,2024-04-20 01:09:22,,Extra Care,Reade Weatherill,Process::Third Party Dependency::Third Party Info Delay,Takeover,
+avcd-7316-9931,Open,2024-02-25 16:30:49,,Extra Care,Shelia Duncanson,People::Vulnerability::Identification,Takeover,KYC::CDD::SOW Deactivation
+mwzn-4719-0309,Open,2024-04-11 03:00:13,,Extra Care,Dita Birkby,People::Incorrect Action::Procedural Adherence,Assessment,KYC::CDD::SOW issue
+xnfn-6590-3091,Closed,2024-05-31 10:08:27,2024-06-20 14:50:14,Extra Care,Neron McGettrick,System::Customer Usage Issue::Accessibility,Takeover,
+fuxc-7961-9001,Hold,2024-03-08 04:17:50,,Extra Care,Kaine Raine,Knowledge::Knowledge Base::KB Missing,Assessment,
+dmij-6789-5562,Open,2024-01-21 05:00:31,,Extra Care,Rosana Guiett,People::Incorrect Action::Incorrect Escalation,Assessment,Account::Other
+afqx-1022-7905,Solved,2024-06-24 06:51:42,2024-06-28 08:19:14,Extra Care,Tildy Nutter,Process::Third Party Dependency::Third Party Access,Handling,Compliance::Fraud::Check
+bqws-2004-3835,Solved,2024-02-29 23:36:13,2024-03-15 05:14:16,Extra Care,Jade Jelleman,People::Customer Engagement::Unclear Communication,Takeover,
+jrkt-1241-1603,Closed,2024-02-07 02:15:12,2024-02-13 11:34:36,Extra Care,Wandis Mc Menamin,Process::Internal Process Issue::Gap in Process,Assessment,Compliance::Fraud::Scam
+kusi-9319-5790,Open,2024-01-10 21:12:41,,Extra Care,Donelle Yakunin,Process::Internal Process Issue::Gap in Process,Assessment,Compliance::Fraud::Deactivation
+lldp-5786-5016,Solved,2024-04-14 03:11:58,2024-05-10 08:24:23,Extra Care,Sonia Fortun,People::Incorrect Action::Agent Decision,Takeover,ec_root_cause_compliance__fraud
+rnyd-5240-2902,Open,2024-04-14 21:46:40,,Extra Care,Merrick Laboune,System::False Positive Outcome::Incorrect System Intervention,Handling,
+tzld-1871-5097,Solved,2024-04-16 06:29:01,2024-05-03 05:34:30,Extra Care,Gus Loins,System::Automation Issue::Intervention Failure,Assessment,
+rcly-5312-0613,Open,2024-05-08 23:52:04,,Extra Care,Sibbie Adamides,People::Customer Engagement::Agent Understanding,Takeover,Account::Access and updates
+wwhw-1066-1029,Closed,2024-03-21 01:25:49,2024-03-31 19:03:14,Extra Care,Tom Plumbridge,People::Customer Engagement::Unclear Communication,Escalation,
+iryr-0786-2590,Open,2024-02-24 17:24:01,,Extra Care,Chadwick Dubble,People::Customer Engagement::Tonal Issues,Handling,KYC::Verification::Missing document
+zjdu-0653-0218,Hold,2024-05-24 11:36:02,,Extra Care,Lesli Malia,People::Vulnerability::Identification,Takeover,
+qahs-6414-3788,Solved,2024-03-17 09:40:36,2024-03-21 20:59:08,Extra Care,Nelly Rosgen,People::Customer Engagement::Tonal Issues,Takeover,KYC::POAT
+bkwv-6364-8118,Closed,2024-01-23 02:09:08,2024-02-11 05:22:39,Extra Care,Damon Sleney,People::Incorrect Action::Procedural Accuracy,Assessment,Money Moving::Wise Card::Card failure
+iygn-7292-3568,Hold,2024-05-19 07:38:49,,Extra Care,Rochella Entwistle,Process::Third Party Dependency::Third Party Info Delay,Escalation,
+hysl-1615-1177,Open,2024-03-21 23:16:16,,Extra Care,Yard Rao,People::Customer Engagement::Unclear Communication,Handling,Money Moving::Transfer
+tjuh-9251-7844,Closed,2024-05-19 19:58:32,2024-06-15 07:32:31,Extra Care,Aura Towell,Process::Third Party Dependency::Third Party Error,Assessment,
+lujl-6392-9662,Hold,2024-04-09 20:21:33,,Extra Care,Bordie Meineken,Process::Org Delay::Insufficient Resource,Takeover,
+cmxo-6711-9248,Solved,2024-01-14 18:28:59,2024-01-31 03:08:23,Extra Care,Timmy Dolby,Process::Third Party Dependency::Third Party Access,Assessment,Compliance::Fraud::Scam
+yhui-2882-0251,Closed,2024-04-08 16:09:36,2024-04-25 10:57:01,Extra Care,Garold Gascoyne,System::Automation Issue::Intervention Failure,Takeover,KYC::Verification::IDWL
+kfnt-6384-7504,Closed,2024-03-29 10:30:02,2024-04-16 16:29:42,Extra Care,Rainer Petz,Process::Expectation Gap::Speed Gap,Handling,Compliance::Surveillance
+gyhm-3856-1347,Solved,2024-05-15 03:07:56,2024-05-16 07:13:56,Extra Care,Brigitta Capener,Process::Third Party Dependency::Third Party Info Delay,Handling,
+xdfi-2704-7391,Closed,2024-06-18 16:13:20,,Extra Care,Everett Usmar,Process::Third Party Dependency::Third Party Info Delay,Assessment,
+xgmw-1948-2436,Closed,2024-05-08 15:48:03,2024-06-06 09:20:59,Extra Care,Petronia Boerderman,People::Incorrect Action::Incomplete Outcome,Takeover,
+swac-8571-9309,Open,2024-03-02 10:30:39,,Extra Care,Elenore Hamnett,System::Customer Usage Issue::Accessibility,Takeover,
+uedq-7358-6461,Solved,2024-06-08 22:55:13,,Extra Care,Elysee Spurge,People::Vulnerability::Identification,Assessment,
+isjn-1402-7100,Closed,2024-04-21 19:57:00,2024-04-30 02:20:34,Extra Care,Emogene Smalles,Knowledge::Knowledge Base::KB Missing,Takeover,Compliance::Surveillance
+pond-4850-7478,Hold,2024-01-15 12:17:33,,Extra Care,Leticia Sunnex,BOD,Assessment,
+vbnt-3004-3138,Solved,2024-01-18 09:45:27,2024-02-17 05:10:25,Extra Care,Rina Senior,People::Incorrect Action::Procedural Accuracy,Escalation,Compliance::Surveillance
+uopc-5018-3789,Open,2024-02-28 20:54:21,,Extra Care,Dagmar Attawell,People::Customer Engagement::Tonal Issues,Assessment,
+fhco-0130-8874,Hold,2024-01-09 04:08:12,,Extra Care,Inger Jahnisch,System::Information Limitation::Information Unclear,Assessment,
+egnz-6158-8166,Closed,2024-01-26 13:36:56,2024-02-09 15:11:27,Extra Care,Andonis Coffee,System::Customer Usage Issue::Customer Input or Error,Escalation,
+gcky-7207-3390,Hold,2024-01-13 16:21:28,,Extra Care,Muffin Batchelour,System::Customer Usage Issue::Customer Input or Error,Handling,Compliance::AML::Check
+ovff-7688-0111,Open,2024-01-22 22:53:19,,Extra Care,Aloysius Georgeson,People::Customer Engagement::Unclear Communication,Takeover,Compliance::Fraud::Deactivation
+qxhp-4966-3051,Open,2024-01-19 14:59:48,,Extra Care,Gonzales Skechley,Process::Third Party Dependency::Third Party Access,Assessment,
+fgip-3536-0888,Hold,2024-04-19 15:44:59,,Extra Care,Denys MacCombe,Process::Third Party Dependency::Third Party Info Delay,Takeover,
+okfx-0748-0226,Closed,2024-05-22 14:47:56,2024-06-14 14:32:38,Extra Care,Beryl Morshead,System::Customer Usage Issue::Customer Input or Error,Handling,Compliance::AML::Check
+ttja-6790-2381,Closed,2024-06-03 02:50:55,2024-06-20 15:42:59,Extra Care,Jacinta Nolleau,Process::Org Delay::Insufficient Resource,Handling,Compliance::Fraud::Scam
+udwz-4249-1844,Open,2024-06-19 01:57:41,,Extra Care,Mead Oddey,Process::Expectation Gap::Product Gap,Handling,
+exam-1057-2860,Closed,2024-01-01 10:45:35,,Extra Care,Kennie Davidou,System::Automation Issue::Tooling Failure,Takeover,
+kdva-1944-5074,Closed,2024-05-18 12:09:11,2024-06-15 06:08:01,Extra Care,Gradeigh Moroney,Process::Third Party Dependency::Third Party Error,Takeover,Compliance::Fraud::Scam
+ticp-8419-5541,Open,2024-05-28 16:52:37,,Extra Care,Hillard Middle,People::Customer Engagement::Unreasonable Delay,Takeover,
+zsna-0729-5304,Hold,2024-03-05 19:53:13,,Extra Care,Christina Lewsie,People::Customer Engagement::Tonal Issues,Takeover,KYC::CDD::SOW issue
+dnsh-0367-7861,Solved,2024-04-02 04:25:34,,Extra Care,Louis McGrouther,System::Automation Issue::Tooling Failure,Escalation,
+prim-4835-0718,Closed,2024-04-19 12:52:06,2024-05-13 02:22:08,Extra Care,Korney Skim,System::Automation Issue::Tooling Failure,Handling,Money Moving::Transfer
+clti-4818-0520,Solved,2024-04-29 13:34:19,,Extra Care,Urson Boden,Process::Internal Process Issue::Gap in Process,Takeover,Accessibility
+sogg-7148-7996,Open,2024-06-28 10:18:27,,Extra Care,Emile Giles,System::Customer Usage Issue::Accessibility,Escalation,Compliance::Fraud::Scam
+pvlf-7367-8894,Open,2024-06-23 01:09:53,,Extra Care,Winne Geddis,People::Customer Engagement::Agent Understanding,Takeover,Money Moving::Wise Card::Account change effect
+hmud-7136-1341,Hold,2024-04-24 14:53:56,,Extra Care,Jodi Danbye,People::Vulnerability::Appropriate Accommodation,Handling,KYC::Deactivation
+lsuu-6235-5619,Solved,2024-05-06 17:25:01,2024-05-12 20:57:07,Extra Care,Deerdre Shoard,System::Information Limitation::Information Unclear,Assessment,Compliance::Fraud::Deactivation
+seqt-3111-7354,Open,2024-05-18 17:02:30,,Extra Care,Merilee Zorzi,People::Incorrect Action::Incomplete Outcome,Takeover,
+lhex-6246-6339,Solved,2024-04-29 01:40:03,2024-05-22 18:42:55,Extra Care,Mathew Lepick,People::External Engagement::Third Party Engagement,Handling,
+lowq-4106-7479,Closed,2024-03-01 21:20:21,2024-03-21 16:39:00,Extra Care,Aline Edworthie,System::Customer Usage Issue::Customer Input or Error,Handling,Accessibility
+jlgg-5479-7287,Solved,2024-03-10 17:50:59,2024-04-08 07:26:10,Extra Care,William Adamovicz,System::Customer Usage Issue:Technical Issues,Handling,
+mqlu-7768-1483,Open,2024-04-13 21:13:59,,Extra Care,Stu Barford,System::False Positive Outcome::Incorrect System Intervention,Assessment,
+hyng-1742-3060,Hold,2024-05-31 11:52:22,,Extra Care,Neddy Poyzer,Process::Org Delay::Insufficient Resource,Assessment,KYC::Verification::IDWL
+akog-4804-4244,Solved,2024-06-06 17:47:25,,Extra Care,Richie Skentelbery,Process::Third Party Dependency::Third Party Error,Escalation,Compliance::Fraud::Deactivation
+omck-3265-6076,Hold,2024-02-27 12:25:00,,Extra Care,Rourke Parnaby,People::Vulnerability::Appropriate Accommodation,Assessment,
+kvfe-3774-7666,Open,2024-06-02 00:18:29,,Extra Care,Chaddie Cunliffe,Process::Org Delay::Insufficient Resource,Escalation,
+gyix-9117-6461,Open,2024-06-29 08:50:34,,Extra Care,Cherish Seabridge,People::External Engagement::Third Party Engagement,Handling,
+iriu-2147-1568,Open,2024-01-15 11:45:41,,Extra Care,Kelcy Filippi,People::Customer Engagement::Unclear Communication,Takeover,KYC::POAT
+wtxi-5654-3708,Closed,2024-05-31 19:01:35,,Extra Care,Emlyn Hakewell,People::Vulnerability::Appropriate Accommodation,Handling,
+iwtd-0739-1474,Closed,2024-01-22 07:20:38,2024-01-29 02:11:59,Extra Care,Raye Darley,People::Incorrect Action::Incomplete Outcome,Assessment,Money Moving::Wise Card::Card failure
+riim-7679-2205,Closed,2024-03-12 23:00:52,2024-03-31 01:49:41,Extra Care,Paige Lorek,People::Customer Engagement::Unclear Communication,Assessment,KYC::Verification::POA
+cubn-5214-3194,Closed,2024-06-15 20:44:59,2024-06-18 18:19:16,Extra Care,Eugenia Vasilchikov,People::External Engagement::Third Party Engagement,Handling,Compliance::Surveillance
+tztk-1639-4073,Solved,2024-05-01 05:25:39,2024-05-16 01:26:31,Extra Care,Eyde Learoyd,Process::Third Party Dependency::Third Party Info Delay,Assessment,KYC::CDD::SOW Deactivation
+uuyo-5502-0981,Solved,2024-06-07 22:21:22,2024-06-30 15:45:57,Extra Care,Marcia Fossick,System::Information Limitation::Information Unclear,Escalation,
+cqey-1998-8707,Closed,2024-01-31 18:03:39,2024-02-08 13:46:58,Extra Care,Hewett Rosenzwig,System::Customer Usage Issue::Accessibility,Handling,
+diqs-7386-0712,Hold,2024-05-24 17:07:23,,Extra Care,Anthia Seller,System::Customer Usage Issue::Customer Input or Error,Escalation,
+wuxr-4761-4037,Solved,2024-06-21 01:49:03,,Extra Care,Willdon Speir,Process::Third Party Dependency::Third Party Error (Partner),Takeover,Compliance::Fraud::Deactivation
+pfoh-5636-7925,Hold,2024-06-17 09:17:24,,Extra Care,Alessandro McIlwraith,Knowledge::Knowledge Base::KB Missing,Escalation,Money Moving::Wise Card::Card failure
+vcan-0612-7730,Hold,2024-01-19 18:48:51,,Extra Care,Lars Rubega,People::Customer Engagement::Agent Understanding,Assessment,Account::Access and updates
+ffmx-0005-6143,Hold,2024-04-06 05:20:28,,Extra Care,Caressa Sawday,People::Customer Engagement::Unreasonable Delay,Handling,Compliance::Fraud::Scam
+xuak-7111-7655,Open,2024-01-12 14:07:10,,Extra Care,Syd Dyhouse,Process::Third Party Dependency::Third Party Error (Partner),Escalation,KYC::Other
+uemb-0090-5394,Solved,2024-05-18 16:19:36,,Extra Care,Uta Kreutzer,Process::Internal Process Issue::Gap in Process,Assessment,
+gbul-0799-6340,Closed,2024-01-05 17:11:37,2024-01-06 21:33:30,Extra Care,Judi Licas,People::Incorrect Action::Procedural Adherence,Handling,KYC::Verification::IDWL
+nhaa-3381-4196,Hold,2024-05-15 03:15:29,,Extra Care,Alvinia Scoon,Process::Third Party Dependency::Third Party Error,Escalation,
+kjkm-4368-3301,Hold,2024-06-09 01:06:58,,Extra Care,Charlot Courtenay,Process::Third Party Dependency::Third Party Error,Escalation,
+npuq-4341-7128,Closed,2024-02-15 14:10:45,2024-02-26 22:20:12,Extra Care,Travers Kornes,Knowledge::Knowledge Base::KB Missing,Escalation,KYC::Deactivation
+mhdo-9974-2554,Closed,2024-02-22 03:14:43,2024-02-25 03:06:02,Extra Care,Camey Helling,People::Incorrect Action::Procedural Accuracy,Assessment,KYC::Verification::POA
+mgwl-0758-3690,Open,2024-02-20 14:40:14,,Extra Care,Sanford Maestro,Process::Third Party Dependency::Third Party Access,Takeover,Account::Access and updates
+fiyv-1460-9765,Hold,2024-02-11 12:50:49,,Extra Care,Goran Giron,People::Customer Engagement::Unclear Communication,Takeover,Accessibility
+zqiu-9760-4843,Closed,2024-04-19 20:58:07,2024-04-23 03:32:38,Extra Care,Hewe Tubritt,System::Customer Usage Issue::Customer Input or Error,Assessment,Compliance::Fraud::Scam
+kwoo-8981-3710,Solved,2024-04-01 15:46:32,2024-04-22 22:39:07,Extra Care,Geri Costley,People::Customer Engagement::Agent Understanding,Assessment,
+dsmf-8830-9390,Open,2024-03-17 02:12:46,,Extra Care,Cy Portail,System::Customer Usage Issue::Customer Input or Error,Escalation,
+jtbv-8040-8053,Hold,2024-01-02 09:40:37,,Extra Care,Neddie Harmond,People::Incorrect Action::Incomplete Outcome,Escalation,Account::Other
+jrhc-5144-7693,Solved,2024-05-06 17:35:03,2024-05-20 16:33:06,Extra Care,Mercie Stubbes,System::Customer Usage Issue::Customer Input or Error,Handling,
+taef-9906-1965,Open,2024-03-14 10:47:48,,Extra Care,Tessa Kleinber,Knowledge::Knowledge Base::KB Missing,Handling,Money Moving::Transfer
+erot-1476-8321,Open,2024-04-20 17:40:32,,Extra Care,Dorothea Zavittieri,Process::Third Party Dependency::Third Party Access,Assessment,
+ggnh-5980-0368,Hold,2024-03-17 18:15:06,,Extra Care,Gwendolin Kimmins,Process::Org Delay::Insufficient Resource,Assessment,
+ktoj-3843-2329,Solved,2024-01-26 06:49:58,,Extra Care,Hilliard Elverston,Process::Third Party Dependency::Third Party Access,Escalation,
+btpx-5353-7873,Solved,2024-03-05 05:24:00,2024-03-20 03:29:02,Extra Care,Gibby Lowdwell,People::Incorrect Action::Procedural Adherence,Escalation,Compliance::Sanctions::Deactivation
+hdob-9917-2265,Solved,2024-01-24 07:31:08,2024-02-13 11:17:55,Extra Care,Daile Hoyland,Process::Third Party Dependency::Third Party Error (Partner),Assessment,
+fzll-8580-8110,Open,2024-03-25 13:36:39,,Extra Care,Gabriela Trewhella,People::Incorrect Action::Agent Decision,Assessment,
+sute-2192-8852,Hold,2024-01-05 13:23:57,,Extra Care,Roz Demead,Process::Third Party Dependency::Third Party Access,Assessment,
+cqgf-7371-9572,Hold,2024-06-16 09:50:06,,Extra Care,Vonny Budgey,People::Incorrect Action::Procedural Accuracy,Takeover,
+trkn-6818-2033,Solved,2024-02-06 05:37:15,2024-03-04 10:39:19,Extra Care,Beitris Patifield,Process::Expectation Gap::Compliance Gap,Takeover,
+dack-3254-9160,Open,2024-06-24 09:03:04,,Extra Care,Sebastian Jump,Process::Third Party Dependency::Third Party Info Delay,Assessment,KYC::Verification::Missing document
+xmyd-9493-1083,Solved,2024-03-29 00:07:04,2024-03-30 20:01:28,Extra Care,Violante Walkowski,System::Customer Usage Issue::Customer Input or Error,Escalation,KYC::Deactivation
+muxl-0245-2420,Hold,2024-06-18 14:42:48,,Extra Care,Sullivan Rogier,Knowledge::Knowledge Base::KB Missing,Takeover,KYC::CDD::SOW issue
+pmhr-5145-6696,Closed,2024-05-17 02:36:16,2024-05-24 07:14:20,Extra Care,Hewie Yakob,Knowledge::Knowledge Base::KB Missing,Assessment,
+itgi-9768-7445,Hold,2024-05-28 11:34:35,,Extra Care,Cchaddie Arnald,Process::Expectation Gap::Speed Gap,Takeover,
+wbpa-0421-5434,Hold,2024-06-20 21:46:02,,Extra Care,Russell Mechi,Process::Expectation Gap::Speed Gap,Assessment,
+fecm-1054-4226,Solved,2024-01-15 10:26:34,2024-01-30 04:10:58,Extra Care,Munroe Dunbobin,System::Customer Usage Issue::Accessibility,Escalation,
+krqh-6718-2924,Open,2024-05-21 10:32:05,,Extra Care,Wilhelmine Thackwray,Process::Third Party Dependency::Third Party Error (Partner),Assessment,
+uawf-6797-7607,Open,2024-06-12 17:22:55,,Extra Care,Astrid Bewsy,People::Vulnerability::Identification,Assessment,Accessibility
+ilnb-4083-7625,Solved,2024-02-16 04:34:27,2024-02-23 14:36:46,Extra Care,Brook Somersett,Process::Third Party Dependency::Third Party Access,Escalation,
+ovqf-6991-4843,Closed,2024-04-15 09:44:25,2024-04-27 15:39:27,Extra Care,Hetti Kiddie,People::Incorrect Action::Procedural Adherence,Assessment,
+iskk-1070-1995,Open,2024-03-30 00:18:37,,Extra Care,Roda Passo,Process::Expectation Gap::Compliance Gap,Assessment,
+ikyx-5445-0205,Open,2024-03-12 13:31:04,,Extra Care,Sindee Scutter,People::Incorrect Action::Incorrect Escalation,Takeover,Account::Access and updates
+ywkl-8695-0375,Open,2024-04-22 05:41:03,,Extra Care,Dan Heake,Process::Org Delay::Insufficient Resource,Handling,KYC::Verification::Missing document
+vhvu-6409-7267,Solved,2024-02-14 08:40:26,,Extra Care,Meridel Goodale,System::Customer Usage Issue::Accessibility,Escalation,
+yjhp-2717-1021,Solved,2024-01-14 20:26:03,2024-01-16 17:39:43,Extra Care,Arlene Speaks,System::Automation Issue::Intervention Failure,Assessment,ec_root_cause_compliance__fraud
+dnjv-3470-0353,Hold,2024-01-27 06:23:17,,Extra Care,Dasha Pitcock,People::Incorrect Action::Agent Decision,Takeover,Account::Other
+qtdv-1345-1585,Hold,2024-02-18 20:42:15,,Extra Care,Cthrine Ditts,System::Automation Issue::Tooling Failure,Handling,
+eubi-9614-7622,Closed,2024-06-19 10:22:30,,Extra Care,Tandi Cristofari,People::Incorrect Action::Procedural Adherence,Assessment,
+bkcu-3102-7442,Hold,2024-01-31 23:31:36,,Extra Care,Kalindi Allred,People::Vulnerability::Identification,Assessment,Account::Other
+kypo-5392-6380,Solved,2024-06-08 22:25:53,2024-06-11 23:50:34,Extra Care,Joanne Hush,Do not select::Customer Input or Error,Assessment,KYC::Deactivation
+kpbq-4044-6343,Open,2024-04-02 00:26:28,,Extra Care,Henderson Pullin,People::Incorrect Action::Incomplete Outcome,Escalation,
+gikp-1119-9693,Hold,2024-05-01 22:25:10,,Extra Care,Jeana Longfoot,People::Incorrect Action::Incorrect Guidance,Assessment,
+lvqf-4106-6145,Closed,2024-05-26 02:23:51,2024-06-15 01:03:46,Extra Care,Gav Dyson,People::Customer Engagement::Tonal Issues,Takeover,Compliance::Sanctions::Check
+xxbp-2094-8047,Closed,2024-04-28 17:05:43,2024-05-01 08:13:24,Extra Care,Zacherie Bracco,Process::Expectation Gap::Compliance Gap,Handling,KYC::Verification::Other
+vgvk-6620-5713,Closed,2024-06-19 01:08:33,2024-07-11 07:16:25,Extra Care,Rochelle Ellacombe,People::Incorrect Action::Procedural Adherence,Escalation,KYC::Verification::Other
+iiwq-3352-1058,Closed,2024-06-09 00:51:00,,Extra Care,Noll Shelvey,Process::Expectation Gap::Product Gap,Escalation,
+frwk-2596-4120,Open,2024-06-24 19:55:34,,Extra Care,Aile Wardall,People::Incorrect Action::Incorrect Guidance,Assessment,
+faar-5898-0301,Solved,2024-02-23 12:02:22,2024-03-19 23:23:10,Extra Care,Dominik Cookney,People::Vulnerability::Identification,Assessment,
+xbob-8452-3620,Solved,2024-05-17 04:30:49,2024-06-05 09:49:20,Extra Care,Eulalie Orlton,People::External Engagement::Third Party Engagement,Takeover,Money Moving::Balances
+vpku-0703-0874,Closed,2024-06-05 10:56:48,2024-07-01 01:27:44,Extra Care,Laetitia Calderbank,System::Automation Issue::Tooling Failure,Escalation,
+dqfb-1339-0185,Closed,2024-03-31 11:31:03,2024-04-27 10:26:46,Extra Care,Yolanthe Guyet,People::Incorrect Action::Procedural Accuracy,Handling,
+ykig-0924-3309,Solved,2024-04-12 19:37:02,2024-05-11 16:16:53,Extra Care,Kriste Wasselin,People::Vulnerability::Appropriate Accommodation,Handling,Compliance::Fraud::Check
+dbwm-5465-2129,Solved,2024-04-12 22:59:02,2024-04-18 04:34:52,Extra Care,Brig McCurtin,Process::Expectation Gap::Product Gap,Handling,
+chgj-4096-4191,Solved,2024-06-06 17:24:45,2024-07-04 18:09:34,Extra Care,Dosi Euston,People::Incorrect Action::Procedural Adherence,Assessment,
+orme-5458-8390,Hold,2024-06-20 18:10:54,,Extra Care,Andrei Stellman,Process::Internal Process Issue::Unmonitored Channel,Handling,KYC::Verification::Missing document
+lona-0187-6791,Open,2024-04-02 13:50:32,,Extra Care,Esme Almeida,People::External Engagement::Third Party Engagement,Takeover,KYC::Deactivation
+clbx-1984-4277,Hold,2024-05-07 13:05:57,,Extra Care,Sancho Chern,Process::Third Party Dependency::Third Party Access,Handling,
+kata-9113-3919,Open,2024-03-18 23:41:03,,Extra Care,Electra Van der Beek,Knowledge::Knowledge Base::KB Missing,Escalation,
+fnxz-7807-2916,Hold,2024-06-27 08:08:56,,Extra Care,Elisabeth Ginman,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,KYC::Verification::IDWL
+mhdz-7061-1084,Open,2024-02-09 01:13:05,,Extra Care,Theodosia Yankishin,Process::Third Party Dependency::Third Party Info Delay,Escalation,
+ilcx-0212-7995,Solved,2024-01-01 04:22:09,2024-01-20 00:53:13,Extra Care,Bernard Dmych,System::Information Limitation::Information Unclear,Assessment,Compliance::Fraud::Check
+rrvx-8608-0345,Closed,2024-01-11 03:26:27,2024-01-24 04:48:35,Extra Care,Yoko Moulster,System::Automation Issue::Intervention Failure,Escalation,
+mixq-4165-3503,Hold,2024-03-20 22:40:49,,Extra Care,Pavla Webley,Process::Expectation Gap::Product Gap,Assessment,
+plvl-0079-2011,Hold,2024-04-28 01:12:49,,Extra Care,Christophe Nast,Process::Third Party Dependency::Third Party Access,Takeover,KYC::Other
+binl-1631-8337,Hold,2024-06-26 05:19:54,,Extra Care,Murvyn Hodcroft,People::Incorrect Action::Incomplete Outcome,Escalation,
+kujm-2446-5648,Open,2024-02-24 05:25:32,,Extra Care,Lizette Copplestone,System::False Positive Outcome::Incorrect System Intervention,Takeover,
+ihyz-9692-8830,Hold,2024-06-07 02:04:39,,Extra Care,Ivy Cowser,People::Vulnerability::Identification,Escalation,Money Moving::Balances
+ulxm-5360-8326,Hold,2024-01-06 17:16:03,,Extra Care,Leonhard O'Halleghane,System::Customer Usage Issue::Accessibility,Takeover,
+ceii-4089-7565,Closed,2024-02-07 16:41:35,2024-03-03 20:47:22,Extra Care,Brok Paulley,System::Automation Issue::Tooling Failure,Escalation,
+hwdd-1900-0073,Closed,2024-04-13 20:55:30,,Extra Care,Mike Bulcock,People::Customer Engagement::Tonal Issues,Handling,
+jnhw-6301-4020,Solved,2024-02-26 13:14:49,2024-03-23 22:37:44,Extra Care,Davy Keward,Process::Expectation Gap::Product Gap,Assessment,
+skyl-9053-6576,Closed,2024-06-10 23:05:44,,Extra Care,Earl Parffrey,Process::Third Party Dependency::Third Party Error,Takeover,
+mmfi-2103-0835,Solved,2024-04-13 21:19:46,2024-04-21 02:32:48,Extra Care,Lorrie Colbrun,Process::Expectation Gap::Speed Gap,Takeover,Compliance::Fraud::Scam
+yuot-0229-3727,Hold,2024-03-11 21:55:01,,Extra Care,Pepe Reeman,Process::Expectation Gap::Speed Gap,Handling,
+fjcz-4507-4320,Open,2024-05-02 07:57:24,,Extra Care,Hayyim Stonier,People::Incorrect Action::Incorrect Escalation,Assessment,
+nheo-6690-3521,Solved,2024-03-10 18:51:02,2024-03-18 02:52:37,Extra Care,Dougie Crix,System::False Positive Outcome::Incorrect System Intervention,Takeover,
+aoxb-5854-7682,Open,2024-02-04 06:18:43,,Extra Care,Marika Kimmins,Process::Org Delay::Insufficient Resource,Assessment,
+nmgj-5248-5586,Open,2024-02-04 14:36:26,,Extra Care,Jessamine Brugemann,Do not select::Customer Input or Error,Assessment,
+dctu-8932-9640,Closed,2024-05-15 17:26:48,2024-06-03 05:31:12,Extra Care,Quinlan Lightbody,Process::Third Party Dependency::Third Party Access,Takeover,Compliance::Sanctions::Check
+ickz-9778-6045,Hold,2024-04-07 10:27:31,,Extra Care,Trenna Deam,Process::Org Delay::Insufficient Resource,Handling,Compliance::Fraud::Check
+jvtr-8989-6465,Hold,2024-02-17 21:09:34,,Extra Care,Maximilien Gadd,Process::Expectation Gap::Speed Gap,Escalation,Compliance::AML::Deactivation
+skgy-0461-8235,Solved,2024-04-17 15:22:53,,Extra Care,Ferrell Casse,People::External Engagement::Third Party Engagement,Assessment,
+xfku-3264-9675,Open,2024-03-22 19:29:35,,Extra Care,Lorin Phoenix,Knowledge::Knowledge Base::KB Missing,Escalation,
+gsjy-0494-6601,Open,2024-02-12 00:12:46,,Extra Care,Laurena Reedy,System::Information Limitation::Information Unclear,Handling,
+zlyu-9437-8247,Hold,2024-05-12 15:30:37,,Extra Care,Mikaela Annwyl,Process::Internal Process Issue::Gap in Process,Assessment,
+nqdc-2167-4014,Closed,2024-01-29 19:11:53,2024-02-06 17:53:31,Extra Care,Shaw Matteuzzi,People::Incorrect Action::Incorrect Guidance,Assessment,Compliance::Sanctions::Deactivation
+dyjw-0335-5487,Hold,2024-03-14 14:18:01,,Extra Care,Carolyne Ferry,Process::Expectation Gap::Compliance Gap,Takeover,Accessibility
+mies-2472-7030,Closed,2024-04-11 05:36:44,2024-05-02 16:52:21,Extra Care,Kiah Billitteri,Process::Internal Process Issue::Gap in Process,Handling,
+qbah-7037-0623,Solved,2024-01-24 20:38:15,2024-02-12 07:10:18,Extra Care,Guenna O'Hartagan,Process::Expectation Gap::Product Gap,Takeover,
+tfjn-9383-7214,Hold,2024-05-23 15:25:25,,Extra Care,Christalle Gawith,People::Incorrect Action::Incorrect Escalation,Assessment,Money Moving::Wise Card::Account change effect
+rzmd-0545-3050,Solved,2024-06-22 11:26:51,,Extra Care,Berton Kearey,People::Customer Engagement::Unclear Communication,Takeover,
+ccez-3464-2636,Hold,2024-02-02 05:19:36,,Extra Care,Darius Pinchback,People::Incorrect Action::Agent Decision,Escalation,
+mkax-3750-0539,Solved,2024-04-09 06:07:53,2024-04-16 03:41:28,Extra Care,Lazar Simms,People::External Engagement::Third Party Engagement,Takeover,
+lcwj-0479-2201,Open,2024-03-05 03:46:32,,Extra Care,Chaddie Baylay,System::Automation Issue::Intervention Failure,Assessment,KYC::Other
+lgph-9505-3054,Open,2024-02-26 16:52:39,,Extra Care,Cirilo Wilber,Process::Internal Process Issue::Unmonitored Channel,Handling,Money Moving::Transfer
+knzm-5578-9617,Closed,2024-05-10 17:14:59,2024-06-02 08:23:35,Extra Care,Lilyan Hopfer,Process::Expectation Gap::Product Gap,Handling,
+orxb-3099-7508,Solved,2024-02-22 04:52:54,2024-03-17 22:23:18,Extra Care,Kali Handrok,System::Customer Usage Issue::Customer Input or Error,Assessment,Account::Other
+vvwq-3213-3451,Hold,2024-05-29 22:11:23,,Extra Care,Hazlett McGahey,BOD,Handling,KYC::Other
+rjlq-5392-2147,Closed,2024-06-12 22:57:44,2024-06-14 17:52:41,Extra Care,Angeline Dunsford,Process::Expectation Gap::Speed Gap,Handling,Account::Access and updates
+lqlb-0826-2157,Hold,2024-04-07 07:03:46,,Extra Care,Clemens Yewen,People::Customer Engagement::Unclear Communication,Escalation,
+hmjs-8499-8711,Open,2024-05-10 18:01:30,,Extra Care,Krisha Belfrage,People::Vulnerability::Identification,Handling,
+zidf-3884-8761,Closed,2024-03-15 21:34:48,,Extra Care,Jacquenetta Dumphy,People::Customer Engagement::Unreasonable Delay,Handling,ec_root_cause_compliance__fraud
+ykcc-7200-3024,Hold,2024-04-14 03:09:15,,Extra Care,Rosetta Ilive,Process::Expectation Gap::Product Gap,Takeover,KYC::Verification::IDWL
+xico-8850-1474,Hold,2024-02-24 06:37:30,,Extra Care,Hubert Clemes,Process::Internal Process Issue::Gap in Process,Handling,
+kylo-6178-6421,Hold,2024-03-28 19:38:49,,Extra Care,Korey Malzard,People::Customer Engagement::Tonal Issues,Escalation,KYC::CDD::SOW issue
+hwoj-7234-5308,Solved,2024-04-08 18:25:45,2024-04-26 23:35:54,Extra Care,Madison Snarr,Process::Third Party Dependency::Third Party Info Delay,Escalation,
+tsen-5623-4751,Hold,2024-06-05 02:10:09,,Extra Care,Gardner Paterson,People::Vulnerability::Identification,Escalation,KYC::Verification::POA
+tzlq-4194-1805,Solved,2024-01-16 06:57:52,2024-02-12 19:23:58,Extra Care,Cassi Gallon,Process::Internal Process Issue::Gap in Process,Handling,
+hxts-4938-5555,Solved,2024-03-26 03:34:27,2024-04-12 13:01:37,Extra Care,Taffy Stidworthy,People::Customer Engagement::Unreasonable Delay,Assessment,Compliance::Fraud::Deactivation
+pxpv-7625-7504,Closed,2024-01-25 19:19:52,2024-02-12 14:31:03,Extra Care,Susanna Raincin,People::External Engagement::Third Party Engagement,Escalation,Compliance::Fraud::Deactivation
+kefq-0565-8435,Solved,2024-04-12 06:07:32,2024-04-28 11:07:36,Extra Care,Katrina Lermit,People::Vulnerability::Identification,Takeover,
+ptfa-4821-9482,Open,2024-06-29 12:31:30,,Extra Care,Ganny Menghi,Process::Expectation Gap::Product Gap,Handling,
+ifza-1029-5610,Hold,2024-01-21 06:24:29,,Extra Care,Humfrey Cain,Process::Org Delay::Insufficient Resource,Takeover,Compliance::Fraud::Deactivation
+lpkt-2293-6384,Solved,2024-06-28 11:28:44,2024-06-30 00:51:48,Extra Care,Monica Hunnywell,People::Customer Engagement::Agent Understanding,Handling,
+ukxi-5582-9195,Solved,2024-01-17 15:17:15,,Extra Care,Shannon Bodega,Process::Third Party Dependency::Third Party Access,Escalation,
+rrwf-0451-8544,Hold,2024-05-14 19:32:14,,Extra Care,Vinita Nellies,System::Automation Issue::Tooling Failure,Handling,
+rmef-6627-2456,Closed,2024-04-26 23:38:24,2024-05-08 14:41:43,Extra Care,Heath Humbee,People::Customer Engagement::Unreasonable Delay,Escalation,
+hbev-1734-9835,Solved,2024-03-12 04:23:11,2024-03-21 04:10:28,Extra Care,Leone Christon,Knowledge::Outward Facing Information::External Publication Misleading,Assessment,
+gzbp-6024-9315,Solved,2024-05-18 14:10:14,,Extra Care,Curran Trainer,People::Customer Engagement::Unreasonable Delay,Assessment,
+onto-3506-9073,Closed,2024-06-03 23:47:36,2024-06-18 13:11:16,Extra Care,Chaunce Snadden,System::Customer Usage Issue::Customer Input or Error,Escalation,KYC::Deactivation
+ezmn-0489-7361,Solved,2024-01-30 08:41:55,2024-02-13 08:41:49,Extra Care,Margaretta Moorcraft,People::Incorrect Action::Incomplete Outcome,Handling,
+xtiw-3269-9824,Open,2024-06-17 20:38:44,,Extra Care,Edwin Hyde,People::Incorrect Action::Incorrect Guidance,Assessment,KYC::POAT
+tjuz-6769-1653,Solved,2024-03-31 14:03:41,,Extra Care,Maiga Hamblyn,People::Incorrect Action::Incorrect Guidance,Handling,
+ldix-3109-1709,Open,2024-03-07 05:14:55,,Extra Care,Wolfgang Vann,System::Information Limitation::Information Unclear,Handling,ec_root_cause_compliance__fraud
+dmoi-3284-9675,Solved,2024-03-26 06:59:57,2024-04-23 12:19:00,Extra Care,Gaylene Mulliss,People::Incorrect Action::Incorrect Guidance,Handling,
+jive-9052-7276,Open,2024-03-01 14:48:36,,Extra Care,Foster Buckingham,Do not select::Customer Input or Error,Assessment,
+tmcs-4236-0724,Open,2024-04-14 11:33:37,,Extra Care,Rouvin Gutridge,People::Incorrect Action::Agent Decision,Handling,
+ufep-0822-8200,Open,2024-04-15 23:00:47,,Extra Care,Godart Ladbury,People::Vulnerability::Appropriate Accommodation,Assessment,KYC::Deactivation
+kjsw-5400-2144,Hold,2024-01-31 17:11:34,,Extra Care,Giustina Sarrell,Process::Third Party Dependency::Third Party Error (Partner),Escalation,
+hwew-1922-3499,Closed,2024-04-09 09:44:45,,Extra Care,Alistair Pochet,Process::Org Delay::Insufficient Resource,Takeover,Compliance::Surveillance
+wizm-2081-7642,Closed,2024-06-29 04:08:49,2024-07-20 18:24:19,Extra Care,Mikkel Piegrome,System::Customer Usage Issue::Accessibility,Takeover,Money Moving::Wise Card::Card failure
+esjz-6459-2268,Open,2024-03-01 03:12:51,,Extra Care,Terrence Huntall,People::Vulnerability::Appropriate Accommodation,Handling,
+jzlf-0830-0592,Hold,2024-03-05 00:40:44,,Extra Care,Audi Eglin,Process::Internal Process Issue::Gap in Process,Assessment,
+abct-4072-5604,Open,2024-04-11 15:38:52,,Extra Care,Hubert Seaman,People::Vulnerability::Identification,Handling,Compliance::Surveillance
+vpei-1986-3725,Closed,2024-04-27 11:50:25,2024-05-12 22:50:38,Extra Care,Constantino Brookson,System::Automation Issue::Intervention Failure,Takeover,Compliance::Sanctions::Check
+hwvn-7442-1957,Open,2024-01-24 01:52:53,,Extra Care,Lannie de Quincey,Process::Expectation Gap::Compliance Gap,Takeover,KYC::CDD::SOW issue
+cqku-9579-6671,Closed,2024-01-07 22:58:56,2024-01-20 14:16:24,Extra Care,Brendis Kassman,People::External Engagement::Third Party Engagement,Escalation,
+fqkz-1166-5736,Closed,2024-04-04 00:29:10,2024-04-11 05:19:08,Extra Care,Miguela Barthropp,System::Automation Issue::Tooling Failure,Handling,Compliance::AML::Check
+zbog-1792-5095,Open,2024-06-25 22:23:56,,Extra Care,Angelico Sydes,Process::Org Delay::Insufficient Resource,Escalation,Compliance::AML::Check
+bltm-1463-5136,Hold,2024-01-10 10:28:00,,Extra Care,Thorsten Sheen,System::Customer Usage Issue::Customer Input or Error,Takeover,
+qbak-0160-3972,Open,2024-01-02 15:09:55,,Extra Care,Cariotta Fearns,People::Incorrect Action::Procedural Accuracy,Assessment,Compliance::Fraud::Deactivation
+vllf-8031-7645,Closed,2024-05-11 06:14:40,2024-06-05 05:40:45,Extra Care,Ric Skelcher,Knowledge::Knowledge Base::KB Missing,Takeover,
+beaf-0755-3285,Hold,2024-04-08 00:54:53,,Extra Care,Nancey Tithecote,System::Automation Issue::Intervention Failure,Assessment,
+hqkc-4029-5688,Solved,2024-02-22 09:57:31,2024-03-09 02:11:19,Extra Care,Letizia Hurll,People::Incorrect Action::Procedural Adherence,Takeover,Money Moving::Wise Card::Dispute
+hris-9287-1349,Solved,2024-02-15 13:08:45,,Extra Care,Nester Lippitt,Process::Expectation Gap::Compliance Gap,Assessment,KYC::Other
+cuea-6588-7494,Open,2024-02-12 12:53:22,,Extra Care,Ermengarde Vine,People::Incorrect Action::Incomplete Outcome,Escalation,KYC::CDD::SOW issue
+iikr-3452-6108,Open,2024-04-07 23:26:24,,Extra Care,Even Haszard,People::Incorrect Action::Procedural Adherence,Handling,
+bsff-8590-6309,Closed,2024-06-10 18:56:14,2024-06-28 12:20:21,Extra Care,Blondie Lamas,Knowledge::Knowledge Base::KB Missing,Escalation,KYC::Verification::IDWL
+huxj-5729-7580,Hold,2024-06-17 02:31:20,,Extra Care,Sheridan Owen,System::Customer Usage Issue::Customer Input or Error,Handling,Money Moving::Wise Card::Account change effect
+xokc-1059-2629,Hold,2024-01-22 14:29:18,,Extra Care,Somerset Katte,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,
+joms-4942-4611,Solved,2024-05-17 07:05:15,2024-06-02 06:16:13,Extra Care,Harwell Silley,Process::Expectation Gap::Speed Gap,Assessment,
+amob-2602-0838,Solved,2024-06-22 10:48:53,2024-06-29 13:02:00,Extra Care,Matti Thirtle,BOD,Takeover,KYC::POAT
+zail-0842-7865,Open,2024-05-10 04:12:14,,Extra Care,Osgood Gannicleff,System::Customer Usage Issue::Accessibility,Takeover,Compliance::Fraud::Deactivation
+vhtl-0115-5726,Hold,2024-05-30 12:09:34,,Extra Care,Dre Bucham,Process::Internal Process Issue::Unmonitored Channel,Takeover,KYC::Verification::Other
+suri-8084-3787,Solved,2024-01-11 13:25:14,2024-01-23 15:10:32,Extra Care,Lew Barkly,People::Vulnerability::Identification,Assessment,Accessibility
+nacr-4012-5305,Hold,2024-01-24 05:03:50,,Extra Care,Dorotea Stammer,System::Customer Usage Issue::Customer Input or Error,Handling,Compliance::Fraud::Check
+sgea-9556-9297,Solved,2024-04-24 09:45:23,2024-04-27 19:26:24,Extra Care,Laural Heed,System::False Positive Outcome::Incorrect System Intervention,Escalation,
+ssqg-8514-0114,Solved,2024-04-10 15:40:56,2024-04-20 08:03:11,Extra Care,Guenevere Rakes,Process::Internal Process Issue::Unmonitored Channel,Escalation,Compliance::Sanctions::Deactivation
+ytlk-7613-3598,Open,2024-04-21 23:33:32,,Extra Care,Lucine Hurry,People::Vulnerability::Identification,Takeover,
+cohq-9275-9109,Open,2024-01-30 03:56:51,,Extra Care,Celie Drinkale,People::Incorrect Action::Procedural Adherence,Handling,
+arrm-1065-0690,Solved,2024-01-15 20:13:26,2024-01-27 21:54:42,Extra Care,Candis Phifer,Process::Expectation Gap::Compliance Gap,Escalation,
+eewa-6856-4988,Hold,2024-06-20 12:03:50,,Extra Care,Clarisse Ezele,People::Incorrect Action::Incorrect Guidance,Escalation,
+qwnf-5075-6881,Open,2024-05-27 14:22:07,,Extra Care,Juliana Senechell,System::Customer Usage Issue:Technical Issues,Handling,KYC::Other
+yxkx-3336-6958,Open,2024-05-16 21:04:50,,Extra Care,Shawnee Jelkes,People::Incorrect Action::Agent Decision,Escalation,
+cjgj-2363-8133,Hold,2024-04-04 05:07:17,,Extra Care,Jannel Swan,Process::Third Party Dependency::Third Party Access,Assessment,
+vxtk-3809-2250,Solved,2024-06-18 19:29:52,2024-07-16 10:15:19,Extra Care,Vince Schoular,Process::Internal Process Issue::Gap in Process,Takeover,Money Moving::Wise Card::Account change effect
+umoz-7405-9800,Closed,2024-06-03 00:33:05,2024-06-25 01:44:21,Extra Care,Kaitlyn MacColm,System::Customer Usage Issue::Accessibility,Assessment,Compliance::Sanctions::Check
+ruis-1660-0571,Closed,2024-06-06 01:28:15,2024-06-29 15:47:25,Extra Care,Jacklyn Tatershall,Process::Third Party Dependency::Third Party Info Delay,Takeover,Account::Other
+qepm-8610-6709,Solved,2024-05-13 06:46:47,,Extra Care,Lodovico Crotch,Knowledge::Knowledge Base::KB Missing,Handling,
+bzlv-0558-7090,Open,2024-06-19 05:36:50,,Extra Care,Erhart Fulker,System::Automation Issue::Intervention Failure,Assessment,
+bwbv-0427-1521,Hold,2024-02-17 02:32:56,,Extra Care,Mannie Volker,People::Incorrect Action::Incorrect Guidance,Assessment,Compliance::Fraud::ATO
+tbeb-4885-6355,Open,2024-05-23 13:17:17,,Extra Care,Nichol Beaver,Process::Expectation Gap::Speed Gap,Assessment,Compliance::Fraud::Check
+ivhc-2009-6049,Hold,2024-03-15 06:47:40,,Extra Care,Tirrell Kik,Process::Third Party Dependency::Third Party Error,Assessment,Money Moving::Wise Card::Dispute
+rwaq-1433-7724,Hold,2024-06-03 00:41:43,,Extra Care,Griselda Fayre,System::Automation Issue::Tooling Failure,Escalation,Account::Access and updates
+pvva-6282-7725,Hold,2024-04-23 13:20:35,,Extra Care,Adrienne Demonge,System::Customer Usage Issue::Accessibility,Takeover,Accessibility
+yglg-3054-7982,Closed,2024-03-04 20:17:40,2024-03-17 20:29:42,Extra Care,Philomena Barlace,Process::Org Delay::Insufficient Resource,Assessment,KYC::Other
+bobv-8947-7300,Solved,2024-01-29 04:03:59,2024-02-03 22:27:53,Extra Care,Rudiger Labrom,System::Customer Usage Issue::Accessibility,Assessment,
+kyfm-7087-0789,Closed,2024-05-26 01:31:25,2024-06-07 02:18:48,Extra Care,Rogers Robison,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+fqew-9906-9552,Open,2024-04-10 17:47:59,,Extra Care,Trenna Lechelle,System::Customer Usage Issue::Customer Input or Error,Takeover,
+ieyy-6301-3579,Closed,2024-02-25 09:10:21,,Extra Care,Darcee Dixcee,People::Customer Engagement::Tonal Issues,Takeover,
+ljrg-7634-0435,Closed,2024-03-19 15:57:32,2024-04-05 03:44:07,Extra Care,Natalie Parsons,People::Customer Engagement::Unclear Communication,Handling,
+rihx-1860-5784,Closed,2024-05-17 07:03:42,,Extra Care,Rosanna Overil,People::Incorrect Action::Incorrect Guidance,Takeover,Account::Other
+brst-1770-3052,Closed,2024-04-05 15:57:14,2024-04-19 00:01:51,Extra Care,Gretchen Blueman,People::Incorrect Action::Incomplete Outcome,Escalation,KYC::Verification::POA
+sjbx-6749-0108,Hold,2024-05-08 21:56:11,,Extra Care,Min Huyton,Process::Org Delay::Insufficient Resource,Assessment,Compliance::Sanctions::Deactivation
+xhzi-9970-4635,Closed,2024-04-14 23:33:45,2024-05-14 11:05:35,Extra Care,Vanda Pebworth,System::False Positive Outcome::Incorrect System Intervention,Takeover,Money Moving::Transfer
+dsco-7107-3945,Hold,2024-06-26 06:11:08,,Extra Care,Renado Rapley,System::Customer Usage Issue::Accessibility,Escalation,Compliance::Fraud::Scam
+muic-3935-6816,Open,2024-01-17 23:55:48,,Extra Care,Marlena Turle,Process::Org Delay::Insufficient Resource,Takeover,Account::Other
+nlbp-9846-3194,Hold,2024-02-02 23:52:50,,Extra Care,Katusha Suttaby,People::Customer Engagement::Unclear Communication,Assessment,Compliance::Sanctions::Check
+czbz-3856-2980,Open,2024-02-05 23:30:21,,Extra Care,Berry Housecroft,Process::Third Party Dependency::Third Party Access,Escalation,Compliance::Fraud::Check
+lxnc-5847-3369,Closed,2024-01-27 00:33:41,,Extra Care,Bobby Moroney,System::Information Limitation::Information Unclear,Handling,
+dhoo-6387-7354,Hold,2024-06-12 05:26:14,,Extra Care,Linoel Cauley,People::Incorrect Action::Incomplete Outcome,Escalation,Money Moving::Transfer
+fsef-5295-6571,Open,2024-03-29 03:55:06,,Extra Care,Merell Vedenichev,BOD,Takeover,KYC::POAT
+vtwh-0446-5732,Open,2024-01-12 03:02:10,,Extra Care,Mitchell Tryhorn,System::Automation Issue::Tooling Failure,Escalation,
+gljg-7960-8275,Open,2024-03-20 18:57:15,,Extra Care,Louella Prazor,Process::Expectation Gap::Speed Gap,Escalation,Compliance::Fraud::Deactivation
+xjne-5123-6280,Open,2024-05-30 16:01:50,,Extra Care,Laverne Drewett,People::Customer Engagement::Agent Understanding,Handling,KYC::POAT
+nhnz-4106-8119,Closed,2024-03-13 10:40:11,2024-03-29 23:23:33,Extra Care,Genevieve Enrique,BOD,Escalation,
+pywv-7266-8243,Open,2024-05-23 22:15:44,,Extra Care,Suzy Hackworth,Process::Org Delay::Insufficient Resource,Takeover,
+tdjx-5191-5299,Open,2024-04-25 12:30:06,,Extra Care,Ursuline Alfonsini,People::Incorrect Action::Incorrect Escalation,Escalation,KYC::CDD::SOW issue
+ajsp-6531-3845,Hold,2024-06-22 00:41:30,,Extra Care,Jon Bramley,BOD,Assessment,
+xbva-4657-2482,Hold,2024-04-21 17:51:06,,Extra Care,Kanya Comerford,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+lxmt-3454-5819,Open,2024-06-13 07:16:30,,Extra Care,Darnall Skittreal,System::Customer Usage Issue:Technical Issues,Handling,
+sclb-5809-8392,Open,2024-02-17 01:08:05,,Extra Care,Darnell Eates,Process::Third Party Dependency::Third Party Info Delay,Takeover,Money Moving::Wise Card::Account change effect
+vmev-4933-8455,Open,2024-04-06 23:53:36,,Extra Care,Beth Tilson,Process::Third Party Dependency::Third Party Access,Handling,Compliance::Surveillance
+nssh-4118-4254,Solved,2024-04-06 15:58:03,2024-04-15 04:41:40,Extra Care,Felicio De Vries,BOD,Assessment,
+utjw-6990-1104,Hold,2024-01-03 02:38:22,,Extra Care,Gerardo Brame,Process::Internal Process Issue::Gap in Process,Assessment,KYC::Other
+klqk-3196-1960,Solved,2024-04-10 01:24:33,2024-04-18 18:32:13,Extra Care,Nevile McNuff,Do not select::Customer Input or Error,Takeover,
+dxsr-2300-0921,Closed,2024-05-24 15:44:04,2024-06-07 10:00:46,Extra Care,Bennie Bowerman,People::Customer Engagement::Unreasonable Delay,Handling,
+wajt-3048-4929,Solved,2024-06-04 00:47:27,2024-06-06 08:08:31,Extra Care,Lark Biggerstaff,System::Information Limitation::Information Unclear,Assessment,
+kzhm-2587-0353,Open,2024-01-10 22:58:21,,Extra Care,Stella Reschke,Process::Expectation Gap::Speed Gap,Handling,KYC::Verification::POA
+kwzx-1919-2641,Closed,2024-05-28 15:23:22,2024-06-09 21:27:09,Extra Care,Billy Tolchard,People::Incorrect Action::Incorrect Escalation,Handling,Compliance::Fraud::ATO
+xjtm-6372-4118,Solved,2024-06-23 01:43:20,2024-07-01 22:41:17,Extra Care,Rosalinde Hessing,Do not select::Customer Input or Error,Escalation,KYC::Other
+zeut-2473-0549,Open,2024-01-21 03:05:46,,Extra Care,Milo Crafter,People::External Engagement::Third Party Engagement,Assessment,
+yaut-0085-7840,Solved,2024-03-18 04:58:17,2024-03-21 05:05:16,Extra Care,Nada Gebhard,People::External Engagement::Third Party Engagement,Assessment,
+uzlu-5066-3912,Closed,2024-04-21 12:56:36,,Extra Care,Karoline Gasson,People::External Engagement::Third Party Engagement,Takeover,KYC::Verification::POA
+nyza-4041-8107,Hold,2024-06-05 15:46:56,,Extra Care,Robbyn Southcomb,Process::Expectation Gap::Product Gap,Assessment,
+uzqc-3449-1890,Open,2024-05-27 23:46:13,,Extra Care,Seymour Leverett,People::Incorrect Action::Incorrect Escalation,Takeover,
+qsfs-2928-4620,Solved,2024-04-07 01:45:30,2024-05-06 19:06:01,Extra Care,Raquela Parmby,Process::Org Delay::Insufficient Resource,Assessment,
+eboh-8049-1477,Solved,2024-02-02 12:44:36,2024-02-17 01:03:08,Extra Care,Kyrstin Peakman,People::Customer Engagement::Unreasonable Delay,Handling,
+syuy-4679-9753,Open,2024-03-09 11:46:45,,Extra Care,Katey Cornewall,System::Automation Issue::Tooling Failure,Takeover,
+rpuc-6197-3933,Closed,2024-06-29 03:13:47,2024-07-20 18:25:21,Extra Care,Kaine Rubinchik,Process::Third Party Dependency::Third Party Access,Takeover,Money Moving::Wise Card::Card failure
+olgd-1908-5262,Hold,2024-04-28 11:00:53,,Extra Care,Mordecai Fairholm,People::Vulnerability::Appropriate Accommodation,Handling,
+przu-6277-1998,Solved,2024-06-10 13:21:49,,Extra Care,Joyous Ekell,Process::Third Party Dependency::Third Party Info Delay,Takeover,Money Moving::Wise Card::Account change effect
+nhrc-6463-7682,Solved,2024-02-16 02:42:13,2024-02-18 07:04:11,Extra Care,Rozanne Mylan,People::Customer Engagement::Unclear Communication,Handling,
+mxhl-8759-8795,Closed,2024-03-30 18:26:27,2024-04-27 16:27:35,Extra Care,Elset Lampe,People::Incorrect Action::Procedural Accuracy,Escalation,
+cgjg-1692-5422,Closed,2024-02-01 01:23:34,2024-02-06 04:44:50,Extra Care,Granville Ewenson,Process::Expectation Gap::Product Gap,Assessment,KYC::Other
+gyuw-4834-3540,Open,2024-06-01 13:48:03,,Extra Care,Lorant Fortesquieu,System::Customer Usage Issue::Customer Input or Error,Assessment,KYC::Verification::IDWL
+shzq-7393-0559,Hold,2024-04-08 16:45:07,,Extra Care,Hilliary Mackinder,Process::Third Party Dependency::Third Party Info Delay,Handling,KYC::Verification::POA
+vqdf-0289-2150,Open,2024-06-13 02:16:11,,Extra Care,Krissie Luparti,Process::Third Party Dependency::Third Party Error (Partner),Escalation,Compliance::AML::Deactivation
+jpue-4208-3736,Open,2024-01-24 01:59:11,,Extra Care,Abbey Scampion,Process::Expectation Gap::Speed Gap,Takeover,KYC::Verification::Other
+lbiu-9012-8352,Closed,2024-01-06 11:57:54,2024-01-16 11:31:16,Extra Care,Minny Gozzard,People::External Engagement::Third Party Engagement,Escalation,Compliance::Fraud::Scam
+njym-8149-7748,Hold,2024-06-23 17:14:33,,Extra Care,Lemuel Champniss,System::Automation Issue::Intervention Failure,Handling,
+dovj-1220-6814,Closed,2024-03-02 15:03:30,2024-03-24 17:51:26,Extra Care,Dagny Ebbles,People::Vulnerability::Appropriate Accommodation,Assessment,
+etym-4508-4997,Open,2024-05-29 08:16:53,,Extra Care,Nolana Chessor,People::Customer Engagement::Unreasonable Delay,Handling,Account::Access and updates
+wism-2751-3246,Closed,2024-05-18 10:03:15,,Extra Care,Odelia Sparshutt,People::Customer Engagement::Agent Understanding,Takeover,
+nrng-1891-5775,Solved,2024-05-09 23:41:27,2024-05-23 18:36:54,Extra Care,Lanny Masterman,System::False Positive Outcome::Incorrect System Intervention,Escalation,
+lajo-9954-2485,Hold,2024-02-02 16:42:36,,Extra Care,Delphinia Richardt,System::Automation Issue::Tooling Failure,Handling,KYC::Other
+jxxg-4212-1138,Open,2024-03-23 10:48:27,,Extra Care,Percy Brashier,System::Customer Usage Issue::Customer Input or Error,Takeover,
+jibh-4503-1555,Hold,2024-03-22 07:07:49,,Extra Care,Jemie McCleary,Process::Third Party Dependency::Third Party Info Delay,Handling,Accessibility
+bxep-4242-0057,Closed,2024-01-08 23:56:09,2024-02-05 15:41:37,Extra Care,Menard Triplow,System::Automation Issue::Tooling Failure,Assessment,
+pdjw-8161-2957,Solved,2024-03-18 19:57:36,,Extra Care,Annamarie Lehrle,BOD,Handling,KYC::CDD::SOW issue
+siah-3046-3952,Open,2024-03-14 19:19:44,,Extra Care,Aluino Von Der Empten,System::False Positive Outcome::Incorrect System Intervention,Handling,
+wuss-7737-5793,Closed,2024-05-05 15:17:53,2024-05-10 12:01:11,Extra Care,Ruthanne Yegorev,Process::Third Party Dependency::Third Party Access,Assessment,Money Moving::Wise Card::Dispute
+pzrz-0861-5153,Closed,2024-01-18 21:42:37,2024-01-22 07:50:41,Extra Care,Chelsea Waddie,System::Automation Issue::Intervention Failure,Escalation,
+trgs-0465-8571,Open,2024-01-17 21:31:22,,Extra Care,Ninnetta Mathou,People::External Engagement::Third Party Engagement,Assessment,
+sgeq-6298-6601,Solved,2024-03-29 16:49:06,2024-04-03 18:21:02,Extra Care,Roxie Bratch,Process::Internal Process Issue::Unmonitored Channel,Handling,
+lzjz-7961-6043,Solved,2024-05-18 13:47:44,2024-06-04 18:23:03,Extra Care,Otis Welfare,People::Customer Engagement::Tonal Issues,Escalation,
+hyyv-4607-2997,Closed,2024-01-08 08:46:06,2024-01-22 19:30:36,Extra Care,Kort Fudger,People::Incorrect Action::Incomplete Outcome,Escalation,
+tknd-8506-5726,Hold,2024-01-03 14:00:31,,Extra Care,Elnora Simmonett,System::Automation Issue::Intervention Failure,Handling,Account::Other
+swdz-1026-0957,Hold,2024-02-22 17:07:38,,Extra Care,Sky Leneham,People::External Engagement::Third Party Engagement,Assessment,
+twtf-2741-3070,Hold,2024-04-15 21:05:20,,Extra Care,Rich Incogna,System::Customer Usage Issue:Technical Issues,Assessment,
+xwkh-4396-7336,Hold,2024-01-07 11:57:32,,Extra Care,Selene Issatt,Process::Internal Process Issue::Unmonitored Channel,Assessment,
+nyzq-8698-4357,Open,2024-06-20 01:24:11,,Extra Care,Rod Benditt,People::Incorrect Action::Agent Decision,Assessment,KYC::Other
+ebjo-0112-7300,Solved,2024-02-17 00:03:00,2024-03-12 04:18:55,Extra Care,Valeda Youde,System::Customer Usage Issue::Customer Input or Error,Escalation,
+jgkn-9612-2503,Hold,2024-06-25 11:51:44,,Extra Care,Tammy Ghidoni,People::Incorrect Action::Incorrect Escalation,Takeover,
+wran-1737-1193,Open,2024-02-29 08:27:02,,Extra Care,Maurits Schachter,People::Customer Engagement::Unreasonable Delay,Escalation,KYC::POAT
+jtut-3288-6443,Open,2024-02-07 11:05:02,,Extra Care,Dagny Juden,Process::Expectation Gap::Product Gap,Escalation,KYC::CDD::SOW issue
+zfcu-0216-8805,Open,2024-04-27 18:06:07,,Extra Care,Robinett Teasell,People::Vulnerability::Identification,Escalation,KYC::Verification::POA
+kuer-5426-6015,Open,2024-02-26 20:49:30,,Extra Care,Philip Brereton,Process::Third Party Dependency::Third Party Error,Takeover,KYC::Deactivation
+ofqs-5555-1185,Solved,2024-02-25 05:58:26,2024-03-13 15:17:37,Extra Care,Gino Fitzhenry,People::Incorrect Action::Procedural Adherence,Escalation,Compliance::Fraud::Deactivation
+tnih-6892-4921,Closed,2024-03-22 12:48:20,,Extra Care,Ranice Jeanenet,System::Customer Usage Issue::Customer Input or Error,Handling,Compliance::AML::Deactivation
+besy-9521-2755,Solved,2024-01-12 09:01:09,,Extra Care,Birdie Buckhurst,People::Incorrect Action::Incomplete Outcome,Assessment,Compliance::AML::Check
+vtlm-4018-9216,Hold,2024-04-28 04:55:01,,Extra Care,Barbara-anne Meeny,Process::Org Delay::Insufficient Resource,Takeover,
+rzjr-6107-4317,Closed,2024-05-17 20:50:12,,Extra Care,Elias Coche,Process::Third Party Dependency::Third Party Error,Handling,Money Moving::Transfer
+brqr-7337-2025,Open,2024-04-01 22:57:34,,Extra Care,Lewie Ballingal,Process::Third Party Dependency::Third Party Info Delay,Escalation,KYC::CDD::SOW Deactivation
+ydxx-8623-0382,Solved,2024-04-21 21:42:07,2024-05-03 07:43:23,Extra Care,Hadley Kemish,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,Money Moving::Wise Card::Dispute
+dwoi-9519-4092,Open,2024-06-20 07:00:30,,Extra Care,Bendick Bale,People::Customer Engagement::Agent Understanding,Escalation,
+dzhd-9218-4660,Hold,2024-04-08 23:54:02,,Extra Care,Elane Vala,Process::Third Party Dependency::Third Party Error (Partner),Takeover,
+qxgj-5717-5372,Open,2024-06-12 12:32:47,,Extra Care,Donielle Kirsz,People::Incorrect Action::Incorrect Escalation,Handling,KYC::POAT
+hqjf-2400-2502,Solved,2024-06-14 17:19:16,2024-06-23 05:28:35,Extra Care,Taffy Rubinowitz,People::External Engagement::Third Party Engagement,Assessment,
+clkv-6290-1741,Open,2024-01-19 08:47:29,,Extra Care,Heidie Denyer,People::Customer Engagement::Tonal Issues,Takeover,Compliance::Fraud::Check
+kefc-4041-9292,Open,2024-06-17 03:56:21,,Extra Care,Ramonda Mourton,System::Automation Issue::Intervention Failure,Escalation,
+mxsw-9053-7418,Hold,2024-03-02 11:51:11,,Extra Care,Tull Boyse,Process::Expectation Gap::Compliance Gap,Handling,
+uhjr-4110-5010,Solved,2024-05-27 19:32:10,2024-06-21 00:24:29,Extra Care,Cam Hedingham,Process::Third Party Dependency::Third Party Error,Handling,Money Moving::Transfer
+xlrd-4556-8938,Solved,2024-02-16 01:57:26,2024-02-21 05:50:11,Extra Care,Farra Garlinge,People::Incorrect Action::Incomplete Outcome,Handling,KYC::Verification::Missing document
+yaar-8969-1458,Open,2024-05-21 13:52:58,,Extra Care,Casper Sloper,People::Incorrect Action::Incorrect Guidance,Assessment,KYC::POAT
+kvcm-8732-0460,Closed,2024-02-02 08:20:36,2024-02-10 16:49:04,Extra Care,Manfred Gillcrist,Process::Expectation Gap::Product Gap,Takeover,
+ggwx-4033-2746,Solved,2024-05-10 09:33:03,2024-05-17 04:48:16,Extra Care,Celie Ivashnikov,Process::Internal Process Issue::Unmonitored Channel,Takeover,KYC::Verification::POA
+jupn-6758-1407,Solved,2024-06-18 04:05:31,,Extra Care,Penny Raubenheimer,Knowledge::Outward Facing Information::External Publication Misleading,Takeover,Compliance::Fraud::Scam
+uxqf-1803-9235,Solved,2024-06-20 13:21:45,2024-07-09 21:05:48,Extra Care,Jae Joiner,People::Incorrect Action::Incorrect Guidance,Handling,
+fzeh-7969-6464,Hold,2024-03-01 03:42:04,,Extra Care,Garreth Staniford,Process::Org Delay::Insufficient Resource,Handling,Compliance::Fraud::Deactivation
+ylxj-7875-3141,Hold,2024-01-06 05:57:11,,Extra Care,Ginnifer Patty,Process::Internal Process Issue::Unmonitored Channel,Assessment,
+pnxr-0312-2477,Open,2024-05-15 16:00:01,,Extra Care,Zonda Flatman,People::Customer Engagement::Tonal Issues,Takeover,KYC::Verification::IDWL
+botw-9074-3127,Open,2024-04-27 23:34:01,,Extra Care,Kelcy Wigley,Process::Expectation Gap::Speed Gap,Escalation,Money Moving::Balances
+feki-7073-4036,Open,2024-02-09 19:11:56,,Extra Care,Debera Lumber,Process::Third Party Dependency::Third Party Info Delay,Takeover,KYC::Verification::POA
+nfqb-8263-4489,Open,2024-05-16 07:18:10,,Extra Care,Thaddeus Trehearne,People::Customer Engagement::Agent Understanding,Assessment,KYC::Verification::IDWL
+jore-6736-1953,Open,2024-03-08 04:13:41,,Extra Care,Ethyl Stringer,Knowledge::Knowledge Base::KB Missing,Takeover,
+htxp-5687-8536,Open,2024-03-03 09:40:26,,Extra Care,Julius Smetoun,Process::Expectation Gap::Speed Gap,Escalation,
+eabw-2899-6734,Hold,2024-06-17 08:31:02,,Extra Care,Loree Barefoot,People::Customer Engagement::Unreasonable Delay,Handling,KYC::CDD::SOW Deactivation
+zdah-2780-0857,Hold,2024-04-15 23:53:03,,Extra Care,Meir Creedland,People::Incorrect Action::Incomplete Outcome,Assessment,
+xdng-0153-7632,Open,2024-03-31 03:59:24,,Extra Care,Paulo Bellingham,People::Incorrect Action::Agent Decision,Takeover,
+tebs-7095-9579,Open,2024-04-04 09:06:05,,Extra Care,Jack Blucher,People::Customer Engagement::Agent Understanding,Takeover,
+ajol-0405-6635,Solved,2024-05-27 13:02:24,,Extra Care,Kelley Wrotchford,Process::Internal Process Issue::Unmonitored Channel,Escalation,Compliance::Fraud::ATO
+dihz-8041-5965,Hold,2024-01-09 04:47:23,,Extra Care,Gallagher Rosini,People::Vulnerability::Appropriate Accommodation,Handling,KYC::Verification::IDWL
+dvmt-5095-9737,Solved,2024-01-23 16:48:34,2024-02-22 15:10:31,Extra Care,Lalo Heinsh,Process::Expectation Gap::Compliance Gap,Escalation,
+deox-5482-2106,Open,2024-04-04 14:07:22,,Extra Care,Gianina Pender,Process::Internal Process Issue::Unmonitored Channel,Escalation,
+grnt-9506-8704,Hold,2024-01-11 10:43:49,,Extra Care,Aarika Piffe,System::Customer Usage Issue::Customer Input or Error,Takeover,
