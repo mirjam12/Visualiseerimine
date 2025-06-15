@@ -1,33 +1,28 @@
-# Re-import necessary libraries after reset
+import streamlit as st
 import pandas as pd
-import json
 import folium
 from folium import Choropleth, GeoJsonTooltip
+from streamlit_folium import st_folium
+import json
 
-# Load complaints data
-complaints = pd.read_csv("/mnt/data/complaints.csv", parse_dates=["complaint_date"])
-
-# Load geojson
-with open("/mnt/data/custom.geojson", "r", encoding="utf-8") as f:
+# Load data
+complaints = pd.read_csv("complaints.csv", parse_dates=["complaint_date"])
+with open("custom.geojson", "r") as f:
     geojson_data = json.load(f)
 
-# Extract month
+# Preprocess
 complaints["month"] = complaints["complaint_date"].dt.to_period("M").astype(str)
-
-# Aggregate total complaints per country (across all months)
 country_counts = complaints['complaint_location_country'].value_counts().reset_index()
 country_counts.columns = ['country', 'complaint_count']
-complaint_lookup = dict(zip(country_counts['country'], country_counts['complaint_count']))
+lookup = dict(zip(country_counts['country'], country_counts['complaint_count']))
 
 # Inject counts into geojson
 for feature in geojson_data["features"]:
     name = feature["properties"].get("name")
-    feature["properties"]["complaint_count"] = complaint_lookup.get(name, 0)
+    feature["properties"]["complaint_count"] = lookup.get(name, 0)
 
-# Create folium map
+# Create map
 m = folium.Map(location=[20, 0], zoom_start=2, tiles="CartoDB positron")
-
-# Add choropleth
 Choropleth(
     geo_data=geojson_data,
     data=country_counts,
@@ -39,14 +34,11 @@ Choropleth(
     legend_name="Kaebuste arv riigi kohta"
 ).add_to(m)
 
-# Add tooltips
 folium.GeoJson(
     geojson_data,
-    name="Kaebused",
-    tooltip=GeoJsonTooltip(fields=["name", "complaint_count"], aliases=["Riik", "Kaebuste arv"])
+    tooltip=GeoJsonTooltip(fields=["name", "complaint_count"], aliases=["Riik", "Kaebused"])
 ).add_to(m)
 
-# Save map
-map_path = "/mnt/data/complaints_choropleth_map.html"
-m.save(map_path)
-map_path
+# Render in Streamlit
+st.title("Kaebuste kaart")
+st_data = st_folium(m, width=800, height=500)
