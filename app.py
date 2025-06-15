@@ -34,10 +34,13 @@ Choropleth(
     columns=["country", "complaint_count"],
     key_on="feature.properties.name",
     fill_color="YlOrRd",
-    fill_opacity=0.7,
+    fill_opacity=0.9,
     line_opacity=0.2,
-    legend_name="Kaebuste arv riigi kohta"
+    legend_name="Kaebuste arv riigi kohta",
+    bins=[1, 15, 50, 100, 150, 250],  # You can tweak these manually
+    nan_fill_color="lightgray",
 ).add_to(m)
+
 
 folium.GeoJson(
     geojson_data,
