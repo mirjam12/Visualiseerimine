@@ -11,6 +11,11 @@ with open("custom.geojson", "r") as f:
     geojson_data = json.load(f)
 
 # Preprocess
+# Replace country name to match GeoJSON
+complaints["complaint_location_country"] = complaints["complaint_location_country"].replace({
+    "United States": "United States of America"
+})
+
 complaints["month"] = complaints["complaint_date"].dt.to_period("M").astype(str)
 country_counts = complaints['complaint_location_country'].value_counts().reset_index()
 country_counts.columns = ['country', 'complaint_count']
