@@ -1,3 +1,7 @@
 pandas
 sklearn
+streamlit
+pandas
 folium
+matplotlib
+python-dateutil
