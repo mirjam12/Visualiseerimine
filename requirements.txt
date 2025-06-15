@@ -3,5 +3,4 @@ streamlit-folium
 pandas==2.2.2
 folium==0.16.0
 matplotlib
-scikit-learn
 python-dateutil==2.9.0.post0
