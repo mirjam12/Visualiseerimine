@@ -64,7 +64,8 @@ elif view == "KPI graafikud":
     KPI['Month'] = KPI['Month'].dt.to_period('M').dt.strftime('%Y-%m')
 
     # 1. Grouped bar chart by Region
-    st.subheader("Stage1 Sissetulnud juhtimite arv kuude ja regioonide lõikes")
+    st.subheader("1. etapi sissetulnud juhtimite arv kuude ja regioonide lõikes")
+    st.caption("See diagramm näitab 1. etapi kaebuste arvu kuude ja regioonide lõikes. Võimaldab võrrelda, kuidas kaebuste hulk on muutunud erinevates piirkondades aja jooksul.")
     plt.figure(figsize=(10, 6))
     sns.barplot(
         data=KPI,
@@ -79,46 +80,44 @@ elif view == "KPI graafikud":
     st.pyplot(plt.gcf())
     plt.clf()
 
-    # 2. Dual axis: Volume + QA Score
-    st.subheader("Stage1 Kaebuste Volüüm ja QA Skoorid")
+    # 2. Dual line chart: Volume + QA Score
+    st.subheader("1. etapi kaebuste volüüm ja kvaliteedi Skoorid")
+    st.caption("See graafik kuvab 1. etapi kaebuste mahu ja kvaliteediskoori ajas joondiagrammina, võimaldades tuvastada korrelatsioone nende kahe näitaja vahel.")
     KPI['Month_dt'] = pd.to_datetime(KPI['Month'], format='%Y-%m')
     monthly_data = KPI.groupby('Month_dt', as_index=False)[['Stage1_Received_Volume', 'Stage1_QA_Pass_Rate']].mean()
-    fig, ax1 = plt.subplots(figsize=(12, 6))
-    ax1.bar(monthly_data['Month_dt'], monthly_data['Stage1_Received_Volume'], color='#ffc0cb', alpha=0.6)
-    ax1.set_xlabel('Kuu')
-    ax1.set_ylabel('Stage1 Vastuvõetud Volüüm', color='#db7093')
-    ax1.tick_params(axis='y', labelcolor='#db7093')
-
-    ax2 = ax1.twinx()
-    ax2.plot(monthly_data['Month_dt'], monthly_data['Stage1_QA_Pass_Rate'], color='#e75480', marker='o')
-    ax2.set_ylabel('Stage1 QA Hinnang (%)', color='#e75480')
-    ax2.tick_params(axis='y', labelcolor='#e75480')
-    plt.title('Stage1 Kaebuste Volüüm ja QA Skoorid (Keskmine, kuude lõikes)')
+    fig, ax = plt.subplots(figsize=(12, 6))
+    ax.plot(monthly_data['Month_dt'], monthly_data['Stage1_Received_Volume'], label='Stage1 Vastuvõetud Volüüm', color='#ff69b4', marker='o')
+    ax.plot(monthly_data['Month_dt'], monthly_data['Stage1_QA_Pass_Rate'], label='Stage1 QA Skoor (%)', color='#e75480', marker='s')
+    ax.set_xlabel('Kuu')
+    ax.set_ylabel('Väärtused')
     plt.xticks(rotation=45)
+    plt.title('Stage1 Kaebuste Volüüm ja QA Skoorid (Keskmine, kuude lõikes)')
+    plt.legend()
     plt.tight_layout()
     st.pyplot(fig)
     plt.clf()
 
     # 3. Stage1 vs Stage2 Volume
-    st.subheader("Stage1 vs Stage2 Kaebuste arv ajas")
+    st.subheader("1. etapi vs 2. etapi kaebuste arv ajas")
+    st.caption("See graafik võrdleb kahe kaebuste tööetapi sissetulnud juhtimite arvu. Vajalik visuaal selleks, et näha, millal rohkem kaebusi on edasi liikunud järgmisesse etappi.")
     monthly_data_stage1 = KPI.groupby('Month_dt', as_index=False)[['Stage1_Received_Volume', 'Stage1_QA_Pass_Rate']].mean()
     monthly_data_stage2 = KPI.groupby('Month_dt', as_index=False)['Stage2_Received_Volume'].mean()
     fig, ax1 = plt.subplots(figsize=(12, 6))
-    ax1.plot(monthly_data_stage1['Month_dt'], monthly_data_stage1['Stage1_Received_Volume'], color='#ff69b4', label='Stage1 Vastuvõetud Volüüm')
+    ax1.plot(monthly_data_stage1['Month_dt'], monthly_data_stage1['Stage1_Received_Volume'], color='#ff69b4', label='Stage1 Vastuvõetud Volüüm', marker='s')
     ax1.set_xlabel('Kuu')
-    ax1.set_ylabel('Volüüm', color='#ff69b4')
-    ax1.tick_params(axis='y', labelcolor='#ff69b4')
+    ax1.set_ylabel('Volüüm', color='#000000')
+    ax1.tick_params(axis='y', labelcolor='#000000')
     plt.xticks(rotation=45)
-    ax1.plot(monthly_data_stage2['Month_dt'], monthly_data_stage2, color='#ffb6c1', label='Stage2 Vastuvõetud Volüüm')
+    ax1.plot(monthly_data_stage2['Month_dt'], monthly_data_stage2, color='#ffb6c1', label='Stage2 Vastuvõetud Volüüm', marker='o')
     fig.suptitle('Stage1 ja Stage2 kaebuste arv ajas')
     fig.legend(loc='upper left', bbox_to_anchor=(0.1, 0.9))
     fig.tight_layout()
     st.pyplot(fig)
 
 elif view == "Protsessi skeem":
-    st.title("📋 Protsessi skeem")
+    st.title("Protsessi skeem")
     st.image(
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioVCDMcr_fAMpIbI95X_VNS1d3pnmFU5WPtNK5RnYXkIw-VBHvLDUXOz-wakFmeEhSdizASE8wKk_kyM8_KvaBniRDXMSyoiojNyjGSIeNYSQm_H4LM-WrxDjOzwYoJGA0kkC969ishwzA/s1600/2016-03-07_1624.png",
+        "https://i.ibb.co/LdYQw5n7/Protsessi-kirjeldus.png",
         caption="Protsessi skeem",
-        use_column_width=True
+        use_container_width=True
     )
