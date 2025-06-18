@@ -1,6 +1,6 @@
 streamlit==1.35.0
-streamlit-folium
 pandas==2.2.2
-folium==0.16.0
 matplotlib
-python-dateutil==2.9.0.post0
+seaborn
+folium==0.16.0
+streamlit-folium
