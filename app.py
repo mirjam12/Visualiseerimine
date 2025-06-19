@@ -14,7 +14,7 @@ sns.set_style("whitegrid")
 sns.set_palette(["#e75480", "#ffb6c1", "#ff69b4", "#db7093", "#ffc0cb"])
 
 # Sidebar dropdown for view selection
-view = st.sidebar.radio("Vali vaade:", ("Kaebuste kaart", "KPI graafikud", "Protsessi skeem"))
+view = st.sidebar.radio("Vali vaade:", ("Kaebuste kaart", "KPI graafikud", "Joonised"))
 
 if view == "Kaebuste kaart":
     st.title("Kaebuste kaart")
@@ -114,10 +114,18 @@ elif view == "KPI graafikud":
     fig.tight_layout()
     st.pyplot(fig)
 
-elif view == "Protsessi skeem":
+elif view == "Joonised":
     st.title("Protsessi skeem")
     st.image(
         "https://i.ibb.co/LdYQw5n7/Protsessi-kirjeldus.png",
         caption="Protsessi skeem",
         use_container_width=True
     )
+
+
+    st.title("Fakt")
+    st.image(
+        "https://i.ibb.co/99zFBDqy/Screenshot-2025-06-19-at-21-31-55.png",
+        caption="Fakt",
+        use_container_width=True
+    ) 
