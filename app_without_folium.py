@@ -100,17 +100,22 @@ elif view == "KPI graafikud":
     st.pyplot(fig)
 
 elif view == "Joonised":
-    st.title("Protsessi skeem")
+    st.image(
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/600px-HD_transparent_picture.png",
+    caption="Test Image",
+    use_container_width=True
+    )
+    '''st.title("Protsessi skeem")
     st.image(
         "https://i.ibb.co/LdYQw5n7/Protsessi-kirjeldus.png",
         caption="Protsessi skeem",
         use_container_width=True
-    )
+    ) '''
 
 
-    st.title("Fakt")
+   ''' st.title("Fakt")
     st.image(
         "https://i.ibb.co/99zFBDqy/Screenshot-2025-06-19-at-21-31-55.png",
         caption="Fakt",
         use_container_width=True
-    ) 
+    ) '''
