@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
-import folium
-from folium import Choropleth, GeoJsonTooltip
-from streamlit_folium import st_folium
+#import folium
+#from folium import Choropleth, GeoJsonTooltip
+#from streamlit_folium import st_folium
 import json
 import matplotlib.pyplot as plt
 import seaborn as sns
