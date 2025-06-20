@@ -2,5 +2,6 @@ streamlit==1.35.0
 pandas==2.2.2
 matplotlib
 seaborn
-
+folium==0.16.0Add commentMore actions
+streamlit-folium
 plotly==5.22.0
